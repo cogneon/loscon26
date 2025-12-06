@@ -1,8 +1,9 @@
 # Design
 
 ## Farben und Fonts
-- **Farbe rot:** #ed1b24
-- **Farbe blau:** #2e3192
+- **Farbe Grün dunkel:** #003B00
+- **Farbe Grün mittel:** #008F11
+- **Farbe Grün hell:** #00FF41
 - **Font:** [Army Rust](https://www.dafont.com/army-rust.font)
 
 ## Key Visual
@@ -11,6 +12,5 @@
 Download: [svg](./img/loscon25-badge.svg)
 
 ## Musik
-London Techno Tube (Mind the Gap Remix9 von Oskar Brennan
+tbd.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1pYZrtSzXu4?si=eGQcQ8k5ueoSpA77" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
