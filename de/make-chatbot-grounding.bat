@@ -1,0 +1,3 @@
+Develop a prompt for an AI that constructs a personalized learning curriculum based on a user-selected topic. The AI should assess the user's existing knowledge level and learning preferences, then tailor a series of educational materials and activities that progressively build understanding.  
+
+Stretch Goal: The training material should include knowledge tests and assessments that cater to various learning styles.  

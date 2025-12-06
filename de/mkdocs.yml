@@ -1,0 +1,79 @@
+site_name: lernOS Convention 2025
+site_description: Infoseiten zur lernOS Convention 2025 mit allen Informationen zur Veranstaltung am 1.-2. Juli 2025.
+site_url: https://loscon.lernos.org/de
+docs_dir: src
+site_dir: ../docs/de
+edit_uri: ""
+
+repo_name: 'cogneon/loscon25'
+repo_url: 'https://github.com/cogneon/loscon25'
+
+
+nav:
+- Startseite: index.md
+- Kommunikation: communication.md
+- FAQ: faq.md
+- Vorbereitung:
+  - Vorab-Webkonferenz: pre-call.md
+  - Close the Gap!: gap-closer.md
+  - Merch: merch.md
+  - lernOS Smart Card: smartcard.md
+  - Mitbringen: to-bring.md
+  - Anreise: getting-there.md
+  - Nachhaltigkeit: sustainability.md
+  - Vorabend: eve.md
+- Veranstaltungsort:
+  - Burg Nürnberg: location.md
+  - Satelliten: loscon-everywhere.md
+  - Barrierefreiheit: accessibility.md
+  - Podcast-Tisch: podcasting.md
+- Programm:
+  - Coworking: coworking.md
+  - Programm: program.md
+  - Promptathon: promptathon.md
+  - Abendprogramm: party.md
+  - Dokumentation: documentation.md
+  - Archiv: archive.md
+- Toolset:
+  - Hybrid Meeting Kit: hmk.md
+  - Teams: teams.md
+  - Discord: discord.md
+  - Remo: remo.md
+  - Netzwerk: network.md
+- Orga:
+  - Orga-Team: orga-team.md
+  - Design: design.md
+  - Infoseiten bearbeiten: infopages.md
+  - Auf-/Abbau: logistics.md
+  - Badge: badge.md
+  - Stückliste: bom.md
+  - Email: email.md
+
+theme:
+    name: readthedocs
+    custom_dir: src/overrides
+    locale: de
+    logo: img/loscon25-badge.png
+
+copyright: Creative Commons Namensnennung 4.0 International (CC BY)
+
+extra_css:
+  - loscon.css
+
+extra_javascript:
+  - javascripts/matomo.js
+
+extra:
+    analytics:
+       provider: custom
+    giscus: true
+    generator: false
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - search

@@ -1,0 +1,29 @@
+name: lernOS Produktionskette
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-latest
+    steps:
+      # Repository auschecken, damit Workflow es nutzen kann
+      - uses: actions/checkout@v3
+      
+      # Delete Old Versions
+      - run: rm -rf ./docs/de/*
+
+      # Create Web Version (mkdocs)
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - run: pip install mkdocs
+      - run: pip install pymdown-extensions
+      - run: pip install mkdocs-rss-plugin
+      - run: pip install mkdocs-rss-plugin
+      - run: pip install mkdocs-markmap
+      - run: mkdocs build -f ./de/mkdocs.yml
+
+      # Geänderte Datein zurück ins Repository committen
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Erzeugt von automatischer lernOS Produktionskette
