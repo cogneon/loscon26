@@ -1,6 +1,6 @@
-# Promptathon
+# Makeathon
 
-Nach dem [Prompt Battle bei der loscon24](https://www.youtube.com/watch?v=Nwz0WBeg1Zg), werden wir bei der lernOS Convention 2025 gemeinsam das **Format Promptathon** ausprobieren! Dabei werdet ihr in Teams von 5-6 Personen lernen, wie ihr **KI-Tools & Chatbots** wie z.B. ChatGPT, Microsoft Copilot, Gemini oder lokale KI nutzt, um Wissenslücken zu identifizieren und zu schließend - **Die KI als Lernbegleiter**! Beispiel CLC Promptathon ([Video](https://www.youtube.com/watch?v=GlcJpY6D0Is)) und Telekom Promptathon ([Quelle](https://www.telekom.com/de/blog/konzern/artikel/wie-ich-unseren-promptathon-erlebte-1049068)):
+Nach dem Promptathon auf der loscon25, werden wir bei der lernOS Convention 2026 gemeinsam einen **Format Makeathon** ausprobieren! Dabei werdet ihr in Teams von 5-6 Personen lernen, wie ihr **KI-Tools & Chatbots** wie z.B. ChatGPT, Microsoft Copilot, Gemini oder lokale KI nutzt, um Wissenslücken zu identifizieren und zu schließend - **Die KI als Lernbegleiter**! Beispiel CLC Promptathon ([Video](https://www.youtube.com/watch?v=GlcJpY6D0Is)) und Telekom Promptathon ([Quelle](https://www.telekom.com/de/blog/konzern/artikel/wie-ich-unseren-promptathon-erlebte-1049068)):
 
 ![](https://www.telekom.com/resource/image/1049078/landscape_ratio4x3/768/576/13fcb1d505b9cbac0fac165fb8a0daf6/237253CD11B510A8D5D38BF6BB9C6A91/bi-20230918-promptathon-03.jpg)
 

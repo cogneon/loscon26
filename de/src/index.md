@@ -1,8 +1,8 @@
-# Willkommen zur lernOS Convention 2026 💛
+# Willkommen zur lernOS Convention 2026 💚
 
 ![](img/loscon25-key-visual-banner.png)
 
-Die **10. lernOS Convention** ([#loscon26](https://cogneon.github.io/mastowall/?hashtags=loscon26,loscon25,lernos&server=https://colearn.social)) findet vom **23.-24. Juni 2026** auf der **Kaiserburg Nürnberg**, in **dezentralen Satelliten** & **Online** statt (hybride Veranstaltung). Das Motto ist **tbd”**.
+Die **10. lernOS Convention** ([#loscon26](https://cogneon.github.io/mastowall/?hashtags=loscon26,loscon25,lernos&server=https://colearn.social)) findet vom **23.-24. Juni 2026** auf der **Kaiserburg Nürnberg**, in **dezentralen Satelliten** & **Online** statt (hybride Veranstaltung). Das Motto ist **"AI for Work that Works!"**.
 
 Die **lernOS Convention** ist das Top-Event zu **Wissensmanagement** und **Lernenden Organisationen** im deutschsprachigen Raum. Der digitale Arbeitsplatz, moderne Intranets, New Ways of Working und persönliches Wissensmanagement für Wissensarbeiter:innen und Lernende Teams sind die zentralen Themen.
 

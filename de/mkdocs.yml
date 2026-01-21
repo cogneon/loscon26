@@ -15,13 +15,12 @@ nav:
 - FAQ: faq.md
 - Vorbereitung:
   - Vorab-Webkonferenz: pre-call.md
-  - Close the Gap!: gap-closer.md
   - Merch: merch.md
   - lernOS Smart Card: smartcard.md
   - Mitbringen: to-bring.md
   - Anreise: getting-there.md
   - Nachhaltigkeit: sustainability.md
-  - Vorabend: eve.md
+  - Vorabend (22.06.): eve.md
 - Veranstaltungsort:
   - Burg Nürnberg: location.md
   - Satelliten: loscon-everywhere.md
@@ -30,15 +29,15 @@ nav:
 - Programm:
   - Coworking: coworking.md
   - Programm: program.md
-  - Promptathon: promptathon.md
+  - Makeathon: makeathon.md
   - Abendprogramm: party.md
+  - Selbstorganisierte Sessions: sos.md
   - Dokumentation: documentation.md
   - Archiv: archive.md
 - Toolset:
   - Hybrid Meeting Kit: hmk.md
   - Teams: teams.md
   - Discord: discord.md
-  - Remo: remo.md
   - Netzwerk: network.md
 - Orga:
   - Orga-Team: orga-team.md
