@@ -23,6 +23,7 @@ Das Orga-Team hat ab dem 21.02.2025 einen **wöchentlichen Orga-Call** jeweils *
 1. [Nicole Denzel](https://www.linkedin.com/in/nicoledenzel/)
 1. [Roland Christian](https://www.linkedin.com/in/roland-christian72/)
 1. [Sabrina Stang](https://www.linkedin.com/in/sabrina-stang/)
+2. [Sandra Richter](https://www.linkedin.com/in/sandra-richter-coach/)
 1. [Simon Dückert](https://www.linkedin.com/in/simondueckert/)
 1. [Susann Schulz](https://www.linkedin.com/in/susannschulz/)
 1. [Thomas Schmidt](https://www.linkedin.com/in/thomasschmidt42/)
