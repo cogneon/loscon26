@@ -29,6 +29,6 @@ Das Orga-Team hat ab dem 21.02.2025 einen **wöchentlichen Orga-Call** jeweils *
 1. [Simon Dückert](https://www.linkedin.com/in/simondueckert/)
 1. [Susann Schulz](https://www.linkedin.com/in/susannschulz/)
 1. [Thomas Schmidt](https://www.linkedin.com/in/thomasschmidt42/)
-1. [Victoria Köstner](https://www.linkedin.com/in/victoria-k%C3%B6stner/) (Moderation)
+1. [Victoria Köstner](https://www.linkedin.com/in/victoria-k%C3%B6stner/)
 
 Wer noch vor Ort in Nürnberg bei der Organisation mithelfen mag, egal ob mit viel oder weniger Zeit, kann sich gerne jederzeit [bei Simon melden](mailto:simon.dueckert@cogneon.de?subject=loscon%20Orga).
