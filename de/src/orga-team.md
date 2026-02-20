@@ -9,7 +9,7 @@ Das Orga-Team hat ab dem 21.02.2025 einen **wöchentlichen Orga-Call** jeweils *
 - **Aufgabenverwaltung:** [Issues](https://github.com/cogneon/loscon25/issues) im Github-Repo der loscon
 - **Dateien:** Ordner in COSHARE (Nextcloud)
 
-## Das diesjährige loscon Team
+## Das diesjährige loscon Orga-Team
 
 1. [Anke Schiffer-Chollet](https://www.linkedin.com/in/anke-schiffer-chollet/)
 1. [Benedikt Scheerer](https://www.linkedin.com/in/benedikt-scheerer-6020ba18/)
@@ -17,12 +17,11 @@ Das Orga-Team hat ab dem 21.02.2025 einen **wöchentlichen Orga-Call** jeweils *
 1. [Christian Kaiser](https://www.linkedin.com/in/christian-kaiser-datev/)
 1. [Doris Schuppe](https://www.linkedin.com/in/doschu/)
 1. [Ellen Braun](https://www.linkedin.com/in/ellen-braun-work-and-feelgood/)
-1. [Felix Harling](https://www.linkedin.com/in/felixharling/)
-1. [Frank Gerich](https://www.linkedin.com/in/frank-gerich/)
 1. [Hans Gaertner](https://www.linkedin.com/in/hgaertner/)
 1. [Harald Schirmer](https://www.linkedin.com/in/haraldschirmer/) (Moderation)
 1. [Marcel Kirchner](https://www.linkedin.com/in/marcelkirchner/)
 1. [Nicole Denzel](https://www.linkedin.com/in/nicoledenzel/)
+1. [Roland Christian](https://www.linkedin.com/in/roland-christian72/)
 1. [Sabrina Stang](https://www.linkedin.com/in/sabrina-stang/)
 1. [Simon Dückert](https://www.linkedin.com/in/simondueckert/)
 1. [Susann Schulz](https://www.linkedin.com/in/susannschulz/)
