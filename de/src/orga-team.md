@@ -21,7 +21,7 @@ Das Orga-Team hat ab dem 21.02.2025 einen **wöchentlichen Orga-Call** jeweils *
 1. [Harald Schirmer](https://www.linkedin.com/in/haraldschirmer/) (Moderation)
 1. [Heidi Milke-Erlwein](https://www.linkedin.com/in/heidi-milke-erlwein-81853b179/)
 1. [Marcel Kirchner](https://www.linkedin.com/in/marcelkirchner/)
-2. [Marina Kraft](https://www.linkedin.com/in/marinakraft/)
+2. [Marina Kraft](https://www.linkedin.com/in/marinakraft/) (Moderation)
 1. [Nicole Denzel](https://www.linkedin.com/in/nicoledenzel/)
 1. [Roland Christian](https://www.linkedin.com/in/roland-christian72/)
 1. [Sabrina Stang](https://www.linkedin.com/in/sabrina-stang/)
