@@ -1,8 +1,8 @@
 # Podcast-Tisch
 
-Auf der lernOS Convention gibt es einen **Podcast-Tisch**, an dem ihr euch über Podcasting informieren (s.a. [lernOS Podcast Leitfaden](https://cogneon.github.io/lernos-podcasting/de/)), aber auch eigene Podcasts aufnehmen könnt. Der Podcast-Tisch ist dieses Jahr sogar betreut, d.h. ihr müsst euch nicht um eigene Technik kümmern.
+Auf der lernOS Convention gibt es einen **Podcast-Tisch**, an dem ihr euch über Podcasting informieren (s.a. [lernOS Podcast Leitfaden](https://cogneon.github.io/lernos-podcasting/de/)), aber auch eigene Podcasts aufnehmen könnt. Der Podcast-Tisch ist dieses Jahr sogar betreut, d.h. ihr müsst euch nicht um eigene Technik kümmern (wenn ihr ein Speichermedium mitbringt, könnt ihr die Aufnahmen z.B. für eigene Podcasts mitnehmen).
 
-Das Programm am Podcast-Tisch ist im [loscon Programm](https://pretalx.com/loscon25/schedule/) beim **Raum Paddington** zu finden. Die Teilnehmenden können über den Kanal *#paddington* in [Discord](discord.md) zuhören und sich per Handzeichen im Podcast zu Wort melden. Podcastende können dem Kanal *#paddington* mit eigenem Laptop beitreten (nur Chat, kein Audio), um mit den Zuhörenden zu chatten.
+Das Programm am Podcast-Tisch ist in das loscon Programm integriert, Vorschläge für Podcast-Sessions können über den Call for Participation eingereicht werden.
 
 ![](./img/podcast-table.jpg)
 

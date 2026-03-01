@@ -7,9 +7,9 @@
 - **Font:** [Miltown](https://www.dafont.com/miltown.font)
 
 ## Key Visual
-![](img/loscon25-key-visual.png)
+![](img/loscon26-key-visual.png)
 
-Download: [svg](./img/loscon25-badge.svg)
+Download: [svg](./img/loscon26-key-visual.svg)
 
 ## Musik
 tbd.

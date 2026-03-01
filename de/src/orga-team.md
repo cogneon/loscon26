@@ -1,12 +1,12 @@
 # Orga-Team
 
-Das Orga-Team hat ab dem 21.02.2025 einen **wöchentlichen Orga-Call** jeweils **Freitags von 09:00 - 10:00 Uhr** per MS Teams. Die Retro ist am 11.07.2024 von 09:00 - 10:00 Uhr. Ihr erreicht das Orga-Team oer Email unter [loscon@lernos.org](mailto:loscon@lernos.org?subject=loscon24%20Kontakt%20Infoseite).
+Das Orga-Team hat ab dem 30.01.2026 einen **wöchentlichen Orga-Call** jeweils **Freitags von 10:05 - 10:55 Uhr** per MS Teams. Die Retro ist am 11.07.2026. Ihr erreicht das Orga-Team oer Email unter [loscon@lernos.org](mailto:loscon@lernos.org).
 
 ## Infrastruktur
 
 - **Kommunikation:** Kanal #orga-chat auf dem loscon Discord-Server und ein [öffentlicher Orga-Thread auf CONNECT](https://community.cogneon.de/t/loscon25-orga-thread/4139)
-- **Dokumentation:** [Wiki](https://github.com/cogneon/loscon25/wiki) im Github-Repo der loscon
-- **Aufgabenverwaltung:** [Issues](https://github.com/cogneon/loscon25/issues) im Github-Repo der loscon
+- **Dokumentation:** [Wiki](https://github.com/cogneon/loscon26/wiki) im Github-Repo der loscon
+- **Aufgabenverwaltung:** [Issues](https://github.com/cogneon/loscon26/issues) im Github-Repo der loscon
 - **Dateien:** Ordner in COSHARE (Nextcloud)
 
 ## Das diesjährige loscon Orga-Team
@@ -29,6 +29,5 @@ Das Orga-Team hat ab dem 21.02.2025 einen **wöchentlichen Orga-Call** jeweils *
 1. [Simon Dückert](https://www.linkedin.com/in/simondueckert/)
 1. [Susann Schulz](https://www.linkedin.com/in/susannschulz/)
 1. [Thomas Schmidt](https://www.linkedin.com/in/thomasschmidt42/)
-1. [Victoria Köstner](https://www.linkedin.com/in/victoria-k%C3%B6stner/)
 
-Wer noch vor Ort in Nürnberg bei der Organisation mithelfen mag, egal ob mit viel oder weniger Zeit, kann sich gerne jederzeit [bei Simon melden](mailto:simon.dueckert@cogneon.de?subject=loscon%20Orga).
+Wer noch vor Ort in Nürnberg bei der Organisation mithelfen mag, egal ob mit viel oder weniger Zeit, kann sich gerne jederzeit [bei uns melden](mailto:loscon@lernos.org).

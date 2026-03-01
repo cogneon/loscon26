@@ -18,7 +18,7 @@ Das Ticket wurde dir nach der Bestellung zugesandt. An allen Infomails zur Veran
 
 ### Ich habe die Email mit meinem Ticket nicht mehr, kann ich die nochmal erhalten?
 
-Na klar, einfach [im Ticketshop](https://pretix.eu/cogneon/loscon25/) auf *Link erneut senden* klicken, Email eingeben und das Ticket wird Dir nochmal zugeschickt.
+Na klar, einfach [im Ticketshop](https://pretix.eu/cogneon/loscon26/) auf *Link erneut senden* klicken, Email eingeben und das Ticket wird Dir nochmal zugeschickt.
 
 ### Gibt es eine Garderobe und Möglichkeit zum Abstellen von Koffern?
 
@@ -28,7 +28,7 @@ Ja, direkt im Foyer der Burg. Die Nutzung erfolgt auf eigenes Risiko.
 
 ### Wo finde ich das Programm?
 
-Das Programm findest Du unter https://pretalx.com/loscon25/schedule/ - am besten gleich zu den Favoriten hinzufügen oder über das Menü oben rechts im Kalender abonnieren (iCal).
+Das Programm findest Du unter [https://pretalx.com/loscon26/schedule/](https://pretalx.com/loscon26/schedule/) - am besten gleich zu den Favoriten hinzufügen oder über das Menü oben rechts im Kalender abonnieren (iCal).
 
 ### Wo finde ich die Teams-Einwahllinks?
 
@@ -36,7 +36,7 @@ Die Teams-Einwahllinks stehen im Discord-Server im Kanal *#programm*.
 
 ### Wie werden die Lightning Talks, Sessions, Workshops für das Programm vorausgewählt?
 
-Vorschläge für Lightning Talks, Sessions und Workshops müssen über den Call for Participation eingereicht werden. Das Content Team (Teil des Orga-Teams) stimmt über die Einreichungen ab und nimmt zum Thema passende Beiträge ins Programm. Die Hälfte der Sessions wird an Tag 2 der loscon vor Ort bestimmt.
+Vorschläge für Lightning Talks, Vorträge und Workshops müssen über den Call for Participation eingereicht werden. Das Content Team (Teil des Orga-Teams) stimmt über die Einreichungen ab und nimmt zum Thema passende Beiträge ins Programm. Die Barcamp-Sessions werden am 2. Tag im klassischen [Barcamp](https://de.wikipedia.org/wiki/Barcamp)-Modus vor Ort bestimmt.
 
 ### Brauchen Session-Geber*innen und Community-Assembly-Hosts auch ein Ticket?
 

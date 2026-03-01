@@ -1,6 +1,6 @@
 # Programm
 
-Das **Program der loscon** findet Ihr in der jeweils aktuellen Version unter [pretalx.com/loscon25/schedule](https://pretalx.com/loscon25/schedule/) finden. Diese Seite ist die zentrale Anlaufstelle für Euch, am besten ihr fügt den Link im Browser als Lesezeichen hinzu.
+Das **Program der loscon** findet Ihr in der jeweils aktuellen Version unter [pretalx.com/loscon26/schedule](https://pretalx.com/loscon26/schedule/) finden. Diese Seite ist die zentrale Anlaufstelle für Euch, am besten ihr fügt den Link im Browser als Lesezeichen hinzu.
 
 Einige Infos noch zu pretalx:
 
@@ -11,4 +11,4 @@ Einige Infos noch zu pretalx:
 
 ## Call for Participation
 
-Über den [Call for Participation](https://pretalx.com/loscon25/cfp) könnt ihr Programmvorschläge einreichen.
+Über den [Call for Participation](https://pretalx.com/loscon26/cfp) könnt ihr Programmvorschläge einreichen.

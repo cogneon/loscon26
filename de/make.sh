@@ -2,7 +2,7 @@
 echo Starting Generation ...
 
 # Variables
-filename="loscon25-infopages-full"
+filename="loscon26-context-file"
 chapters=$(find ./src -type f -name "*.md" | sort | tr '\n' ' ')
 
 # Create Markdown Version (one file)

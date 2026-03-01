@@ -2,6 +2,9 @@
 
 Zusammen mit der Vorgänger-Veranstaltung der lernOS Convention "KnowTouch" findet dieses Jahr das **8. lernOS Event** (KnowTouch, lernOS Camp, lernOS Convention)statt. Seit 2001 ist der Veranstaltungsort der lernOS Convention die Kaiserburg in Nürnberg. Infos und Dokumentation zu vergangenen Veranstaltungen findet Ihr [im offenen Wiki COPEDIA](https://wiki.cogneon.de/loscon).
 
+## lernOS Convention 2025
+[https://wiki.cogneon.de/loscon25](https://wiki.cogneon.de/loscon25)
+
 ## lernOS Convention 2024
 [https://wiki.cogneon.de/loscon24](https://wiki.cogneon.de/loscon24)
 

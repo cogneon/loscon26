@@ -1,47 +1,24 @@
 # loscon Satelliten
 
-**Zusammen ist man weniger allein!** Unter dem Motto **"loscon Everywhere"** wollen wir mit den sog. **loscon Satelliten** dezentrale Veranstaltungsorte für die lernOS Convention fördern (Vorbild: [Congress Everywhere des CCC](https://events.ccc.de/congress/2019/wiki/index.php/Congress_Everywhere)). Bei der loscon24 gab es z.B. eine Teilnahmemöglichkeit in einem Coworking Space in Solothurn in der Schweiz. Für die Teilnahme in einem Satelliten ist wie bei Teilnahme aus dem Home Office ein [Online-Ticket](https://pretix.eu/cogneon/loscon25/) notwendig. Wir fragen mit der Anmeldung zur loscon Satelliten-Angebote und -Nachfragen ab und unterstützen die Selbstorganisation wo möglich.
+**Zusammen ist man weniger allein!** Unter dem Motto **"loscon Everywhere"** wollen wir mit den sog. **loscon Satelliten** dezentrale Veranstaltungsorte für die lernOS Convention fördern (Vorbild: [Congress Everywhere des CCC](https://events.ccc.de/congress/2019/wiki/index.php/Congress_Everywhere)).
+
+Bei der loscon25 gab es Satelliten in München, Hamburg und Berlin. Für die Teilnahme in einem Satelliten ist wie bei Teilnahme aus dem Home Office ein [Online-Ticket](https://pretix.eu/cogneon/loscon26/) notwendig. 
 
 !!! tip "WICHTIG"
 
-    Für die einzelnen Satelliten sind ggf. extra Anmeldungen nötig. Bitte den Text beim jeweiligen Satellit genau lesen. Für die Teilnahme an einem Satelliten ist ein Online-Ticket notwendig. Wenn noch jemand einen Satellit im Rahmen der lernOS Convention anbieten möchte, bitte [mit Simon Kontakt aufnehmen](mailto:simon.dueckert@cogneon.de?subject=loscon%20Satellit).
+    Wenn ihr einen Satellit im Rahmen der lernOS Convention anbieten möchtet, nehmt bitte [Kontakt mit uns auf](mailto:loscon@lernos.org?subject=loscon%20Satellit).
 
 ## Die loscon Satelliten dieses Jahr
 
 ![](./img/loscon25-Satelliten-Karte.png)
 
-### München
-Der Satellit München ist bei der Lebensversicherung von 1871, bei der die loscon 2019 stattgefunden hat (Video). Reserviert ist ein schöner Raum im obersten Stock mit wunderbarer Aussicht über München.
+Die Planung der Satelliten für die loscon26 läuft noch. Aktuell sind gemeldet:
 
-- **Wer ist Ansprechpartner:** [Oliver Fischer](https://www.linkedin.com/in/oliver-fischer-63505b48/)
-- **Wo ist der Satellit:** LV1871, Maximiliansplatz 5 in 80333 München ([Karte](https://maps.app.goo.gl/w52mkmZrD8cQhHA88))
-- **Wann kann man da sein:**
-    - 01.07.2025: 12:00 - 18:00
-    - 02.07.2025: 08:30 - 16:00
-- **Wieviele Teilnehmende max.:** 20
-- **Anmeldung:** über [dieses Formular](https://forms.office.com/e/XdFyFCB9gy)
-- **Besonderheiten:**
-    - Für Verpflegung ist gesorgt. 
-    - Abendveranstaltung ist Abhängig von der TN-Anzahl. 
-    - Nur mit ÖPNV zu erreichen: [https://www.lv1871.de/service/kontakt](https://www.lv1871.de/service/kontakt)
-
-### Hamburg
-
-- **Wer ist Ansprechpartner:** Karl Damke
-- **Wo ist der Satellit:** Volkshochschule Hamburg
-- **Wann kann man da sein:** tbd.
-- **Wieviele Teilnehmende max.:** tbd.
-- **Anmeldung:** [per Email](mailto:kd@vhs-sh.de?subject=loscon25%20Satellit%20Hamburg)
-- **Besonderheiten:**
-
-### Berlin
-
-- **Wer ist Ansprechpartner:** [Brigitte Lüdecke](https://www.linkedin.com/in/brigitteluedecke/)
-- **Wo ist der Satellit:** tbd.
-- **Wann kann man da sein:** tbd.
-- **Wieviele Teilnehmende max.:** 12
-- **Anmeldung:** Bitte zeitnah melden (ggf. vorläufig) [per E-Mail](mailto:mail@brigitte-luedecke.de?subject=loscon25%20Satellit%20Berlin)
-- **Besonderheiten:**
+1. Berlin (TÜV Verband)
+1. Hamburg 1 (Volkshochschule Hamburg)
+1. Hamburg 2 (osb)
+1. München (LV1871)
+1. Würzburg (Coworking Space nomad reconnect)
 
 
 ## Wie kann ein loscon Satellit aussehen?
