@@ -26,7 +26,7 @@ Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die *
 - **11.05.:** [Programm](https://pretalx.com/loscon26/schedule/) Version 1.0 ist fertig 🎉
 - **18.06.:** Vorab-Webkonferenz (13:00 - 14:00 Uhr), im Anschluss ist von 14:00-15:00 Uhr Zeit zum Testen der Infrastruktur
 - **22.06.:** [Vorabend-Treffen](eve.md) bei der Eröffnungsveranstaltung des [Nürnberg Digital Festivals](https://nuernberg.digital) (kostenlose Anmeldung notwendig)
-- **23.-24.06.:** lernOS Convention 🚀
+- **23.-24.06.:** lernOS Convention 2026 "AI for Work that Works! 🚀
 
 ## Eindrücke von früheren lernOS Conventions
 
