@@ -17,6 +17,7 @@ Das Orga-Team hat ab dem 30.01.2026 einen **wöchentlichen Orga-Call** jeweils *
 1. [Christian Kaiser](https://www.linkedin.com/in/christian-kaiser-datev/)
 1. [Doris Schuppe](https://www.linkedin.com/in/doschu/)
 1. [Ellen Braun](https://www.linkedin.com/in/ellen-braun-work-and-feelgood/)
+2. [Felix Harling](https://www.linkedin.com/in/felixharling/)
 1. [Hans Gaertner](https://www.linkedin.com/in/hgaertner/)
 1. [Harald Schirmer](https://www.linkedin.com/in/haraldschirmer/) (Moderation)
 1. [Heidi Milke-Erlwein](https://www.linkedin.com/in/heidi-milke-erlwein-81853b179/)
