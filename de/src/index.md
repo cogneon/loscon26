@@ -2,22 +2,18 @@
 
 ![](img/loscon26-banner.png)
 
-Vom **23.-24. Juni 2026** findet die **10. lernOS Convention** (Hashtag: [#loscon26](https://cogneon.github.io/mastowall/?hashtags=loscon26%2Clernos&server=https%3A%2F%2Fcolearn.social) auf der **Kaiserburg Nürnberg**, in dezentralen Lokationen und Online statt. Das **Community-Event** zu **Wissensmanagement** & **Lernenden Organisationen** steht dieses Mal unter dem **Motto „AI for Work that Works!“**.
+Vom **23.-24. Juni 2026** findet die **10. lernOS Convention** (Hashtag: [#loscon26](https://cogneon.github.io/mastowall/?hashtags=loscon26%2Clernos&server=https%3A%2F%2Fcolearn.social) auf der **Kaiserburg Nürnberg**, in dezentralen Lokationen und Online statt. Das **Community-Event** zu **Wissensmanagement** & **Lernenden Organisationen** steht dieses Mal unter dem **Motto „AI for Work that Works!“**. Auf den **Infoseiten** unter [loscon.lernos.org](https://loscon.lernos.org) findet ihr alle Infos.
 
-!!! note
-    Wenn ihr mit diesen Infoseiten **über einen Chatbot "reden"** wollt, ladet euch einfach die [loscson26 Kontext-Datei]() herunter und hängt sie einem Chat in einem KI-Tool eurer Wahl an (z.B. Copilot, Claude, ChatGPT). Startprompt z.B. "Was sollte ich zur lernOS Convention mitnehmen?".
-
-<button type="button"><a href="https://pretalx.com/loscon26/" target="_blank">Programm</a></button> <button type="button"><a href="https://cogneon.de/loscon26" target="_blank">Landing Page</a></button> <button type="button"><a href="https://pretix.eu/cogneon/loscon26/" target="_blank">Tickets</a></button> <button type="button"><a href="https://loscon26.myspreadshop.de/all" target="_blank">Merch-Shop</a></button>
+<center><button type="button" style="background-color: #00FF41; color: white;"><a href="https://pretix.eu/cogneon/loscon26/" target="_blank">Tickets</a></button> <button type="button" style="background-color: #008F11; color: white;><a href="https://pretalx.com/loscon26/" target="_blank">Einreichung Programmvorschläge</a></button> <button type="button" style="background-color: #008F11; color: white;><a href="https://loscon26.myspreadshop.de/all" target="_blank">Merch</a></button></center>
 
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 
-<a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2026-06-23 13:00">loscon26 Countdown</a>
+<a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2026-06-23 13:00">&nbsp;</a>
+
+!!! Tipp
+    Ihr könnt [**unseren Chatbot Suri**](https://flow.cogneon.io/webhook/f56199f0-dfa6-42a1-95b5-673d08e2c458/chat) verwenden, um mit den Infoseiten zu "reden".
 
 ![](./img/loscon24-gruppenbild.jpg)
-
-Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die **Tickets** für Vor-Ort- und Online-Teilnahme sind [über den Ticketshop](https://pretix.eu/cogneon/loscon26/) verfügbar.
-
-![](./img/loscon26-key-visual.png)
 
 ## Zeitplan
 
@@ -28,6 +24,8 @@ Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die *
 - **22.06.:** [Vorabend-Treffen](eve.md) bei der Eröffnungsveranstaltung des [Nürnberg Digital Festivals](https://nuernberg.digital) (kostenlose Anmeldung notwendig)
 - **23.-24.06.:** lernOS Convention 2026 "AI for Work that Works! 🚀
 
-## Eindrücke von früheren lernOS Conventions
+![](./img/loscon26-key-visual.png)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W0UaN3bcmXc?si=ObdDokULBMWcYWjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## News
+
+<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" style="max-width:100vw;max-height:100vh;" width="600" height="800" src="https://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fcolearn.social%2Fusers%2Flernos&theme=light&size=100&header=false&replies=false&boosts=false"></iframe>

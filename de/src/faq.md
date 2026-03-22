@@ -1,6 +1,6 @@
-# FAQ
+# loscon FAQ
 
-Hier sammeln wir die Antworten auf häufig gestellte Fragen (Frequently Asked Questions).
+Hier findet ihr häufig gestellte Fragen (Frequently Asked Questions) zur lernOS Convention.
 
 ## Tickets und Check-in
 
@@ -36,7 +36,7 @@ Die Teams-Einwahllinks stehen im Discord-Server im Kanal *#programm*.
 
 ### Wie werden die Lightning Talks, Sessions, Workshops für das Programm vorausgewählt?
 
-Vorschläge für Lightning Talks, Vorträge und Workshops müssen über den Call for Participation eingereicht werden. Das Content Team (Teil des Orga-Teams) stimmt über die Einreichungen ab und nimmt zum Thema passende Beiträge ins Programm. Die Barcamp-Sessions werden am 2. Tag im klassischen [Barcamp](https://de.wikipedia.org/wiki/Barcamp)-Modus vor Ort bestimmt.
+Vorschläge für Lightning Talks, Vorträge und Workshops müssen über den Call for Participation eingereicht werden. Das Content Team (Teil des Orga-Teams) stimmt über die Einreichungen ab und nimmt zum Thema passende Beiträge ins Programm. Die Barcamp-Sessions werden am 2. Tag im klassischen [Barcamp](https://de.wikipedia.org/wiki/Barcamp)-Modus vor Ort bestimmt (Video Was ist ein Barcamp [auf Deutsch](https://www.youtube.com/watch?v=jLnISfPxGWg) und [auf Englisch](https://www.youtube.com/watch?v=tsV_nmQEGHs)).
 
 ### Brauchen Session-Geber*innen und Community-Assembly-Hosts auch ein Ticket?
 
