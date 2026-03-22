@@ -4,14 +4,11 @@
 
 Vom **23.-24. Juni 2026** findet die **10. lernOS Convention** (Hashtag: [#loscon26](https://cogneon.github.io/mastowall/?hashtags=loscon26%2Clernos&server=https%3A%2F%2Fcolearn.social) auf der **Kaiserburg Nürnberg**, in dezentralen Lokationen und Online statt. Das **Community-Event** zu **Wissensmanagement** & **Lernenden Organisationen** steht dieses Mal unter dem **Motto „AI for Work that Works!“**. Auf den **Infoseiten** unter [loscon.lernos.org](https://loscon.lernos.org) findet ihr alle Infos.
 
-<center><button type="button" style="background-color: #00FF41; color: white;"><a href="https://pretix.eu/cogneon/loscon26/" target="_blank">Tickets</a></button> <button type="button" style="background-color: #008F11; color: white;><a href="https://pretalx.com/loscon26/" target="_blank">Einreichung Programmvorschläge</a></button> <button type="button" style="background-color: #008F11; color: white;><a href="https://loscon26.myspreadshop.de/all" target="_blank">Merch</a></button></center>
+<center><button type="button" style="background-color: #00FF41; color: white;"><a href="https://pretix.eu/cogneon/loscon26/" target="_blank">Tickets</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://pretalx.com/loscon26/" target="_blank">Einreichung Programmvorschläge</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://loscon26.myspreadshop.de/all" target="_blank">Merch</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://flow.cogneon.io/webhook/f56199f0-dfa6-42a1-95b5-673d08e2c458/chat" target="_blank">Chatbot</a></button></center>
 
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 
 <a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2026-06-23 13:00">&nbsp;</a>
-
-!!! Tipp
-    Ihr könnt [**unseren Chatbot Suri**](https://flow.cogneon.io/webhook/f56199f0-dfa6-42a1-95b5-673d08e2c458/chat) verwenden, um mit den Infoseiten zu "reden".
 
 ![](./img/loscon24-gruppenbild.jpg)
 
