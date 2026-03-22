@@ -75,6 +75,27 @@
                   <li class="toctree-l1"><a class="reference internal" href="../eve/">Vorabend (22.06.)</a>
                   </li>
               </ul>
+              <p class="caption"><span class="caption-text">Programm</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="../program/">Programm</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../makeathon/">Makeathon</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../party/">Abendprogramm</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../coworking/">Coworking</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../sos/">Selbstorganisierte Sessions</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">Dokumentation</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#workflow-ki-basierte-dokumentation">Workflow KI-basierte Dokumentation</a>
+    </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../archive/">Archiv</a>
+                  </li>
+              </ul>
               <p class="caption"><span class="caption-text">Veranstaltungsort</span></p>
               <ul>
                   <li class="toctree-l1"><a class="reference internal" href="../location/">Burg Nürnberg</a>
@@ -86,26 +107,7 @@
                   <li class="toctree-l1"><a class="reference internal" href="../podcasting/">Podcast-Tisch</a>
                   </li>
               </ul>
-              <p class="caption"><span class="caption-text">Programm</span></p>
-              <ul class="current">
-                  <li class="toctree-l1"><a class="reference internal" href="../coworking/">Coworking</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../program/">Programm</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../makeathon/">Makeathon</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../party/">Abendprogramm</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../sos/">Selbstorganisierte Sessions</a>
-                  </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="#">Dokumentation</a>
-    <ul class="current">
-    </ul>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../archive/">Archiv</a>
-                  </li>
-              </ul>
-              <p class="caption"><span class="caption-text">Toolset</span></p>
+              <p class="caption"><span class="caption-text">Perfectly Hybrid</span></p>
               <ul>
                   <li class="toctree-l1"><a class="reference internal" href="../hmk/">Hybrid Meeting Kit</a>
                   </li>
@@ -116,7 +118,7 @@
                   <li class="toctree-l1"><a class="reference internal" href="../network/">Netzwerk</a>
                   </li>
               </ul>
-              <p class="caption"><span class="caption-text">Orga</span></p>
+              <p class="caption"><span class="caption-text">Organisation</span></p>
               <ul>
                   <li class="toctree-l1"><a class="reference internal" href="../orga-team/">Orga-Team</a>
                   </li>
@@ -158,9 +160,22 @@
             <div class="section" itemprop="articleBody">
               
                 <h1 id="dokumentation">Dokumentation</h1>
-<p>In diesem Jahr nutzen wir erstmal einen Ansatz der <strong>KI-gestützten Veranstaltungsdokumentation</strong>. Die Aufzeichnungen werden automatisch transkripiert, zusammengefasst und als Web-Version, <strong>Dokumente</strong> zum Download (pdf, html, docx, epub, md) und <strong>Chatbot</strong> zur Verfügung gestellt (das Bild ist der Workflow von 2025, der wird sich etwas ändern).</p>
-<p><img alt="" src="https://cogneon.github.io/sapf25doku/de/images/ai-documentation-chain.png" /></p>
-<p>Alle Dokumentationen werden im Nachgang unter <a href="https://wiki.cogneon.de/loscon26">https://wiki.cogneon.de/loscon26</a> zugreifbar sein.</p>
+<p>Bei der loscon werden wir wieder unseren bewährten Ansatz der <strong>KI-gestützten Veranstaltungsdokumentation</strong> verwenden. Die Aufzeichnungen der Programmpunkte werden automatisch transkripiert, zusammengefasst und zur zum <strong>loscon26 Unkonferenzband</strong> zusammengestellt. Natürlich werdet ihr im Nachgang mit der Dokumentation auch über einen <strong>Chatbot</strong> "reden" können. Die gesamte Dokumentation wird im Nachgang unter <a href="https://wiki.cogneon.de/loscon26">Loscon26 – Copedia</a> zugreifbar sein.</p>
+<h2 id="workflow-ki-basierte-dokumentation">Workflow KI-basierte Dokumentation</h2>
+<p>Das folgende Bild zeigt schematisch den <strong>Workflow</strong> der automatischen Erstellung der Dokumentation:</p>
+<p><img alt="" src="../img/ai-documentation.png" /></p>
+<p>Für die <strong>Zusammenfassung der Inhalte</strong> wollen wir dieses Jahr verschiedene <strong>Large Language Modell (LLM)</strong> verwenden:</p>
+<ul>
+<li>
+<p><strong>Claude Sonnet 4.6</strong> als Referenz für die Qualität</p>
+</li>
+<li>
+<p><strong>OpenAI GPT OSS 120B</strong> mit Inferenz auf dem <a href="https://cloud.ionos.de/managed/ai-model-hub">Ionos AI Hub</a> in Deutschland</p>
+</li>
+<li>
+<p><strong>Alibaba Qwen3.5 9B</strong> über <a href="https://openrouter.ai">Openrouter</a> als "Proof of Concept" mit einem Modell, das auch auf einem Laptop laufen kann.</p>
+</li>
+</ul>
               
             </div>
           </div><footer>
