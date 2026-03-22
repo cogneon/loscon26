@@ -20,11 +20,6 @@ nav:
   - Anreise: getting-there.md
   - Nachhaltigkeit: sustainability.md
   - Vorabend (22.06.): eve.md
-- Veranstaltungsort:
-  - Burg Nürnberg: location.md
-  - Satelliten: loscon-everywhere.md
-  - Barrierefreiheit: accessibility.md
-  - Podcast-Tisch: podcasting.md
 - Programm:
   - Coworking: coworking.md
   - Programm: program.md
@@ -33,12 +28,17 @@ nav:
   - Selbstorganisierte Sessions: sos.md
   - Dokumentation: documentation.md
   - Archiv: archive.md
-- Toolset:
+- Veranstaltungsort:
+  - Burg Nürnberg: location.md
+  - Satelliten: loscon-everywhere.md
+  - Barrierefreiheit: accessibility.md
+  - Podcast-Tisch: podcasting.md
+- Perfectly Hybrid:
   - Hybrid Meeting Kit: hmk.md
   - Teams: teams.md
   - Discord: discord.md
   - Netzwerk: network.md
-- Orga:
+- Organisation:
   - Orga-Team: orga-team.md
   - Design: design.md
   - Infoseiten bearbeiten: infopages.md

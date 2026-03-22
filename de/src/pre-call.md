@@ -1,5 +1,5 @@
 # Vorab-Webkonferenz
 
-In der traditionellen **Vorab-Webkonferenz** (18.06. von 13:00-14:00 Uhr) erklären wir den **Ablauf** der lernOS Convention und beantworten alle **offenen Fragen**. Wenn es noch Tickets gibt, können auch Leute ohne Ticket an der Vorab-Webkonferenz teilnehmen und sich über die Teilnahme informieren.
+In der **Vorab-Webkonferenz** am 17.06. von 13:55-13:55 Uhr erklären wir den **Ablauf** der lernOS Convention und beantworten alle **offenen Fragen**. Es können auch Leute ohne Ticket teilnehmen und sich über die Teilnahme informieren.
 
-Falls ihr an dem Termin nicht teilnehmen könnt, wir veröffentlichen die Aufzeichnung des Termin im Nachgang hier.
+**Hinweis:** Falls ihr an dem Termin nicht teilnehmen könnt, wir veröffentlichen die Aufzeichnung des Termin im Nachgang hier.
