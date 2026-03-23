@@ -12,14 +12,14 @@ Vom **23.-24. Juni 2026** findet die **10. lernOS Convention** ([#loscon26](http
 
 ![](./img/loscon24-gruppenbild.jpg)
 
-## Zeitplan
+## Wichtige Termine
 
-- **02.03.:** Golive Landing Page [cogneon.de/loscon26](https://cogneon.de/loscon26), [Ticket-Verkauf](https://pretix.eu/cogneon/loscon25/) und Versand Einladung an loscon-Alumni
-- **16.03.:** Golive [Call for Participation](https://pretalx.com/loscon26/cfp) (CfP, Einreichung von Programmvorschlägen bis 30.04. um 23:59 Uhr)
+- **02.03.:** Golive [Landing Page](https://cogneon.de/loscon26), [Ticket-Shop](https://pretix.eu/cogneon/loscon25/) und Versand Einladung an loscon-Alumni
+- **16.03.:** Golive [Call for Participation](https://pretalx.com/loscon26/cfp) (Einreichung Programmvorschlägen bis Ende April)
 - **11.05.:** [Programm](https://pretalx.com/loscon26/schedule/) Version 1.0 ist fertig 🎉
-- **18.06.:** Vorab-Webkonferenz (13:00 - 14:00 Uhr), im Anschluss ist von 14:00-15:00 Uhr Zeit zum Testen der Infrastruktur
-- **22.06.:** [Vorabend-Treffen](eve.md) bei der Eröffnungsveranstaltung des [Nürnberg Digital Festivals](https://nuernberg.digital) (kostenlose Anmeldung notwendig)
-- **23.-24.06.:** lernOS Convention 2026 "AI for Work that Works! 🚀
+- **17.06.:** [Vorab-Webkonferenz](pre-call.md) (13:00 - 14:00 Uhr)
+- **22.06.:** [Vorabend-Treffen](eve.md) bei der Eröffnung des [Nürnberg Digital Festivals](https://nuernberg.digital)
+- **23.-24.06.:** [lernOS Convention 2026](program.md) 🚀
 
 ![](./img/loscon26-key-visual.png)
 
