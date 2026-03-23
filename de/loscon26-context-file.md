@@ -1,70 +1,46 @@
 # Barrierefreiheit
 
-Auf den Postern der lernOS Convention (#loscon23) steht schon seit dem
-ersten Mal der Slogan **"All Creatures Welcome"**, d.h. wir möchten
-allen Wesen eine möglichst reibungsfreie und angenehme Teilnahme
-ermöglichen. Bei den physischen Räumlichkeiten unserer Lokation wurden
-schon ziemlich viele Aspekte der **Barrierefreiheit**
+Wir möchten **allen Wesen** eine möglichst **reibungsfreie und angenehme
+Teilnahme** ermöglichen. Bei den physischen Räumlichkeiten unserer
+Lokation wurden schon ziemlich viele Aspekte der **Barrierefreiheit**
 [berücksichtigt](https://www.reisen-fuer-alle.de/jugendherberge_nuernberg_249.html?action=detail&item_id=407).
 Deswegen fokussieren wir im Orga-Team auf die digitale Infrastruktur und
-testen die **Haupt-Anwendungen der loscon** mit [Google
-Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=de).
+testen die **Anwendungen der loscon**.
 
-Wenn euch nicht-barrierefreie Elemente der loscon auffallen, zögert
+Wenn euch **nicht-barrierefreie Elemente** der loscon auffallen, zögert
 nicht, das [Orga-Team](orga-team.md) direkt darauf anzusprechen. Wir
 geben uns Mühe, allen Anforderungen gerecht zu werden.
 
 # Archiv
 
-Zusammen mit der Vorgänger-Veranstaltung der lernOS Convention
-"KnowTouch" findet dieses Jahr das **8. lernOS Event** (KnowTouch,
-lernOS Camp, lernOS Convention)statt. Seit 2001 ist der
-Veranstaltungsort der lernOS Convention die Kaiserburg in Nürnberg.
-Infos und Dokumentation zu vergangenen Veranstaltungen findet Ihr [im
-offenen Wiki COPEDIA](https://wiki.cogneon.de/loscon).
+Zusammen mit den Vorgänger-Veranstaltungen findet dieses Jahr die **10.
+lernOS Convention** statt (KnowTouch, lernOS Camp, lernOS Convention).
+Informationen und Dokumentation zu **vergangenen Veranstaltungen**
+findet Ihr [im offenen Wiki COPEDIA](https://wiki.cogneon.de/loscon):
 
-## lernOS Convention 2025
-
-<https://wiki.cogneon.de/loscon25>
-
-## lernOS Convention 2024
-
-<https://wiki.cogneon.de/loscon24>
-
-## lernOS Convention 2023
-
-<https://wiki.cogneon.de/loscon23>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W0UaN3bcmXc?si=-Ql5N3TArhtGrc2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W0UaN3bcmXc?si=eTbT1mXBErz6ZUua" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-## lernOS Convention 2022
+------------------------------------------------------------------------
 
-<https://wiki.cogneon.de/loscon22>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r9talnVcpYc?si=aF2L0MJspZ6bAupS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
-
-## lernOS Convention 2021
-
-<https://wiki.cogneon.de/loscon21>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5v_Gcvdy3no?si=m4ONkjdltXbvamVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
-
-## lernOS Camp 2020
-
-[https://wiki.cogneon.de/loscamp20](https://wiki.cogneon.de/loscon20)
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xgYuRQLO7Ok?si=VMYX1CqsLvUN4IWn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
-
-## lernOS Camp 2019
-
-<https://wiki.cogneon.de/loscamp19>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OjTCn07qvLM?si=xhZBgzzUM_JexxyP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
+- [lernOS Convention 2025](https://wiki.cogneon.de/loscon25) - Mind the
+  Knowledge Gap!
+- [lernOS Convention 2024](https://wiki.cogneon.de/loscon24) -
+  Generative KI als Wissensgefährte
+- [lernOS Convention 2023](https://wiki.cogneon.de/loscon23) - Crafting
+  Learning Environments
+- [lernOS Convention 2022](https://wiki.cogneon.de/loscon22) - The
+  Re-Return of Knowledge Management
+- [lernOS Convention 2021](https://wiki.cogneon.de/loscon21) - Agil
+  trifft Lernende Organisation
+- [lernOS Camp 2020](https://wiki.cogneon.de/loscamp20) - lernOS All
+  Stars Camp
+- [lernOS Camp 2019](https://wiki.cogneon.de/loscamp19) - lernOS
+  Rockstar Camp
+- [KnowTouch 2018](https://wiki.cogneon.de/knt18) - Learning
+  Organizations - Where Coroporate HR meets Corporate IT
+- [KnowTouch 2016](https://wiki.cogneon.de/knt16) - 20 Jahre
+  Wissensmanagement? Was haben wir gelernt? Wohin geht die Reise?
 
 # Badge
 
@@ -197,52 +173,57 @@ ToDo: muss noch definiert werden
 
 # Kommunikationskanäle
 
-Wir haben die wichtigsten Informationen auf den **loscon Infoseiten**
-hier dokumentiert. Wenn Fragen offen bleiben, erreicht ihr das Orga-Team
-per E-Mail über <loscon@lernos.org>.
+Wir haben die wichtigsten Informationen zur lernOS Convention auf den
+**Infoseiten** unter [loscon.lernos.org](https://loscon.lernos.org)
+dokumentiert. Wenn Fragen offen bleiben, erreicht ihr das Orga-Team per
+E-Mail über <loscon@lernos.org>.
 
 ## Vor der Veranstaltung
 
+- Das **Mastodon-Konto**
+  [@lernos@colearn.social](https://colearn.social/@lernos) informiert
+  über die loscon im
+  [Fediverse](https://de.wikipedia.org/wiki/Fediverse) und beantwortet
+  Fragen.
 - Die **Linkedin-Seite**
   [lernOS](https://www.linkedin.com/showcase/28494203/) informiert über
   die loscon. Auf der Seite ist ein **Linkedin-Event** [lernOS
   Convention 2026](https://www.linkedin.com/events/7432444369141465088)
   angelegt. Nehmt an dem Event teil, damit Eurer Netzwerk davon
-  mitbekommt. Das Ticket kann nicht über Linkedin gekauft werden. Über
-  *Teilen \> Einladen* könnt ihr euer Netzwerk direkt über Linkedin zur
-  loscon einladen.
-- Das **Mastodon-Konto**
-  [@lernos@colearn.social](https://colearn.social/@lernos) informiert
-  über die loscon im
-  [Fediverse](https://de.wikipedia.org/wiki/Fediverse).
-- In allen **Sozialen Medien** verwenden wir die Hashtags #loscon26
+  mitbekommt. Über *Teilen \> Einladen* könnt ihr euer Netzwerk direkt
+  über Linkedin zur loscon einladen. Außder könnt ihr euch in den
+  [lernOS Newsletter auf
+  Linkedin](https://www.linkedin.com/newsletters/7305595387040456705/)
+  eintragen.
+- In allen **Sozialen Medien** verwenden wir den **Hashtag #loscon26**
   ([Mastodon](https://cogneon.github.io/mastowall/?hashtags=loscon26%2Clernos&server=https%3A%2F%2Fcolearn.social),
-  [Linkedin](https://www.linkedin.com/feed/hashtag/?keywords=loscon26))
-  und #lernos. Tipp: Hashtags kann man auch folgen.
+  [Linkedin](https://www.linkedin.com/feed/hashtag/?keywords=loscon26)).
+  Tipp: Hashtags kann man auch folgen.
 
 ## Während der Veranstaltung
 
 - [Discord](discord.md) ist der wichtigste synchrone Kommunikationskanal
   während der Veranstaltung. Dort ist auch unser **virtueller Infodesk**
-  (Kanal #infodesk) zu erreichen. Alle Teilnehmer:innen werden vor der
-  Vorab-Webkonferenz zum Discord-Server eingeladen.
-- Auf der Veranstaltung wird es wieder eine [Mastowall zum Hashtag
+  (Kanal #infodesk) zu erreichen. Alle Teilnehmer:innen werden in der
+  Woche der Vorab-Webkonferenz zum Discord-Server eingeladen.
+- Auf der Veranstaltung wird es eine [Mastowall zum Hashtag
   #loscon26](https://cogneon.github.io/mastowall/?hashtags=loscon26%2Clernos&server=https%3A%2F%2Fcolearn.social)
   geben.
 
 ## Nach der Veranstaltung
 
-Die Dokumentation und Bereitstellung der Bilder erfolgt [in
-COPEDIA](https://wiki.cogneon.de/loscon26).
+Dokumentation und Bilder stellen wir [in
+COPEDIA](https://wiki.cogneon.de/loscon26) bereit.
 
 # Coworking
 
-Da wir den Aufbau der Veranstaltung schon am Vortag machen, können wir
-den **Dienstag Vormittag** (23.06.) zum **offenen Coworking** verwenden.
-Der Check-in ist dafür **ab 09:00 Uhr** geöffnet.
+Der **Aufbau der loscon** wird von einem **Team von Freiwilligen** schon
+am Vortag gemacht. Deswegen können wir den **Vormittag von Tag 1** zum
+**offenen Coworking** verwenden. Der Check-in ist dafür **ab 09:00 Uhr**
+geöffnet. Vorab werden wir abfragen, wer Mittag in der Burg essen mag.
 
-Das offizielle [Programm](program.md) beginnt mit der Eröffnung um 13:00
-Uhr.
+Das Programm\](program.md) beginnt mit der **offiziellen Eröffnung um
+13:00 Uhr**.
 
 # Design
 
@@ -320,17 +301,33 @@ Diese Kategorien (fett) und Kanäle haben wir im Server angelegt:
 
 # Dokumentation
 
-In diesem Jahr nutzen wir erstmal einen Ansatz der **KI-gestützten
-Veranstaltungsdokumentation**. Die Aufzeichnungen werden automatisch
-transkripiert, zusammengefasst und als Web-Version, **Dokumente** zum
-Download (pdf, html, docx, epub, md) und **Chatbot** zur Verfügung
-gestellt (das Bild ist der Workflow von 2025, der wird sich etwas
-ändern).
+Bei der loscon werden wir wieder unseren bewährten Ansatz der
+**KI-gestützten Veranstaltungsdokumentation** verwenden. Die
+Aufzeichnungen der Programmpunkte werden automatisch transkripiert,
+zusammengefasst und zur zum **loscon26 Unkonferenzband**
+zusammengestellt. Natürlich werdet ihr im Nachgang mit der Dokumentation
+auch über einen **Chatbot** "reden" können. Die gesamte Dokumentation
+wird im Nachgang unter [Loscon26 --
+Copedia](https://wiki.cogneon.de/loscon26) zugreifbar sein.
 
-![](https://cogneon.github.io/sapf25doku/de/images/ai-documentation-chain.png)
+## Workflow KI-basierte Dokumentation
 
-Alle Dokumentationen werden im Nachgang unter
-<https://wiki.cogneon.de/loscon26> zugreifbar sein.
+Das folgende Bild zeigt schematisch den **Workflow** der automatischen
+Erstellung der Dokumentation:
+
+![](./img/ai-documentation.png)
+
+Für die **Zusammenfassung der Inhalte** wollen wir dieses Jahr
+verschiedene **Large Language Modell (LLM)** verwenden:
+
+- **Claude Sonnet 4.6** als Referenz für die Qualität
+
+- **OpenAI GPT OSS 120B** mit Inferenz auf dem [Ionos AI
+  Hub](https://cloud.ionos.de/managed/ai-model-hub) in Deutschland
+
+- **Alibaba Qwen3.5 9B** über [Openrouter](https://openrouter.ai) als
+  "Proof of Concept" mit einem Modell, das auch auf einem Laptop laufen
+  kann.
 
 # Email
 
@@ -356,10 +353,10 @@ Digital Festivals](https://nuernberg.digital/) stattfindet
 [auf nuernberg.digital](https://nuernberg.digital/) nötig. Macht das
 rechtzeitig, da die Plätze i.d.R. recht schnell ausgebucht sind.
 
-# FAQ
+# loscon FAQ
 
-Hier sammeln wir die Antworten auf häufig gestellte Fragen (Frequently
-Asked Questions).
+Hier findet ihr häufig gestellte Fragen (Frequently Asked Questions) zur
+lernOS Convention.
 
 ## Tickets und Check-in
 
@@ -412,7 +409,9 @@ Call for Participation eingereicht werden. Das Content Team (Teil des
 Orga-Teams) stimmt über die Einreichungen ab und nimmt zum Thema
 passende Beiträge ins Programm. Die Barcamp-Sessions werden am 2. Tag im
 klassischen [Barcamp](https://de.wikipedia.org/wiki/Barcamp)-Modus vor
-Ort bestimmt.
+Ort bestimmt (Video Was ist ein Barcamp [auf
+Deutsch](https://www.youtube.com/watch?v=jLnISfPxGWg) und [auf
+Englisch](https://www.youtube.com/watch?v=tsV_nmQEGHs)).
 
 ### Brauchen Session-Geber\*innen und Community-Assembly-Hosts auch ein Ticket?
 
@@ -477,15 +476,16 @@ per E-Mail über <loscon@lernos.org> erreichbar.
 # Anreise
 
 Wir streben einen möglichst **kleinen ökologischen Fußabdruck** der
-Veranstaltung. Da die Parkplatzsituation um die Burg herum eher schlecht
-ist, eignen sich Anreise mit öffentlichen Verkehrsmitteln oder zumindest
-Mitfahrgelegenheiten.
+Veranstaltung an. Da die Parkplatzsituation um die Burg herum eher
+schlecht ist, eignen sich Anreise mit **öffentlichen Verkehrsmitteln**
+oder zumindest **Mitfahrgelegenheiten**.
 
 ## Öffentliche Verkehrsmittel
 
-Wir werden für Euch bei der Bahn ein extra Veranstaltungsticket
-organisiert, mit dem ihr günstig und nachhaltig zur loscon anreisen
-könnt. Link folgt hier.
+Wir werden für Euch ein **vergünstigtes Veranstaltungsticket** bei der
+Deutschen Bahn organisiert, mit dem ihr günstig und nachhaltig zur
+loscon anreisen könnt. Link folgt, sobald wir ihn erhalten haben.
+Verbindung ab Nürnberg Hauptbahnhof:
 
 - **Option 1:** Ab **Hauptbahnhof** zum **Plärrer** (U3 Richtung
   Großreuth) und dann zum **Tiergärtnertor** (Tram 4 Richtung Am
@@ -495,27 +495,27 @@ könnt. Link folgt hier.
 
 ## Hotelempfehlungen
 
-Hinweis: die Hotels mit dem vorangestellten 🌱 verfügen über ein
-Nachhaltigkeitszertifikat.
-
 - [Deutsche Jugendherberge
   Nürnberg](https://www.jugendherberge.de/jugendherbergen/nuernberg/)
   (haben 2-6-Bettzimmer, muss an aber frühzeitig buchen)
-- 🌱 [Azimut
-  Hotel](https://azimuthotels.de/de/nuremberg/azimut-hotel-nuremberg)
+- [Azimut
+  Hotel](https://azimuthotels.de/de/nuremberg/azimut-hotel-nuremberg) 🌱
 - [Burghotel Nürnberg](https://www.burghotel-nuernberg.de/)
 - [Design Hotel Vosteen](https://www.hotel-vosteen.de/)
 - [Dürer Hotel](https://www.duerer-hotel.de/)
-- 🌱 [Motel One Nürnberg
+- [Motel One Nürnberg
   City](https://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-hauptbahnhof/)
-  (Dachterasse mit schönem Blick auf die Burg)
-- 🌱 [Motel One Nürnberg
+  (Dachterasse mit schönem Blick auf die Burg) 🌱
+- [Motel One Nürnberg
   Plärrer](https://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-plaerrer/)
-  (Dachterasse mit schönem Blick auf die Burg)
+  (Dachterasse mit schönem Blick auf die Burg) 🌱
 - [The Cloud
   One](https://www.the-cloud-one.com/de/hotels/nuernberg/hotel-nuernberg/)
 - [Hotel Burgschmiet](https://www.hotel-burgschmiet.de/)
 - [Hotel Elch](https://hotel-elch.de/)
+
+**Hinweis:** die Hotels mit dem Symbol 🌱 verfügen über ein
+Nachhaltigkeitszertifikat.
 
 # Hybrid Meeting Kit
 
@@ -588,56 +588,50 @@ Teilnehmer:innen.
 
 ![](img/loscon26-banner.png)
 
-Vom **23.-24. Juni 2026** findet die **10. lernOS Convention** (Hashtag:
-[#loscon26](https://cogneon.github.io/mastowall/?hashtags=loscon26%2Clernos&server=https%3A%2F%2Fcolearn.social)
-auf der **Kaiserburg Nürnberg**, in dezentralen Lokationen und Online
-statt. Das **Community-Event** zu **Wissensmanagement** & **Lernenden
+Vom **23.-24. Juni 2026** findet die **10. lernOS Convention**
+([#loscon26](https://cogneon.github.io/mastowall/?hashtags=loscon26%2Clernos&server=https%3A%2F%2Fcolearn.social))
+auf der [Kaiserburg Nürnberg](location.md), in [dezentralen
+Lokationen](loscon-everywhere.md) und [Online](hmk.md) statt. Das
+**Community-Event** zu **Wissensmanagement** & **Lernenden
 Organisationen** steht dieses Mal unter dem **Motto „AI for Work that
-Works!"**.
+Works!"**. Auf den **Infoseiten** unter
+[loscon.lernos.org](https://loscon.lernos.org) findet ihr alle Infos.
 
-<button type="button">
-`<a href="https://pretalx.com/loscon26/" target="_blank">`{=html}Programm`</a>`{=html}
+<center>
+<button type="button" style="background-color: #00FF41; color: white;">
+`<a href="https://pretix.eu/cogneon/loscon26/" target="_blank">`{=html}Tickets`</a>`{=html}
 </button>
-
-`<button type="button">`{=html}`<a href="https://cogneon.de/loscon26" target="_blank">`{=html}Landing
-Page`</a>`{=html}`</button>`{=html}
-`<button type="button">`{=html}`<a href="https://pretix.eu/cogneon/loscon26/" target="_blank">`{=html}Tickets`</a>`{=html}`</button>`{=html}
-`<button type="button">`{=html}`<a href="https://loscon26.myspreadshop.de/all" target="_blank">`{=html}Merch-Shop`</a>`{=html}`</button>`{=html}
-
+`<button type="button" style="background-color: #00FF41; color: white;">`{=html}`<a href="https://pretalx.com/loscon26/" target="_blank">`{=html}Einreichung
+Programmvorschläge`</a>`{=html}`</button>`{=html}
+`<button type="button" style="background-color: #00FF41; color: white;">`{=html}`<a href="https://loscon26.myspreadshop.de/all" target="_blank">`{=html}Merch`</a>`{=html}`</button>`{=html}
+`<button type="button" style="background-color: #00FF41; color: white;">`{=html}`<a href="https://flow.cogneon.io/webhook/f56199f0-dfa6-42a1-95b5-673d08e2c458/chat" target="_blank">`{=html}Chatbot`</a>`{=html}`</button>`{=html}
+</center>
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 
-`<a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2026-06-23 13:00">`{=html}loscon26
-Countdown`</a>`{=html}
+`<a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2026-06-23 13:00">`{=html} `</a>`{=html}
 
 ![](./img/loscon24-gruppenbild.jpg)
 
-Auf diesen **Infoseiten** findet ihr alle Informationen zur
-Veranstaltung. Die **Tickets** für Vor-Ort- und Online-Teilnahme sind
-[über den Ticketshop](https://pretix.eu/cogneon/loscon26/) verfügbar.
+## Wichtige Termine
+
+- **02.03.:** Golive [Landing Page](https://cogneon.de/loscon26),
+  [Ticket-Shop](https://pretix.eu/cogneon/loscon25/) und Versand
+  Einladung an loscon-Alumni
+- **16.03.:** Golive [Call for
+  Participation](https://pretalx.com/loscon26/cfp) (Einreichung
+  Programmvorschlägen bis Ende April)
+- **11.05.:** [Programm](https://pretalx.com/loscon26/schedule/) Version
+  1.0 ist fertig 🎉
+- **17.06.:** [Vorab-Webkonferenz](pre-call.md) (13:05 - 13:55 Uhr)
+- **22.06.:** [Vorabend-Treffen](eve.md) bei der Eröffnung des [Nürnberg
+  Digital Festivals](https://nuernberg.digital)
+- **23.-24.06.:** [lernOS Convention 2026](program.md) 🚀
 
 ![](./img/loscon26-key-visual.png)
 
-## Zeitplan
+## News
 
-- **02.03.:** Golive Landing Page
-  [cogneon.de/loscon26](https://cogneon.de/loscon26),
-  [Ticket-Verkauf](https://pretix.eu/cogneon/loscon25/) und Versand
-  Einladung an loscon-Alumni
-- **16.03.:** Golive [Call for
-  Participation](https://pretalx.com/loscon26/cfp) (CfP, Einreichung von
-  Programmvorschlägen bis 30.04. um 23:59 Uhr)
-- **11.05.:** [Programm](https://pretalx.com/loscon26/schedule/) Version
-  1.0 ist fertig 🎉
-- **18.06.:** Vorab-Webkonferenz (13:00 - 14:00 Uhr), im Anschluss ist
-  von 14:00-15:00 Uhr Zeit zum Testen der Infrastruktur
-- **22.06.:** [Vorabend-Treffen](eve.md) bei der Eröffnungsveranstaltung
-  des [Nürnberg Digital Festivals](https://nuernberg.digital)
-  (kostenlose Anmeldung notwendig)
-- **23.-24.06.:** lernOS Convention 🚀
-
-## Eindrücke von früheren lernOS Conventions
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W0UaN3bcmXc?si=ObdDokULBMWcYWjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" style="max-width:100vw;max-height:100vh;" width="600" height="800" src="https://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fcolearn.social%2Fusers%2Flernos&amp;theme=light&amp;size=100&amp;header=false&amp;replies=false&amp;boosts=false">
 </iframe>
 
 # Infoseiten bearbeiten
@@ -767,30 +761,39 @@ Everywhere"** wollen wir mit den sog. **loscon Satelliten** dezentrale
 Veranstaltungsorte für die lernOS Convention fördern (Vorbild: [Congress
 Everywhere des
 CCC](https://events.ccc.de/congress/2019/wiki/index.php/Congress_Everywhere)).
+Denn nicht allen ist die Anreise nach Nürnberg möglich und mit **netten
+Menschen dezentral** am Programm teilzunehmen fühlt sich für viele
+besser an, als alleine im Homeoffice.
 
-Bei der loscon25 gab es Satelliten in München, Hamburg und Berlin. Für
-die Teilnahme in einem Satelliten ist wie bei Teilnahme aus dem Home
-Office ein [Online-Ticket](https://pretix.eu/cogneon/loscon26/)
-notwendig.
+![](./img/theandrasbarta-europe-1264062_1280.jpg)
 
-!!! tip "WICHTIG"
+**Hinweis:** Für die Teilnahme in einem Satelliten ist ein
+[Online-Ticket](https://pretix.eu/cogneon/loscon26/) notwendig.
+Organisation von Raummiete, Catering etc. regeln die Satelliten
+selbstorganisiert.
 
-    Wenn ihr einen Satellit im Rahmen der lernOS Convention anbieten möchtet, nehmt bitte [Kontakt mit uns auf](mailto:loscon@lernos.org?subject=loscon%20Satellit).
+## loscon Satelliten dieses Jahr
 
-## Die loscon Satelliten dieses Jahr
-
-![](./img/loscon25-Satelliten-Karte.png)
-
-Die Planung der Satelliten für die loscon26 läuft noch. Aktuell sind
+Die **Planung der Satelliten** für dieses Jahr läuft noch, wenn du einen
+Satellit im Rahmen der lernOS Convention anbieten möchtet, nimm bitte
+[Kontakt mit uns
+auf](mailto:loscon@lernos.org?subject=loscon%20Satellit). Aktuell sind
 gemeldet:
 
-1.  Berlin (TÜV Verband)
-2.  Hamburg 1 (Volkshochschule Hamburg)
-3.  Hamburg 2 (osb)
-4.  München (LV1871)
-5.  Würzburg (Coworking Space nomad reconnect)
+1.  **Berlin** beim [TÜV Verband](https://www.tuev-verband.de/)
+2.  **Hamburg 1** in der [Volkshochschule
+    Hamburg](https://www.vhs-hamburg.de/)
+3.  **Hamburg 2** bei [osb international systemic
+    consulting](https://www.osb-i.com/)
+4.  **Mallorca** im [Rayaworx](https://www.rayaworx.eu/) (Coworking
+    Space)
+5.  **München** bei https://www.lv1871.de/ (LV1871)
+6.  **Würzburg** im [nomad reconnect](https://www.nomad-reconnect.de/)
+    (Coworking Space)
 
-## Wie kann ein loscon Satellit aussehen?
+## Oft gestellte Fragen zu Satelliten
+
+### Wie kann ein loscon Satellit aussehen?
 
 Ein Satellit kann ganz verschiedene Formen haben, **von ganz klein bis
 etwas größer**. Einige Beispiele, die eurer Kreativität aber keine
@@ -815,7 +818,7 @@ erhoben/umgelegt werden.
 in eigenen Raumen hybrid anbieten möchte, können wir den Raum als
 zusätzliche Spalte im Programm aufnehmen.
 
-## So meldet ihr einen loscon Satelliten an
+### Wie melde ich einen loscon Satelliten an?
 
 Die Organisation der Satelliten soll so selbstorganisiert, wie möglich
 erfolgen:
@@ -829,7 +832,7 @@ erfolgen:
 3.  Im Vorbereitungstreffen (Datum tbd.) besprechen wir die Details und
     klären offene Fragen.
 
-## Tipps für die technische Ausstattung von Satelliten
+### Welche technische Ausstattung braucht ein Satelliten
 
 Wir legen bewusst keine "Mindestanforderungen" für Satelliten (speziell
 mittlere und große) fest, um keine unnötigen Barrieren zu erzeugen. Wir
@@ -876,17 +879,31 @@ Nürnberg verwenden.
 
 # Makeathon
 
-Nach dem Promptathon auf der loscon25, werden wir bei der lernOS
-Convention 2026 gemeinsam einen **Format Makeathon** ausprobieren!
-Informationen zum Promptathon folgen.
+Nach dem erfolgreichen **Promptathon auf der loscon25**, bei der wir
+gemeinsam **gute Praktiken des Promptings** erlernt haben, werden wir
+bei der lernOS Convention 2026 gemeinsam einen **Makeathon**
+durchführen!
+
+Neben dem reinen **Prompting von KI-Chatbots** geht es dabei um das
+Erlernen von [Vibe Coding](https://de.wikipedia.org/wiki/Vibe_Coding),
+um **kleine Software-Programme** völlig ohne Programmierkenntnisse zu
+erstellen.
+
+Jeder von euch erhält ein **Do-It-Yourself Bastelkit** für eine kleine
+Lightning Talk Lampe, die ihr im Makeathon zusammenbaut und
+programmiert. Die Vor-Ort-Teilnehmer:innen können die **fertige Lampe
+für eigene Events** mit nach Hause nehmen. Die Online-Teilnehmer:innen
+arbeiten mit einem **Emulator** im Browser.
+
+Weitere Informationen zum Promptathon folgen.
 
 # Merch
 
 Natürlich gibt es auch wieder einen [Merch-Shop zur lernOS
-Convention](https://loscon26.myspreadshop.de/all), es gibt z.B. T-Shirts
-und Hoodies. Bestellt euren Merch rechtzeitig, damit er noch vor der
-Veranstaltung ankommt. Auf Produktion und Lieferung haben wir keinen
-Einfluss und wir können auch keine Fragen dazu beantworten.
+Convention](https://loscon26.myspreadshop.de/all), es gibt **T-Shirts**,
+**Hoodies** und **Tassen**. Bestellt euren Merch rechtzeitig, damit er
+noch vor der Veranstaltung ankommt. Auf Produktion und Lieferung haben
+wir keinen Einfluss und wir können auch keine Fragen dazu beantworten.
 
 ![](./img/merch.png)
 
@@ -927,21 +944,22 @@ am 11.07.2026. Ihr erreicht das Orga-Team oer Email unter
 5.  [Doris Schuppe](https://www.linkedin.com/in/doschu/)
 6.  [Ellen
     Braun](https://www.linkedin.com/in/ellen-braun-work-and-feelgood/)
-7.  [Hans Gaertner](https://www.linkedin.com/in/hgaertner/)
-8.  [Harald Schirmer](https://www.linkedin.com/in/haraldschirmer/)
+7.  [Felix Harling](https://www.linkedin.com/in/felixharling/)
+8.  [Hans Gaertner](https://www.linkedin.com/in/hgaertner/)
+9.  [Harald Schirmer](https://www.linkedin.com/in/haraldschirmer/)
     (Moderation)
-9.  [Heidi
+10. [Heidi
     Milke-Erlwein](https://www.linkedin.com/in/heidi-milke-erlwein-81853b179/)
-10. [Marcel Kirchner](https://www.linkedin.com/in/marcelkirchner/)
-11. [Marina Kraft](https://www.linkedin.com/in/marinakraft/)
+11. [Marcel Kirchner](https://www.linkedin.com/in/marcelkirchner/)
+12. [Marina Kraft](https://www.linkedin.com/in/marinakraft/)
     (Moderation)
-12. [Nicole Denzel](https://www.linkedin.com/in/nicoledenzel/)
-13. [Roland Christian](https://www.linkedin.com/in/roland-christian72/)
-14. [Sabrina Stang](https://www.linkedin.com/in/sabrina-stang/)
-15. [Sandra Richter](https://www.linkedin.com/in/sandra-richter-coach/)
-16. [Simon Dückert](https://www.linkedin.com/in/simondueckert/)
-17. [Susann Schulz](https://www.linkedin.com/in/susannschulz/)
-18. [Thomas Schmidt](https://www.linkedin.com/in/thomasschmidt42/)
+13. [Nicole Denzel](https://www.linkedin.com/in/nicoledenzel/)
+14. [Roland Christian](https://www.linkedin.com/in/roland-christian72/)
+15. [Sabrina Stang](https://www.linkedin.com/in/sabrina-stang/)
+16. [Sandra Richter](https://www.linkedin.com/in/sandra-richter-coach/)
+17. [Simon Dückert](https://www.linkedin.com/in/simondueckert/)
+18. [Susann Schulz](https://www.linkedin.com/in/susannschulz/)
+19. [Thomas Schmidt](https://www.linkedin.com/in/thomasschmidt42/)
 
 Wer noch vor Ort in Nürnberg bei der Organisation mithelfen mag, egal ob
 mit viel oder weniger Zeit, kann sich gerne jederzeit [bei uns
@@ -949,24 +967,36 @@ melden](mailto:loscon@lernos.org).
 
 # Abendprogramm
 
-Das Programm der loscon endet an Tag 1 mit den Lightning Talks um 18:00
-Uhr. Für den informellen Austausch könnt ihr [Discord](discord.md)
-verwenden. Es gibt außerdem die Möglichkeit, selbstorganisiert Sessions
-(SOS) aus den Räumen, dem Homeoffice oder den Satelliten anzubieten 😎
+Das **Programm der loscon** endet an Tag 1 mit den Lightning Talks um
+18:00 Uhr und dem anschließenden gemeinsamen Essen. Ähnlich dem [Prompt
+Battle 2024](https://www.youtube.com/watch?v=Nwz0WBeg1Zg) werden wir im
+Abendprogramm ab ca. 19:30 Uhr wieder **gemeinsam ein KI-Spiel
+spielen**, bei dem Freiwillige vor Ort und Online ihre **Prompting
+Skills messen** können.
+
+Das Spiel wird **kostenlos verfügbar** sein. Wir stellen allen
+Teilnehmer:innen eine Anleitung bereit, mit der ihr das Spiel **in
+eigenen Veranstaltungen verwenden** könnt.
+
+Für den **informellen Austausch** könnt ihr [Discord](discord.md)
+verwenden. Es gibt außerdem die Möglichkeit, [selbstorganisiert
+Sessions](sos.md) (SOS) aus den Räumen, dem Homeoffice oder den
+Satelliten anzubieten 😎
 
 # Podcast-Tisch
 
 Auf der lernOS Convention gibt es einen **Podcast-Tisch**, an dem ihr
 euch über Podcasting informieren (s.a. [lernOS Podcast
-Leitfaden](https://cogneon.github.io/lernos-podcasting/de/)), aber auch
-eigene Podcasts aufnehmen könnt. Der Podcast-Tisch ist dieses Jahr sogar
-betreut, d.h. ihr müsst euch nicht um eigene Technik kümmern (wenn ihr
-ein Speichermedium mitbringt, könnt ihr die Aufnahmen z.B. für eigene
-Podcasts mitnehmen).
+Leitfaden](https://cogneon.github.io/lernos-podcasting/de/)) und
+**eigene Podcasts aufnehmen** könnt. Die Technik am Podcast-Tisch wird
+von einem Audio Buddy, d.h. ihr müsst euch nicht kümmern. Die Aufnahmen
+werden mit den Aufzeichnungen der lernOS Convention veröffentlicht. "enn
+ihr ein Speichermedium mitbringt, könnt ihr die Aufnahmen z.B. für
+eigene Podcasts direkt mitnehmen.
 
-Das Programm am Podcast-Tisch ist in das loscon Programm integriert,
-Vorschläge für Podcast-Sessions können über den Call for Participation
-eingereicht werden.
+**Hinweis:** Das Programm am Podcast-Tisch ist in das
+[Programm](program.md) integriert, Vorschläge für Podcast-Sessions
+können **über den Call for Participation** eingereicht werden.
 
 ![](./img/podcast-table.jpg)
 
@@ -981,29 +1011,43 @@ eingereicht werden.
     [Ultraschall](https://ultraschall.fm) und [Studio
     Link](https://studio-link.de/) für die Multitrack-Aufnahme des
     Podcasts (alle Sprecher:innen aus Discord sind auf einer Spur)
+5.  1x Lautsprecher für das Live-Podcasting (damit die Leute vor Ort
+    etwas hören)
 
 # Vorab-Webkonferenz
 
-In der traditionellen **Vorab-Webkonferenz** (18.06. von 13:00-14:00
-Uhr) erklären wir den **Ablauf** der lernOS Convention und beantworten
-alle **offenen Fragen**. Wenn es noch Tickets gibt, können auch Leute
-ohne Ticket an der Vorab-Webkonferenz teilnehmen und sich über die
-Teilnahme informieren.
+In der **Vorab-Webkonferenz** am Mittwoch 17.06. von 13:05-13:55 Uhr
+erklären wir den **Ablauf** der lernOS Convention und beantworten alle
+**offenen Fragen**. Es können auch Leute ohne Ticket teilnehmen und sich
+über die Teilnahme informieren.
 
-Falls ihr an dem Termin nicht teilnehmen könnt, wir veröffentlichen die
-Aufzeichnung des Termin im Nachgang hier.
+**Hinweis:** Falls ihr an dem Termin nicht teilnehmen könnt, wir
+veröffentlichen die Aufzeichnung des Termin im Nachgang hier.
 
 # Programm
 
-Das **Program der loscon** findet Ihr in der jeweils aktuellen Version
-unter
+Das **Program der lernOS Convention** findet ihr unter
 [pretalx.com/loscon26/schedule](https://pretalx.com/loscon26/schedule/)
-finden. Diese Seite ist die zentrale Anlaufstelle für Euch, am besten
-ihr fügt den Link im Browser als Lesezeichen hinzu.
+(am besten zu Lesezeichen hinzufügen), über den [Call for
+Participation](https://pretalx.com/loscon26/cfp) könnt ihr
+Programmvorschläge einreichen.
 
-Einige Infos noch zu pretalx:
+`<pretalx-schedule event-url="https://pretalx.com/loscon26/" locale="de" format="list" style="--pretalx-clr-primary: #000000">`{=html}`</pretalx-schedule>`{=html}
+`<noscript>`{=html}
 
-- Die Programm-Seite ist für **mobile Endgeräte** optimiert.
+::: pretalx-widget
+        <div class="pretalx-widget-info-message">
+            JavaScript is disabled in your browser. To access our schedule without JavaScript,
+            please <a target="_blank" href="https://pretalx.com/loscon26/schedule/">click here</a>.
+        </div>
+    </div>
+
+</noscript>
+
+## Informationen zum Programm
+
+- Als System verwenden wir [pretalx](https://pretalx.com), die
+  Programm-Seite ist für **mobile Endgeräte** optimiert.
 - Ihr könnt einzelne Programmpunkte zu euren **Favoriten** hinzufügen
   (Stern-Symbol bei den Programmpunkten) und euch damit euer
   individuelles loscon Programm zusammenstellen.
@@ -1013,28 +1057,31 @@ Einige Infos noch zu pretalx:
 - Im **Discord-Kanal** #programm findet ihr den Link zum Programm, die
   Teams-Einwahllinks und weitere Ankündigungen.
 
-## Call for Participation
-
-Über den [Call for Participation](https://pretalx.com/loscon26/cfp)
-könnt ihr Programmvorschläge einreichen.
+# 
 
 # Self-organized Sessions (SOS)
 
 Bei dieser loscon wird es erstmals am Abend des ersten Tags die
-Möglichkeit geben, selbstorganisierte Sessions (SOS) anzubieten. In der
-Burg stehen vier hybride Räume zur Verfügung, die von 19-22 Uhr
-selbstorganisiert belegt werden können. Die Einwahllinks sind die
-gleichen, die wir für die Barcamp-Sessions an Tag 2 verwenden.
+Möglichkeit geben, **selbstorganisierte Sessions (SOS)** anzubieten. In
+der Burg stehen vier hybride Räume zur Verfügung, die **von 19-22 Uhr**
+belegt werden können. Die **Einwahllinks** findet ihr im **Kanal
+#programm** in [Discord](discord.md).
+
+Selbstorganisierte Session eintragen (Link folgt).
 
 # Nachhaltigkeit
 
-Natürlich freuen wir uns jedes Jahr darauf, die ganze lernOS Community
-in der Kohlenstoffwelt zu treffen, uns auszutauschen und zu feiern. Wir
-genießen die zufälligen Begegnungen und Themen, aus denen oft neue Ideen
-und innovative Ansätze entstehen. Wir wollen aber wie bei den vergangen
-Veranstaltungen wieder versuchen, so gut wie möglich auf den Aspekt der
+Natürlich freuen wir uns jedes Jahr auf das **Treffen der lernOS
+Community in der Kohlenstoffwelt** zu treffen, um uns auszutauschen, zu
+lernen und zu feiern. Wir genießen die zufälligen Begegnungen und
+Themen, aus denen gerade [in den
+Zwischenräumen](https://cogneon.de/2020/05/30/raeume-und-infraraeume-fuer-virtuelle-barcamps/)
+oft **neue Ideen** und **innovative Ansätze** entstehen.
+
+Wir wollen aber wie bei den vergangen Veranstaltungen wieder versuchen,
+so gut wie möglich auf den Aspekt der
 [Nachhaltigkeit](https://de.wikipedia.org/wiki/Nachhaltigkeit) zu
-achten. Dabei haben wir insbesondere folgende Dinge im Blick (s.a.
+achten. Dabei haben wir insbesondere **folgende Dinge im Blick** (s.a.
 [Vortrag Nachhaltige
 Eventorganisation](https://media.ccc.de/v/eh21-138-nachhaltige-eventorganisation-schwierig),
 [BMUV Leitfaden für die nachhaltige Organisation von
@@ -1047,9 +1094,9 @@ Veranstaltungen](https://www.bmuv.de/publikation/leitfaden-fuer-die-nachhaltige-
     (Rest)
 
 Wir werden im Orga-Team die Checkliste im BMUV Leitfaden durcharbeiten,
-entsprechende Maßnahmen ergreifen und die kommentierte Checkliste hier
-veröffentlichen. Wir bitten alle Teilnehmer:innen der lernOS Convention
-auch von sich aus auf die Nachhaltigkeit ihres Verhaltens zu achten.
+entsprechende Maßnahmen ergreifen. Wir bitten alle Teilnehmer:innen der
+lernOS Convention auch von sich aus auf die Nachhaltigkeit ihres
+Verhaltens zu achten.
 
 **Unsere Maßnahmen im Überblick:**
 
@@ -1066,10 +1113,11 @@ auch von sich aus auf die Nachhaltigkeit ihres Verhaltens zu achten.
     Meyer](https://metzgerei-meyer.de/wissenswertes/heimat-handwerk/).
     Die [Verpflegung über die
     Burg](https://www.jugendherberge.de/bayern/service/wir-ueber-uns/unsere-verantwortung/bio-ist-besser/)
-    ist nachhaltig und biologisch.
+    ist vegetarisch und biologisch.
 4.  **Druckerzeugnisse:** alle für die Veranstaltung bestellten
     Druckerzeugnisse sind wo möglich auf Umweltpapier (blauer Engel) und
-    mit der Option "Klimaneutral drucken" bestellt.
+    mit der Option "Klimaneutral drucken" bestellt. Generell versuchen
+    wir, so wenig wie möglich Druckerzeugnisse einzusetzen.
 5.  **Namensschilder:** die Lanyards für die Namesschilder [sind aus
     Recyclingmaterial](https://www.wir-machen-druck.de/lanyards-recycling-mit-einem-haken-extrem-guenstig-online-bestellen,category,22829.html).
     Sie sind neutral bedruckt (lernOS, Keep Calm & Learn On), damit wir
@@ -1132,23 +1180,30 @@ Microsoft Teams mit Discord als Chat.
 
 # Mitbringen
 
-Neben den üblichen Dingen, die ihr zu Veranstaltungen und Konferenzen
-mitnehmt, ist bei einer **hybriden Veranstaltung** noch an ein paar
+Neben den Dingen auf eurer [Everyday Carry
+Liste](https://en.wikipedia.org/wiki/Everyday_carry) solltet ihr für die
+**lernOS Convention** als **hybride Veranstaltung** noch an ein paar
 weitere Dinge zu denken:
 
-1.  **Ticket:** das elektronische Ticket habt ihr mit Eurer Anmeldung
-    erhalten (einfach am Ende der Emails auf "Bestelldetails anzeigen").
-    Haltet das (elektronisch, nicht ausgedruckt) am Check-in bereit,
-    damit der Einlass zügig läuft.
-2.  **Endgeräte:** alle Teilnehmer:innen und Session Owner sollten ihre
-    eigene Endgeräte mitbringen (Empfehlung: Laptop und Smartphone).
-3.  **Headset:** damit ihr Euch eigenständig in Konferenz einwählen
-    könnt, bringt ein Headset mit (z.B. Bluetooth oder
-    Kopfhörer-Mikro-Kabel).
-4.  **Strom:** bringt Ladegeräte für Eure Endgeräge mit, eine
-    Mehrfachsteckdose oder Verlängerung kann auch nicht schaden.
-5.  **Lanyard und Namensschild:** aus Gründen der Nachhaltigkeit wäre es
+1.  **Ticket:** Das elektronische Ticket habt ihr mit Eurer Anmeldung
+    erhalten. Haltet das am besten elektronisch und nicht ausgedruckt am
+    Check-in bereit, damit der Einlass zügig läuft. Wenn ihr am Ende der
+    Emails vom Ticketsystem auf `Bestelldetails anzeigen`klickt, kommt
+    ihr immer direkt zu eurem Ticket.
+2.  **Endgeräte:** Alle Teilnehmer:innen und Session Owner sollten ihre
+    eigene Endgeräte mitbringen (Empfehlung: Laptop UND Smartphone).
+3.  **Headset:** Damit ihr Euch eigenständig in Konferenz einwählen
+    könnt, bringt ein Headset mit. Dafür eignen sich z.B. Bluetooth
+    Headsets oder Kopfhörer mit Mikrofon-Kabel.
+4.  **Strom:** Denkt an Ladegeräte für Eure Endgeräge! An den Tischen
+    sind Stromverteiler, aber eine Mehrfachsteckdose oder Verlängerung
+    kann auch nicht schaden.
+5.  **WiFi:** wir nutzen das WLAN-Netzwerk der Burg und haben getrennte
+    Netze für Teilnehmer:innen und Bühne. Für den Notfall könnt ihr wenn
+    vorhanden gerne noch einen mobilen 5G-Access-Point mitbringen.
+6.  **Lanyard und Namensschild:** aus Gründen der Nachhaltigkeit wäre es
     schön, wenn alle, die aus den Vorjahren ein lernOS Lanyard und
     Namensschild haben, dieses zur Veranstaltung mitbringen. Ihr
     erhaltet dann den Pin des Jahres, den ihr am Lanyard befestigen
     könnt und mit dem ihr jederzeit Einlass erhaltet.
+:::
