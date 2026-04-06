@@ -82,7 +82,7 @@ Als Beispiel könnt ihr euch mal das [Hybrid Meeting Kit](https://wiki.cogneon.d
 
 **Tipp:** Stellt uns bei der Satellit-Anmeldung einen Link bereit zu einer Seite, auf der alle Infos stehen. So seid ihr unabhängig und habt Änderungen und Spezifika selbst im Griff!
   
-### Der Aufwand erscheint mir zu groß oder wir sind weniger als 3 Personen###
+### Der Aufwand erscheint mir zu groß oder wir sind weniger als 3 Personen
 
 Wenn ihr weniger als 3 Personen in eurem Ort seid, nutzt die Zeit außerhalb des offiziellen Programmes. 
 Ihr nehmt z.B. alleine aus dem Home Office an der lernOS Convention teil, trefft euch aber Abends zum Abendessen. 
