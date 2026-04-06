@@ -21,11 +21,11 @@ Die **Planung der Satelliten** für dieses Jahr läuft noch, wenn du einen Satel
 
 ### Wie kann ein loscon Satellit aussehen?
 
-Ein Satellit kann ganz verschiedene Formen haben, **von ganz klein bis etwas größer**. Einige Beispiele, die eurer Kreativität aber keine Grenzen setzen sollen:
+Von einem Satellit sprechen wir, wenn mehr als drei Personen sich in einer Location außerhalb von Nürnberg treffen und während der Veranstaltungszeit miteinander in Kontakt sind. Ein Satellit kann ganz verschiedene Formen haben, **von ganz klein bis etwas größer**. Einige Beispiele, die eurer Kreativität aber keine Grenzen setzen sollen:
 
-1. Ihr nehmt **alleine aus dem Home Office** an der lernOS Convention teil, **trefft euch aber Abends zum Abendessen**.
-2. **Zwei oder mehr Personen** nehmen gemeinsam bei einer Person **zu Hause** an der lernOS Convention teil (das Wohnzimmer wird zur Event Lokation)
-3. Es werden **ein oder mehrere Räume** z.B. in einem Unternehmen, einer Akademie, einem Co-Working Space, einer Bibliothek, einer Hochschule oder Volkshochschule angeboten. Ihr einigt euch darauf, an welchen Programmpunkten ihr gemeinsam teilnehmen wollt und gestaltet die Pausen zusammen.
+Es werden **ein oder mehrere Räume** z.B. in einem Unternehmen, einer Akademie, einem Co-Working Space, einer Bibliothek, einer Hochschule oder Volkshochschule angeboten. Ihr einigt euch darauf, an welchen Programmpunkten ihr gemeinsam teilnehmen wollt und gestaltet die Pausen zusammen. 
+In der Regel handelt es sich im offene Locations, d.h. es können sich jegliche Personen mit Loscon-Ticket separat bei euch melden. Ihr legt fest und organisiert selbst, wie viele Personen in eurer Location zusammenkommen können und wie sich diese bei euch (an)melden sollen. 
+Der Satellit ist für die komplette Veranstaltungszeit für eure Vor-Ort-Teilnehmenden geöffnet, im Idealfall mit einer Möglichkeit für die Abendveranstaltung (ihr könnt dies aber auch z.B. in einen Biergarten verlegen).
 
 **Hinweis:** Falls in einem Satellit Kosten für Catering, Getränke, Raum-/Technikkosten etc. anfallen, können die Selbstorganisiert erhoben/umgelegt werden.
 
@@ -38,6 +38,7 @@ Die Organisation der Satelliten soll so selbstorganisiert, wie möglich erfolgen
 1. Überlegt euch, ob ihr einen dezentralen Satelliten anbieten möchtet. Wer kann eine Lokation klein/mittel/groß anbieten? Wer kann welche Technik beisteuern? Wer kann weitere Teilnehmer:innen akquirieren?
 2. Tragt euch unten mit einer Kontaktmöglichkeit (z.B: Email) in die Liste ein, damit wir euch in ein kleines Vorbereitungstreffen einladen können.
 3. Im Vorbereitungstreffen (Datum tbd.) besprechen wir die Details und klären offene Fragen.
+4. Wenn ihr selbst noch weitere Teilnehmende für eure Location gewinnen wollt, könnt ihr einen Loscon-Rabatt (20%) nutzen. Die Details bringen wir zum Vorbereitungstreffen mit.
 
 ### Welche technische Ausstattung braucht ein Satelliten
 
@@ -66,3 +67,23 @@ Als Beispiel könnt ihr euch mal das [Hybrid Meeting Kit](https://wiki.cogneon.d
    1. Ansicht > Vollbild - damit alles möglichst groß zu sehen ist
    2. Ansicht > Speaker - damit immer die sprechende Person groß und mit guter Auflösung erscheint
    3. Chat : Ein - damit alle im Raum die Aktivitäten im Chat sehen, teilnehmen muss man mit dem eigenen Endgerät
+  
+**Was sollte eure Checkliste für potentielle Interessierte enthalten:**
+
+1. Raumkonstellation (kurz beschreiben, welche Räumlichkeiten ihr anbieten könnt)
+2. Technik (was ist vorhanden, was sollten die Personen auf jeden Fall mitbringen?)
+3. TN-Anzahl (Mindestanzahl, maximale Anzahl, was wäre euer Wunsch => das hilft auch bei der Erwartungshaltung für die interessierten Personen)
+4. Anmeldevorgaben (bis wann / eventuelle Zusatzkosten)
+5. Catering (ja/nein/selbstorganisiert)
+6. Ansprechperson und Link für die Anmeldung
+7. Adresse der Location, ggf. Hinweise zu Haltestellen/Parken)
+8. Anwesenheitszeiten (ab wann ist die Location geöffnet, bis wann, inkl. Abendveranstaltung oder nicht)
+9. 10 Fakten über den Satellit (Sicherheitsvorgaben, Zeiten, etc)
+
+**Tipp:** Stellt uns bei der Satellit-Anmeldung einen Link bereit zu einer Seite, auf der alle Infos stehen. So seid ihr unabhängig und habt Änderungen und Spezifika selbst im Griff!
+  
+### Der Aufwand erscheint mir zu groß oder wir sind weniger als 3 Personen###
+
+Wenn ihr weniger als 3 Personen in eurem Ort seid, nutzt die Zeit außerhalb des offiziellen Programmes. 
+Ihr nehmt z.B. alleine aus dem Home Office an der lernOS Convention teil, trefft euch aber Abends zum Abendessen. 
+Oder zwei bis drei Personen nehmen gemeinsam bei einer Person zu Hause an der lernOS Convention teil (das Wohnzimmer wird zur Event Lokation). Sei kreativ und inspiriert die anderen Teilnehmenden, dass Online nicht alleine bedeutet.
