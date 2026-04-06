@@ -24,7 +24,7 @@ Die **Planung der Satelliten** für dieses Jahr läuft noch, wenn du einen Satel
 Von einem Satellit sprechen wir, wenn mehr als drei Personen sich in einer Location außerhalb von Nürnberg treffen und während der Veranstaltungszeit miteinander in Kontakt sind. Ein Satellit kann ganz verschiedene Formen haben, **von ganz klein bis etwas größer**. Einige Beispiele, die eurer Kreativität aber keine Grenzen setzen sollen:
 
 Es werden **ein oder mehrere Räume** z.B. in einem Unternehmen, einer Akademie, einem Co-Working Space, einer Bibliothek, einer Hochschule oder Volkshochschule angeboten. Ihr einigt euch darauf, an welchen Programmpunkten ihr gemeinsam teilnehmen wollt und gestaltet die Pausen zusammen. 
-In der Regel handelt es sich im offene Locations, d.h. es können sich jegliche Personen mit Loscon-Ticket separat bei euch melden. Ihr legt fest und organisiert selbst, wie viele Personen in eurer Location zusammenkommen können und wie sich diese bei euch (an)melden sollen. 
+In der Regel handelt es sich im offene Locations, d.h. es können sich jegliche Personen mit Loscon-Ticket separat bei euch melden. Ihr legt fest und organisiert selbst, wie viele Personen in eurer Location zusammenkommen können und wie sich diese bei euch (an)melden sollen.
 Der Satellit ist für die komplette Veranstaltungszeit für eure Vor-Ort-Teilnehmenden geöffnet, im Idealfall mit einer Möglichkeit für die Abendveranstaltung (ihr könnt dies aber auch z.B. in einen Biergarten verlegen).
 
 **Hinweis:** Falls in einem Satellit Kosten für Catering, Getränke, Raum-/Technikkosten etc. anfallen, können die Selbstorganisiert erhoben/umgelegt werden.
@@ -36,7 +36,7 @@ Der Satellit ist für die komplette Veranstaltungszeit für eure Vor-Ort-Teilneh
 Die Organisation der Satelliten soll so selbstorganisiert, wie möglich erfolgen: 
 
 1. Überlegt euch, ob ihr einen dezentralen Satelliten anbieten möchtet. Wer kann eine Lokation klein/mittel/groß anbieten? Wer kann welche Technik beisteuern? Wer kann weitere Teilnehmer:innen akquirieren?
-2. Tragt euch unten mit einer Kontaktmöglichkeit (z.B: Email) in die Liste ein, damit wir euch in ein kleines Vorbereitungstreffen einladen können.
+2. Tragt euch unten mit einer Kontaktmöglichkeit (s.o.) in die Liste ein, damit wir euch in ein kleines Vorbereitungstreffen einladen können.
 3. Im Vorbereitungstreffen (Datum tbd.) besprechen wir die Details und klären offene Fragen.
 4. Wenn ihr selbst noch weitere Teilnehmende für eure Location gewinnen wollt, könnt ihr einen Loscon-Rabatt (20%) nutzen. Die Details bringen wir zum Vorbereitungstreffen mit.
 
