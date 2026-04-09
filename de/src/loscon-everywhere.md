@@ -24,7 +24,8 @@ Die **Planung der Satelliten** für dieses Jahr läuft noch, wenn du einen Satel
 Von einem Satellit sprechen wir, wenn mehr als drei Personen sich in einer Location außerhalb von Nürnberg treffen und während der Veranstaltungszeit miteinander in Kontakt sind. Ein Satellit kann ganz verschiedene Formen haben, **von ganz klein bis etwas größer**. Einige Beispiele, die eurer Kreativität aber keine Grenzen setzen sollen:
 
 Es werden **ein oder mehrere Räume** z.B. in einem Unternehmen, einer Akademie, einem Co-Working Space, einer Bibliothek, einer Hochschule oder Volkshochschule angeboten. Ihr einigt euch darauf, an welchen Programmpunkten ihr gemeinsam teilnehmen wollt und gestaltet die Pausen zusammen. 
-In der Regel handelt es sich im offene Locations, d.h. es können sich jegliche Personen mit Loscon-Ticket separat bei euch melden. Ihr legt fest und organisiert selbst, wie viele Personen in eurer Location zusammenkommen können und wie sich diese bei euch (an)melden sollen.
+In der Regel handelt es sich im offene Locations, d.h. es können sich jegliche Personen mit Loscon-Ticket separat bei euch melden. Ihr legt fest und organisiert selbst, wie viele Personen in eurer Location zusammenkommen können und wie sich diese bei euch (an)melden sollen. 
+
 Der Satellit ist für die komplette Veranstaltungszeit für eure Vor-Ort-Teilnehmenden geöffnet (Di 13-18 Uhr & Mi 09-16 Uhr), im Idealfall mit einer Möglichkeit für die Abendveranstaltung (Di ab 18 Uhr; ihr könnt dies aber auch z.B. in einen Biergarten verlegen).
 
 **Hinweis:** Falls in einem Satellit Kosten für Catering, Getränke, Raum-/Technikkosten etc. anfallen, können die Selbstorganisiert erhoben/umgelegt werden.
@@ -43,7 +44,7 @@ Die Organisation der Satelliten soll so **selbstorganisiert wie möglich** erfol
 ### Wie läuft die loscon zeitlich ab? Was erwarten die Teilnehmende von den Räumlichkeiten?
 
 Die Loscon dauert 1,5 Tage und ist aufgeteilt in ein gemeinsames Programm (Dienstag) und individuelle Schwerpunkte (Mittwoch). 
-- Am **Dienstag** um 13 Uhr startet das **Programm**. Alle Personen nehmen bis 18 Uhr gemeinsam teil. Für diesen Part reicht es aus, wenn ihr euch in euerer Location in einem Raum mit Kamera, Mikro- Lautsprecher und gutem Blick auf einen größeren Bildschirm trefft. 
+- Am **Dienstag** um 13 Uhr startet das **Programm**. Alle Personen nehmen bis 18 Uhr gemeinsam teil. Für diesen Part reicht es aus, wenn ihr euch in eurer Location in einem Raum mit Kamera, Mikro- Lautsprecher und gutem Blick auf einen größeren Bildschirm trefft. 
 Im Anschluss beginnt die Abendveranstaltung bis maximal 22 Uhr (je nach Durchhaltevermögen; optional für die Satelliten). 
 - Am **Mittwoch** startet der Barcamp-Teil ab 9 Uhr und dauert bis 16 Uhr. In dieser Zeit werden vier Mal bis zu 5 Sessions (à 45 min) parallel stattfinden. In der Burg verteilen sich die Teilnehmenden auf die Räume / den Podcast-Tisch. In eurer Location solltet ihr je nach TN-Zahl Möglichkeiten bieten, dass sich die **Menschen individuell in ihre präferierte Session** einwählen.
 - Headset und Laptop/Device bringt jede Person selbst mit. Wenn ihr die Möglichkeit habt, verschiedene Räume zur Aufteilung anzubieten, organisiert das informell an eurer Location (z.B. Sessionplan aushängen, Striche machen für Interesse und entsprechend Räume zu den Sessions zuordnen). Mehr Informationen zu unseren Empfehlungen bzgl. technischer Ausstattung findet ihr im Abschnitt "hybride Sessionräume".
