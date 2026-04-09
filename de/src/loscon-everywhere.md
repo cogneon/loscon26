@@ -28,9 +28,9 @@ In der Regel handelt es sich im offene Locations, d.h. es können sich jegliche 
 
 Der Satellit ist für die komplette Veranstaltungszeit für eure Vor-Ort-Teilnehmenden geöffnet (Di 13-18 Uhr & Mi 09-16 Uhr), im Idealfall mit einer Möglichkeit für die Abendveranstaltung (Di ab 18 Uhr; ihr könnt dies aber auch z.B. in einen Biergarten verlegen).
 
-**Hinweis:** Falls in einem Satellit Kosten für Catering, Getränke, Raum-/Technikkosten etc. anfallen, können die Selbstorganisiert erhoben/umgelegt werden.
-
-**Hinweis:** Wenn ein Satellit auch Programm (z.B. Workshops, Sessions) in einem eigenem Raum hybrid anbieten möchte, können wir den Raum als zusätzliche Spalte im Programm aufnehmen. 
+**Hinweis:** 
+- Falls in einem Satellit Kosten für Catering, Getränke, Raum-/Technikkosten etc. anfallen, können die selbstorganisiert erhoben/umgelegt werden.
+- Wenn ein Satellit auch Programm (z.B. Workshops, Sessions) in einem eigenem Raum hybrid anbieten möchte, können wir den Raum als zusätzliche Spalte im Programm aufnehmen. 
 
 ### Wie melde ich einen loscon Satelliten an?
 
@@ -48,11 +48,13 @@ Die Loscon dauert 1,5 Tage und ist aufgeteilt in ein gemeinsames Programm (Diens
 Im Anschluss beginnt die Abendveranstaltung bis maximal 22 Uhr (je nach Durchhaltevermögen; optional für die Satelliten). 
 - Am **Mittwoch** startet der Barcamp-Teil ab 9 Uhr und dauert bis 16 Uhr. In dieser Zeit werden vier Mal bis zu 5 Sessions (à 45 min) parallel stattfinden. In der Burg verteilen sich die Teilnehmenden auf die Räume / den Podcast-Tisch. In eurer Location solltet ihr je nach TN-Zahl Möglichkeiten bieten, dass sich die **Menschen individuell in ihre präferierte Session** einwählen.
 - Headset und Laptop/Device bringt jede Person selbst mit. Wenn ihr die Möglichkeit habt, verschiedene Räume zur Aufteilung anzubieten, organisiert das informell an eurer Location (z.B. Sessionplan aushängen, Striche machen für Interesse und entsprechend Räume zu den Sessions zuordnen). Mehr Informationen zu unseren Empfehlungen bzgl. technischer Ausstattung findet ihr im Abschnitt "hybride Sessionräume".
-Wenn es nicht zuviele Personen sind, ist es üblicherweise je nach Raumgröße auch kein Problem, wenn mal 2-3 Personen im gleichen Raum, aber in unterschiedlichen Sessions sind. Ihr kennt euren Standort am Besten - überlegt euch, welche Teilnahme-Settings sich anbieten.
+- Wenn es nicht zuviele Personen sind, ist es (je nach Raumgröße) meist kein Problem, wenn mal 2-3 Personen im gleichen Raum, aber in unterschiedlichen Sessions sind. Ihr kennt euren Standort am Besten - überlegt euch, welche Teilnahme-Settings sich anbieten.
 
-Für die Teilnahme ist es wichtig, dass nicht nur die Teilnehmenden, sondern auch die Räumlichkeiten bereit sind, ihren Teil zu einem hybriden Event beizutragen. Inbesondere der Barcamp-Teil lebt davon, dass wir nicht nur zuhören, sondern auch teilgeben können.
+Für die Teilnahme ist es wichtig, dass nicht nur die Teilnehmenden, sondern auch die Räumlichkeiten bereit sind, ihren Teil zu einem hybriden Event beizutragen. Inbesondere der Barcamp-Teil lebt davon, dass alle Personen nicht nur zuhören, sondern auch teilgeben können.
 
-Zusammengefasst: Tag 1: 13-18 Uhr gemeinsame Teilnahme am Programm, Abendveranstaltung optional; Tag 2: 9-16 Uhr, davon 4x45 min individuelle Aufteilung auf Sessions nach eigener Präferenz, plus Pausen.
+**Zusammengefasst:** 
+- Tag 1: 13-18 Uhr gemeinsame Teilnahme am Programm, Abendveranstaltung optional
+- Tag 2: 9-16 Uhr, davon 4x45 min individuelle Aufteilung auf Sessions nach eigener Präferenz, plus Pausen.
 
 ### Welche technische Ausstattung braucht ein Satelliten
 
@@ -81,7 +83,7 @@ Als Beispiel könnt ihr euch mal das [Hybrid Meeting Kit](https://wiki.cogneon.d
    1. Ansicht > Vollbild - damit alles möglichst groß zu sehen ist
    2. Ansicht > Speaker - damit immer die sprechende Person groß und mit guter Auflösung erscheint
    3. Chat : Ein - damit alle im Raum die Aktivitäten im Chat sehen, teilnehmen muss man mit dem eigenen Endgerät
-3. Spezialfall Sessioninitiative aus den Satelliten: wenn Personen aus eurer Location eine eigene Session einreichen, wählen sich diese (wie alle anderen Onliner auch) zum jeweiligen Zeitslot in das Meeting ein. Sorgt gerne dafür, dass diese Person(en) bei euch auch ein geeignetes Plätzchen zur Verfügung hat (gut zu sehen/hören, wenig Hintergrundgeräusche), damit die Session ohne technischen Schluckauf funktioniert. 
+3. Spezialfall Sessioninitiative aus den Satelliten: wenn Personen aus eurer Location eine eigene Session einreichen, wählen sich diese zum jeweiligen Zeitslot wie Online-TN in das Meeting ein. Sorgt gerne dafür, dass diese Person(en) bei euch auch ein geeignetes Plätzchen zur Verfügung haben (gut zu sehen/hören, wenig Hintergrundgeräusche), damit die Session ohne technischen Schluckauf funktioniert. 
   
 **Was sollte eure Checkliste für potentielle Interessierte enthalten:**
 
@@ -93,15 +95,15 @@ Als Beispiel könnt ihr euch mal das [Hybrid Meeting Kit](https://wiki.cogneon.d
 6. Ansprechperson und Link für die Anmeldung
 7. Adresse der Location, ggf. Hinweise zu Haltestellen/Parken)
 8. Anwesenheitszeiten (ab wann ist die Location geöffnet, bis wann, inkl. Abendveranstaltung oder nicht)
-9. Sonstige Fakten über den Satellit (Gibt es Zugangs-/Sicherheitsvorgaben, besondere Öffnungszeiten, Fotos, ein besonderes Ambiente, Erfahrung aus x Jahren Loscon... bis hin zu: was sollten die Personen selbst mitbringen (eigene Kaffeetasse oder Flaschen, Steckdosenleiste, etc.)
+9. Sonstige Fakten über den Satellit (Gibt es Zugangs-/Sicherheitsvorgaben, besondere Öffnungszeiten, Fotos, ein besonderes Ambiente, Erfahrung aus x Jahren Loscon... bis hin zu: was sollten die Personen selbst mitbringen (eigene Kaffeetasse oder Flaschen, Steckdosenleiste, etc.))
 
 **WICHTIGER HINWEIS:** Auf der Loscon-Seite wird es nur einen kurzen Steckbrief für jeden Satellit geben mit einer Ansprechperson oder einem weiterführenden Link. Alle Details, Besonderheiten oder Updates solltet ihr z.B. auf einer eigenen Webseite pflegen bzw. zur Verfügung stellen. So seid ihr unabhängig und habt Änderungen und Spezifika selbst im Griff!
 Wenn ihr selbst keine Webseite habt, könnt ihr auch nur eine E-Mail-Adresse angeben, so dass euch interessierte Personen ansprechen können.
 
 ### Der Aufwand erscheint mir zu groß oder wir sind weniger als 3 Personen
 
-Richtig gute hybride Events sind mit etwas Aufwand verbunden - gleichzeitig macht es so viel mehr Laune, wenn wirklich alle Personen gleichbereichtigt die Loscon gemeinsam gestalten und nicht nur konsumieren. Loscon-Zeit ist auch immer eine besondere Zeit um etwas Neues zu lernen. Vielleicht gibst du dir trotzdem einen Ruck und lässt dich von den bereits überzeugten LernOS-Menschen mitreißen?
+Richtig gute hybride Events sind mit etwas Aufwand verbunden - gleichzeitig macht es so viel mehr Laune, wenn wirklich alle Personen gleichbereichtigt die Loscon gemeinsam gestalten und nicht nur konsumieren. Loscon-Zeit ist auch immer eine besondere Zeit, um etwas Neues zu lernen. Vielleicht gibst du dir einen Ruck und lässt dich von den bereits überzeugten LernOS-Menschen mitreißen?
 
-Und wenn ihr weniger als 3 Personen in eurem Ort seid, nutzt die Zeit außerhalb des offiziellen Programmes. 
+Wenn ihr weniger als 3 Personen in eurem Ort seid, nutzt die Zeit außerhalb des offiziellen Programmes. 
 Ihr nehmt z.B. alleine aus dem Home Office an der lernOS Convention teil, trefft euch aber Abends zum Abendessen. 
 Oder zwei bis drei Personen nehmen gemeinsam bei einer Person zu Hause an der lernOS Convention teil (das Wohnzimmer wird zur Event Location). Sei kreativ und inspiriert die anderen Teilnehmenden, dass Online nicht alleine bedeutet.
