@@ -51,10 +51,10 @@ Die Loscon dauert 1,5 Tage und ist aufgeteilt in ein gemeinsames Programm (Diens
 Für die Teilnahme ist es wichtig, dass nicht nur die Teilnehmenden, sondern auch die Räumlichkeiten bereit sind, ihren Teil zu einem hybriden Event beizutragen. Inbesondere der Barcamp-Teil lebt davon, dass alle Personen nicht nur zuhören, sondern auch teilgeben können.
 
 **Zusammengefasst:**  
-1. Tag: 13-18 Uhr gemeinsame Teilnahme am Programm, Abendveranstaltung für Satelliten optional. Vormittags Coworking optional.
+1. Tag: 13-18 Uhr gemeinsame Teilnahme am Programm, Abendveranstaltung für Satelliten optional. Vormittags Coworking optional.  
 2. Tag: 09-16 Uhr, davon 4x45 min individuelle Aufteilung auf Sessions nach eigener Präferenz, plus Pausen.  
 
-### Welche technische Ausstattung braucht ein Satelliten
+### Welche technische Ausstattung braucht ein Satellit
 
 Wir legen bewusst keine "Mindestanforderungen" für Satelliten (speziell mittlere und große) fest, um keine unnötigen Barrieren zu erzeugen. Wir haben aber einige Tipps, die zu einem guten Hybrid-Erlebnis im Satelliten führen können:
 
@@ -76,7 +76,7 @@ Als Beispiel könnt ihr euch mal das [Hybrid Meeting Kit](https://wiki.cogneon.d
 
 **Einwahl in Teams:**
 
-1. Bei Räumen mit mehreren Personen wählt sich eine (Room PC + Room Buddy) in die Videokonferenz ein, die anderen nehmen "ohne Audio" teil, damit es nicht zu Rückkopplungen/Störgeräuschen kommt.
+1. Bei Räumen mit mehreren Personen wählt sich eine Person (Room PC + Room Buddy) in die Videokonferenz ein, die anderen nehmen "ohne Audio" teil, damit es nicht zu Rückkopplungen/Störgeräuschen kommt.
 2. Den Room PC in Teams einwählen und folgende Einstellungen vornehmen:
    1. Ansicht > Vollbild - damit alles möglichst groß zu sehen ist
    2. Ansicht > Speaker - damit immer die sprechende Person groß und mit guter Auflösung erscheint
@@ -92,20 +92,22 @@ Als Beispiel könnt ihr euch mal das [Hybrid Meeting Kit](https://wiki.cogneon.d
 5. Catering (ja / nein / selbstorganisiert)
 6. Ansprechperson und Link für die Anmeldung
 7. Adresse der Location, ggf. Hinweise zu Haltestellen/Parken)
-8. Anwesenheitszeiten (ab wann ist die Location geöffnet, bis wann, inkl. Abendveranstaltung oder nicht)
+8. Anwesenheitszeiten (ab wann ist die Location geöffnet, bis wann, inkl. Abendveranstaltung/Coworking?)
 9. Sonstige Fakten über den Satellit (Gibt es Zugangs-/Sicherheitsvorgaben, besondere Öffnungszeiten, Fotos, ein besonderes Ambiente, Erfahrung aus x Jahren Loscon... bis hin zu: was sollten die Personen selbst mitbringen (eigene Kaffeetasse oder Flaschen, Steckdosenleiste, etc.))
 
 **WICHTIGER HINWEIS:**  
+Auf der Loscon-Seite wird es nur einen kurzen Steckbrief für jeden Satellit geben mit einer Ansprechperson oder einem weiterführenden Link. 
+Alle Details, Besonderheiten oder Updates solltet ihr z.B. auf einer eigenen Webseite pflegen bzw. zur Verfügung stellen. So seid ihr unabhängig und habt Änderungen und Spezifika selbst im Griff!  
+Wenn ihr selbst keine Webseite habt, können wir euch ein Etherpad zur Verfügung stellen. Oder ihre legt ein Event auf LinkedIn, Eventbrite oder einer Plattform eurer Wahl an. Wer's noch einfacher braucht, kann auch nur eine E-Mail-Adresse angeben, so dass euch interessierte Personen ansprechen können.
 
-Auf der Loscon-Seite wird es nur einen kurzen Steckbrief für jeden Satellit geben mit einer Ansprechperson oder einem weiterführenden Link. Alle Details, Besonderheiten oder Updates solltet ihr z.B. auf einer eigenen Webseite pflegen bzw. zur Verfügung stellen. So seid ihr unabhängig und habt Änderungen und Spezifika selbst im Griff!  
-Wenn ihr selbst keine Webseite habt, können wir euch Etherpads zur Verfügung stellen. Oder ihre legt ein Event auf LinkedIn, Eventbrite oder einer Plattform eurer Wahl an. Wer's noch einfacher braucht, kann auch nur eine E-Mail-Adresse angeben, so dass euch interessierte Personen ansprechen können.
+### Der Aufwand erscheint mir groß
 
-### Der Aufwand erscheint mir so groß
-
-Richtig gute hybride Events sind mit etwas Aufwand verbunden - gleichzeitig macht es so viel mehr Laune, wenn wirklich alle Personen gleichbereichtigt die Loscon gemeinsam gestalten und nicht nur konsumieren. Loscon-Zeit ist auch immer eine besondere Zeit, um etwas Neues zu lernen. Vielleicht gibst du dir einen Ruck und lässt dich von den bereits überzeugten LernOS-Menschen mitreißen?
+Richtig gute hybride Events sind mit etwas Aufwand verbunden - gleichzeitig macht es so viel mehr Laune, wenn wirklich alle Personen gleichbereichtigt die Loscon gemeinsam gestalten und nicht nur konsumieren. Loscon-Zeit ist auch immer eine besondere Zeit, um etwas Neues zu lernen. 
+Vielleicht gibst du dir einen Ruck und lässt dich von den bereits überzeugten LernOS-Menschen mitreißen?
 
 ### Wir sind weniger als 3 Personen
 
 Wenn ihr weniger als 3 Personen in eurem Ort seid, nutzt die Zeit außerhalb des offiziellen Programmes.  
 Ihr nehmt z.B. alleine aus dem Home Office an der lernOS Convention teil, trefft euch aber Abends zum Abendessen.   
-Oder zwei bis drei Personen nehmen gemeinsam bei einer Person zu Hause an der lernOS Convention teil (das Wohnzimmer wird zur Event Location). Sei kreativ und inspiriert die anderen Teilnehmenden, dass Online nicht alleine bedeutet.
+Oder zwei bis drei Personen nehmen gemeinsam bei einer Person zu Hause an der lernOS Convention teil (das Wohnzimmer wird zur Event Location). 
+Seid kreativ und inspiriert die anderen Teilnehmenden, dass Online nicht alleine bedeutet.
