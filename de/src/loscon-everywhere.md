@@ -98,7 +98,7 @@ Als Beispiel könnt ihr euch mal das [Hybrid Meeting Kit](https://wiki.cogneon.d
 **WICHTIGER HINWEIS:**  
 Auf der Loscon-Seite wird es nur einen kurzen Steckbrief für jeden Satellit geben mit einer Ansprechperson oder einem weiterführenden Link. 
 Alle Details, Besonderheiten oder Updates solltet ihr z.B. auf einer eigenen Webseite pflegen bzw. zur Verfügung stellen. So seid ihr unabhängig und habt Änderungen und Spezifika selbst im Griff!  
-Wenn ihr selbst keine Webseite habt, können wir euch ein Etherpad zur Verfügung stellen. Oder ihre legt ein Event auf LinkedIn, Eventbrite oder einer Plattform eurer Wahl an. Wer's noch einfacher braucht, kann auch nur eine E-Mail-Adresse angeben, so dass euch interessierte Personen ansprechen können.
+Wenn ihr selbst keine Webseite habt, können wir euch ein Etherpad zur Verfügung stellen. Oder ihr legt ein Event auf LinkedIn, Eventbrite oder einer Plattform eurer Wahl an. Wer's noch einfacher braucht, kann auch nur eine E-Mail-Adresse angeben, so dass euch interessierte Personen ansprechen können.
 
 ### Der Aufwand erscheint mir groß
 
@@ -107,7 +107,6 @@ Vielleicht gibst du dir einen Ruck und lässt dich von den bereits überzeugten 
 
 ### Wir sind weniger als 3 Personen
 
-Wenn ihr weniger als 3 Personen in eurem Ort seid, nutzt die Zeit außerhalb des offiziellen Programmes.  
-Ihr nehmt z.B. alleine aus dem Home Office an der lernOS Convention teil, trefft euch aber Abends zum Abendessen.   
+Wenn ihr weniger als 3 Personen in eurem Ort seid, nutzt die Zeit außerhalb des offiziellen Programmes. Ihr nehmt z.B. alleine aus dem Home Office an der lernOS Convention teil, trefft euch aber Abends zum Abendessen.   
 Oder zwei bis drei Personen nehmen gemeinsam bei einer Person zu Hause an der lernOS Convention teil (das Wohnzimmer wird zur Event Location). 
 Seid kreativ und inspiriert die anderen Teilnehmenden, dass Online nicht alleine bedeutet.
