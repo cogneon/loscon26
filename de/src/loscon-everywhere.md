@@ -13,7 +13,7 @@ Die **Planung der Satelliten** für dieses Jahr läuft noch, wenn du einen Satel
 1. **Berlin** beim [TÜV Verband](https://www.tuev-verband.de/)
 2. **Hamburg 1** in der [Volkshochschule Hamburg](https://www.vhs-hamburg.de/)
 3. **Hamburg 2** bei [osb international systemic consulting](https://www.osb-i.com/)
-4. **Mallorca** im [Rayaworx](https://www.rayaworx.eu/) (Coworking Space)
+4. **Mallorca** im [Rayaworx](https://www.rayaworx.eu/calendario/lernos-convention-satellit-mallorca-loscon26) (Coworking Space)
 5. **München** bei https://www.lv1871.de/ (LV1871)
 6. **Würzburg** im [nomad reconnect](https://www.nomad-reconnect.de/) (Coworking Space)
 
@@ -26,11 +26,9 @@ Von einem Satellit sprechen wir, wenn mehr als drei Personen sich in einer Locat
 Es werden **ein oder mehrere Räume** z.B. in einem Unternehmen, einer Akademie, einem Co-Working Space, einer Bibliothek, einer Hochschule oder Volkshochschule angeboten. Ihr einigt euch darauf, an welchen Programmpunkten ihr gemeinsam teilnehmen wollt und gestaltet die Pausen zusammen. 
 In der Regel handelt es sich im offene Locations, d.h. es können sich jegliche Personen mit Loscon-Ticket separat bei euch melden. Ihr legt fest und organisiert selbst, wie viele Personen in eurer Location zusammenkommen können und wie sich diese bei euch (an)melden sollen. 
 
-Der Satellit ist für die komplette Veranstaltungszeit für eure Vor-Ort-Teilnehmenden geöffnet (Di 13-18 Uhr & Mi 09-16 Uhr), im Idealfall mit einer Möglichkeit für die Abendveranstaltung (Di ab 18 Uhr; ihr könnt dies aber auch z.B. in einen Biergarten verlegen).
+Der Satellit ist zumindest für die komplette Veranstaltungszeit für eure Vor-Ort-Teilnehmenden geöffnet (Dienstag 13-18 Uhr & Mittwoch 09-16 Uhr). Im Idealfall mit einer Möglichkeit Dienstag Vormittag für [offenes Coworking](https://loscon.lernos.org/de/coworking/) und für die Abendveranstaltung (Di ab 18 Uhr; ihr könnt dies aber auch z.B. in einen Biergarten verlegen).
 
-**Hinweis:** 
-1. Falls in einem Satellit Kosten für Catering, Getränke, Raum-/Technikkosten etc. anfallen, können die selbstorganisiert erhoben/umgelegt werden.
-2. Wenn ein Satellit auch Programm (z.B. Workshops, Sessions) in einem eigenem Raum hybrid anbieten möchte, können wir den Raum als zusätzliche Spalte im Programm aufnehmen. 
+**Hinweis:** Falls in einem Satellit Kosten für Catering, Getränke, Raum-/Technikkosten etc. anfallen, können die selbstorganisiert erhoben/umgelegt werden.
 
 ### Wie melde ich einen loscon Satelliten an?
 
@@ -44,6 +42,7 @@ Die Organisation der Satelliten soll so **selbstorganisiert wie möglich** erfol
 ### Wie läuft die loscon zeitlich ab? Was erwarten die Teilnehmende von den Räumlichkeiten?
 
 Die Loscon dauert 1,5 Tage und ist aufgeteilt in ein gemeinsames Programm (Dienstag) und individuelle Schwerpunkte (Mittwoch).   
+
 1. Am **Dienstag** um 13 Uhr startet das **Programm**. Alle Personen nehmen bis 18 Uhr gemeinsam teil. Für diesen Part reicht es aus, wenn ihr euch in eurer Location in einem Raum mit Kamera, Mikro- Lautsprecher und gutem Blick auf einen größeren Bildschirm trefft. Im Anschluss beginnt die Abendveranstaltung bis maximal 22 Uhr (je nach Durchhaltevermögen; optional für die Satelliten).  
 2. Am **Mittwoch** startet der Barcamp-Teil ab 9 Uhr und dauert bis 16 Uhr. In dieser Zeit werden vier Mal bis zu 5 Sessions (à 45 min) parallel stattfinden. In der Burg verteilen sich die Teilnehmenden auf die Räume / den Podcast-Tisch. In eurer Location solltet ihr je nach TN-Zahl Möglichkeiten bieten, dass sich die **Menschen individuell in ihre präferierte Session** einwählen.  
 3. Headset und Laptop/Device bringt jede Person selbst mit. Wenn ihr die Möglichkeit habt, verschiedene Räume zur Aufteilung anzubieten, organisiert das informell an eurer Location (z.B. Sessionplan aushängen, Striche machen für Interesse und entsprechend Räume zu den Sessions zuordnen). Mehr Informationen zu unseren Empfehlungen bzgl. technischer Ausstattung findet ihr im Abschnitt "hybride Sessionräume".  
@@ -52,7 +51,7 @@ Die Loscon dauert 1,5 Tage und ist aufgeteilt in ein gemeinsames Programm (Diens
 Für die Teilnahme ist es wichtig, dass nicht nur die Teilnehmenden, sondern auch die Räumlichkeiten bereit sind, ihren Teil zu einem hybriden Event beizutragen. Inbesondere der Barcamp-Teil lebt davon, dass alle Personen nicht nur zuhören, sondern auch teilgeben können.
 
 **Zusammengefasst:**  
-1. Tag: 13-18 Uhr gemeinsame Teilnahme am Programm, Abendveranstaltung für Satelliten optional  
+1. Tag: 13-18 Uhr gemeinsame Teilnahme am Programm, Abendveranstaltung für Satelliten optional. Vormittags Coworking optional.
 2. Tag: 09-16 Uhr, davon 4x45 min individuelle Aufteilung auf Sessions nach eigener Präferenz, plus Pausen.  
 
 ### Welche technische Ausstattung braucht ein Satelliten
@@ -96,8 +95,10 @@ Als Beispiel könnt ihr euch mal das [Hybrid Meeting Kit](https://wiki.cogneon.d
 8. Anwesenheitszeiten (ab wann ist die Location geöffnet, bis wann, inkl. Abendveranstaltung oder nicht)
 9. Sonstige Fakten über den Satellit (Gibt es Zugangs-/Sicherheitsvorgaben, besondere Öffnungszeiten, Fotos, ein besonderes Ambiente, Erfahrung aus x Jahren Loscon... bis hin zu: was sollten die Personen selbst mitbringen (eigene Kaffeetasse oder Flaschen, Steckdosenleiste, etc.))
 
-**WICHTIGER HINWEIS:** Auf der Loscon-Seite wird es nur einen kurzen Steckbrief für jeden Satellit geben mit einer Ansprechperson oder einem weiterführenden Link. Alle Details, Besonderheiten oder Updates solltet ihr z.B. auf einer eigenen Webseite pflegen bzw. zur Verfügung stellen. So seid ihr unabhängig und habt Änderungen und Spezifika selbst im Griff!  
-Wenn ihr selbst keine Webseite habt, könnt ihr auch nur eine E-Mail-Adresse angeben, so dass euch interessierte Personen ansprechen können.
+**WICHTIGER HINWEIS:**  
+
+Auf der Loscon-Seite wird es nur einen kurzen Steckbrief für jeden Satellit geben mit einer Ansprechperson oder einem weiterführenden Link. Alle Details, Besonderheiten oder Updates solltet ihr z.B. auf einer eigenen Webseite pflegen bzw. zur Verfügung stellen. So seid ihr unabhängig und habt Änderungen und Spezifika selbst im Griff!  
+Wenn ihr selbst keine Webseite habt, können wir euch Etherpads zur Verfügung stellen. Oder ihre legt ein Event auf LinkedIn, Eventbrite oder einer Plattform eurer Wahl an. Wer's noch einfacher braucht, kann auch nur eine E-Mail-Adresse angeben, so dass euch interessierte Personen ansprechen können.
 
 ### Der Aufwand erscheint mir so groß
 
