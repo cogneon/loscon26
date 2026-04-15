@@ -62,7 +62,7 @@ Wir legen bewusst keine "Mindestanforderungen" für Satelliten (speziell mittler
 
 1. Für das leibliche Wohl sorgen, das ist die halbe Miete 😉
 2. Stabiles WLAN für die Teilnehmenden sollte vorhanden sein
-3. Für genug Stom und Lademöglichkeiten sorgen
+3. Für genug Strom und Lademöglichkeiten sorgen
 4. Alle Teilnehmende sollten 1-2 eigene Endgeräte mitbringen (Ideal: Laptop + Smartphone)
 
 **Für hybride Sessionräume:**
