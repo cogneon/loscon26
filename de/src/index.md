@@ -14,7 +14,7 @@ Vom **23.-24. Juni 2026** findet die **10. lernOS Convention** ([#loscon26](http
 
 ## Wichtige Termine
 
-- ✅ **02.03.:** Golive [Landing Page](https://cogneon.de/loscon26), [Ticket-Shop](https://pretix.eu/cogneon/loscon25/) und Versand Einladung an loscon-Alumni
+- ✅ **02.03.:** Golive [Landing Page](https://cogneon.de/loscon26), [Ticket-Shop](https://pretix.eu/cogneon/loscon26/) und Versand Einladung an loscon-Alumni
 - ✅ **16.03.:** Golive [Call for Participation](https://pretalx.com/loscon26/cfp) (Einreichung Programmvorschlägen bis Ende April)
 - **11.05.:** [Programm](https://pretalx.com/loscon26/schedule/) Version 1.0 ist fertig 🎉
 - **17.06.:** [Vorab-Webkonferenz](pre-call.md) (13:05 - 13:55 Uhr)
