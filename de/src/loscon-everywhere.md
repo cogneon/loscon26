@@ -17,7 +17,7 @@ Die **Planung der Satelliten** für dieses Jahr läuft noch, wenn du einen Satel
 2. **Hamburg 1** in der [Volkshochschule Hamburg](https://www.vhs-hamburg.de/)
 3. **Hamburg 2** bei [osb international systemic consulting](https://www.osb-i.com/)
 4. **Mallorca** im [Rayaworx](https://www.rayaworx.eu/calendario/lernos-convention-satellit-mallorca-loscon26) (Coworking Space)
-5. **München** bei https://www.lv1871.de/ (LV1871)
+5. **München** bei [LV1871](https://www.lv1871.de/)
 6. **Würzburg** im [nomad reconnect](https://www.nomad-reconnect.de/) (Coworking Space)
 
 ## Oft gestellte Fragen zu Satelliten
