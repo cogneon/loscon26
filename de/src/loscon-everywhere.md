@@ -13,12 +13,13 @@
 
 Die **Planung der Satelliten** für dieses Jahr läuft noch, wenn du einen Satellit im Rahmen der lernOS Convention anbieten möchtet, nimm bitte [Kontakt mit uns auf](mailto:loscon@lernos.org?subject=loscon%20Satellit). Aktuell sind gemeldet:
 
-1. **Berlin** beim [TÜV Verband](https://www.tuev-verband.de/)
-2. **Hamburg 1** in der [Volkshochschule Hamburg](https://www.vhs-hamburg.de/)
-3. **Hamburg 2** bei [osb international systemic consulting](https://www.osb-i.com/)
+1. **Berlin** beim [TÜV Verband](https://pad.cogneon.io/p/r.0d1a603e5575004cd27cb9901b0253c4)
+2. **Hamburg 1** in der [Volkshochschule Hamburg](https://pad.cogneon.io/p/r.54a9ec054d6d0101eb712da08acb2493)
+3. **Hamburg 2** bei [osb international systemic consulting](https://pad.cogneon.io/p/r.b2439a7ed3a44be38943331a279b0955)
 4. **Mallorca** im [Rayaworx](https://www.rayaworx.eu/calendario/lernos-convention-satellit-mallorca-loscon26) (Coworking Space)
-5. **München** bei [LV1871](https://www.lv1871.de/)
-6. **Würzburg** im [nomad reconnect](https://www.nomad-reconnect.de/) (Coworking Space)
+5. **München** bei [LV1871](https://pad.cogneon.io/p/r.053296a9d31876324fb5c8db8db16ffd)
+6. **Würzburg** im [nomad reconnect](https://pad.cogneon.io/p/r.8024c9147a12fa5d8ac9b727489872e7) (Coworking Space)
+7. **Wien** im [AI:AT Coworking Hub im SOLARIS](https://pad.cogneon.io/p/r.4e01dc980ff395db0d3f3512d6353ede) (Coworking Space)
 
 ## Oft gestellte Fragen zu Satelliten
 
