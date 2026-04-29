@@ -71,7 +71,7 @@ Wir legen bewusst keine "Mindestanforderungen" für Satelliten (speziell mittler
 
 **Für hybride Sessionräume:**
 
-1. Ein oder (luxoriöserweise) zwei Displays oder Beamer, damit alle was sehen
+1. Ein oder (luxuriöserweise) zwei Displays oder Beamer, damit alle was sehen
 2. Eine (weitwinklinge) Webcam, die den ganzen Raum erfasst (für Nahaufnahme können Teilnehmende das eigene Endgerät verwenden)
 3. Ein Lautsprecher (z.B. als Teil der Webcam/Videobar oder separat), damit alle was hören
 4. Mikrofone (idealerweise zwei), damit alle gut zu hören sind. Eingebaute Mikrofone von PCs und Videobars sind bei größeren Räumen nicht geeignet, wir empfehlen Funkmikrofone wie z.B. [Rode Wireless Go II](https://amzn.to/3Y7snQX) in einen [Schaumstoffwürfel](https://amzn.to/3FUX7y6) zum Werfen verpackt
