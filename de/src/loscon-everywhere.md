@@ -19,7 +19,7 @@ Die **Planung der Satelliten** für dieses Jahr läuft noch, wenn du einen Satel
 4. **Mallorca** im [Rayaworx](https://www.rayaworx.eu/calendario/lernos-convention-satellit-mallorca-loscon26) (Coworking Space)
 5. **München** bei [LV1871](https://pad.cogneon.io/p/r.053296a9d31876324fb5c8db8db16ffd)
 6. **Würzburg** im [nomad reconnect](https://pad.cogneon.io/p/r.8024c9147a12fa5d8ac9b727489872e7) (Coworking Space)
-7. **Wien** im [AI:AT Coworking Hub im SOLARIS](https://pad.cogneon.io/p/r.4e01dc980ff395db0d3f3512d6353ede) (Coworking Space)
+7. **Wien** in der [KM-A Wissenspartnerschaft Österreich](https://km-a.net/de/innovation-2/wissenspartnerschaft/)
 
 ## Oft gestellte Fragen zu Satelliten
 
