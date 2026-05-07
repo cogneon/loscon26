@@ -11,7 +11,6 @@ Das Orga-Team hat ab dem 30.01.2026 einen **wöchentlichen Orga-Call** jeweils *
 
 ## Das diesjährige loscon Orga-Team
 
-1. [Anke Schiffer-Chollet](https://www.linkedin.com/in/anke-schiffer-chollet/)
 1. [Benedikt Scheerer](https://www.linkedin.com/in/benedikt-scheerer-6020ba18/)
 1. [Brigitte Lüdecke](https://www.linkedin.com/in/brigitteluedecke/)
 1. [Christian Kaiser](https://www.linkedin.com/in/christian-kaiser-datev/)
