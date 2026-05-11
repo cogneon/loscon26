@@ -2,7 +2,11 @@
 
 ![](img/loscon26-banner.png)
 
-Vom **23.-24. Juni 2026** findet die **10. lernOS Convention** ([#loscon26](https://cogneon.github.io/mastowall/?hashtags=loscon26%2Clernos&server=https%3A%2F%2Fcolearn.social)) auf der [Kaiserburg Nürnberg](location.md), in [dezentralen Lokationen](loscon-everywhere.md) und [Online](hmk.md) statt. Das **Community-Event** zu **Wissensmanagement** & **Lernenden Organisationen** steht dieses Mal unter dem **Motto „AI for Work that Works!“**. Auf den **Infoseiten** unter [loscon.lernos.org](https://loscon.lernos.org) findet ihr alle Infos.
+Vom **23.-24. Juni 2026** findet die **10. lernOS Convention** ([#loscon26](https://cogneon.github.io/mastowall/?hashtags=loscon26%2Clernos&server=https%3A%2F%2Fcolearn.social)) auf der [Kaiserburg Nürnberg](location.md), in [dezentralen Lokationen](loscon-everywhere.md) und [Online](hmk.md) statt. Das **Community-Event** zu **Wissensmanagement** & **Lernenden Organisationen** steht dieses Mal unter dem **Motto „AI for Work that Works!“**. Auf den **Infoseiten** hier unter [loscon.lernos.org](https://loscon.lernos.org) findet ihr alle Infos.
+
+Du kennst **lernOS** noch gar nicht? 
+Mit **lernOS** lernst Du gemeinsam statt allein: flexibel, strukturiert und im Austausch mit Deiner Lerngruppe und Community. Lernpfade, Wochencalls und gegenseitiger Support helfen Dir, dranzubleiben und neue Perspektiven zu gewinnen. Die Community lebt von Offenheit, Wissensaustausch und aktiver Mitgestaltung.
+**lernOS** arbeitet agil mit adaptiven Lernzielen in 3-Monats-Sprints und fördert so systematisches Wissensmanagement und lebenslanges Lernen. Die **lernOS Community** entwickelt das Konzept kontinuierlich weiter – und trifft sich jährlich auf der **lernOS Convention**, der **loscon**.
 
 <center><button type="button" style="background-color: #00FF41; color: white;"><a href="https://pretix.eu/cogneon/loscon26/" target="_blank">Tickets</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://pretalx.com/loscon26/" target="_blank">Einreichung Programmvorschläge</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://loscon26.myspreadshop.de/all" target="_blank">Merch</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://flow.cogneon.io/webhook/f56199f0-dfa6-42a1-95b5-673d08e2c458/chat" target="_blank">Chatbot</a></button></center>
 
