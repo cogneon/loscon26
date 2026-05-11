@@ -8,7 +8,7 @@ Du kennst **lernOS** noch gar nicht?
 Mit **lernOS** lernst Du gemeinsam statt allein: flexibel, strukturiert und im Austausch mit Deiner Lerngruppe und Community. Lernpfade, Wochencalls und gegenseitiger Support helfen Dir, dranzubleiben und neue Perspektiven zu gewinnen. Die Community lebt von Offenheit, Wissensaustausch und aktiver Mitgestaltung.
 **lernOS** arbeitet agil mit adaptiven Lernzielen in 3-Monats-Sprints und fördert so systematisches Wissensmanagement und lebenslanges Lernen. Die **lernOS Community** entwickelt das Konzept kontinuierlich weiter – und trifft sich jährlich auf der **lernOS Convention**, der **loscon**.
 
-<center><button type="button" style="background-color: #00FF41; color: white;"><a href="https://pretix.eu/cogneon/loscon26/" target="_blank">Tickets</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://pretalx.com/loscon26/" target="_blank">Einreichung Programmvorschläge</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://loscon26.myspreadshop.de/all" target="_blank">Merch</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://flow.cogneon.io/webhook/f56199f0-dfa6-42a1-95b5-673d08e2c458/chat" target="_blank">Chatbot</a></button></center>
+<center><button type="button" style="background-color: #00FF41; color: white;"><a href="https://pretix.eu/cogneon/loscon26/" target="_blank">Tickets</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://loscon.lernos.org/de/program/">Programm</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://loscon26.myspreadshop.de/all" target="_blank">Merch</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://flow.cogneon.io/webhook/f56199f0-dfa6-42a1-95b5-673d08e2c458/chat" target="_blank">Chatbot</a></button></center>
 
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 
@@ -20,7 +20,7 @@ Mit **lernOS** lernst Du gemeinsam statt allein: flexibel, strukturiert und im A
 
 - ✅ **02.03.:** Golive [Landing Page](https://cogneon.de/loscon26), [Ticket-Shop](https://pretix.eu/cogneon/loscon26/) und Versand Einladung an loscon-Alumni
 - ✅ **16.03.:** Golive [Call for Participation](https://pretalx.com/loscon26/cfp) (Einreichung Programmvorschlägen bis Ende April)
-- **11.05.:** [Programm](https://pretalx.com/loscon26/schedule/) Version 1.0 ist fertig 🎉
+- ✅ **11.05.:** [Programm](program.md) Version 1.0 ist fertig 🎉
 - **17.06.:** [Vorab-Webkonferenz](pre-call.md) (13:05 - 13:55 Uhr)
 - **22.06.:** [Vorabend-Treffen](eve.md) bei der Eröffnung des [Nürnberg Digital Festivals](https://nuernberg.digital)
 - **23.-24.06.:** [lernOS Convention 2026](program.md) 🚀

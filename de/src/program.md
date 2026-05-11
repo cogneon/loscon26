@@ -1,6 +1,6 @@
 # Programm
 
-Das **Program der lernOS Convention** findet ihr unter [pretalx.com/loscon26/schedule](https://pretalx.com/loscon26/schedule/) (am besten zu Lesezeichen hinzufügen), über den [Call for Participation](https://pretalx.com/loscon26/cfp) könnt ihr Programmvorschläge einreichen.
+Das **Program der lernOS Convention** findet ihr auch unter [pretalx.com/loscon26/schedule](https://pretalx.com/loscon26/schedule/) (am besten zu Lesezeichen hinzufügen) und unten eingebettet. Die Barcamp-Sessions an Tag 2 bestimmen wir [im klassichen Barcamp-Modus](https://www.youtube.com/watch?v=jLnISfPxGWg) durch den Sessionpitch an Tag 2 gemeinsam.
 
 <pretalx-schedule event-url="https://pretalx.com/loscon26/" locale="de" format="list" style="--pretalx-clr-primary: #000000"></pretalx-schedule>
 <noscript>
