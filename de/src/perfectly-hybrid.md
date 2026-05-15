@@ -1,5 +1,8 @@
 # Perfectly Hybrid
 
+
+<img width="676" height="1030" alt="image" src="https://github.com/user-attachments/assets/ce33ad62-20bb-4176-bb24-eb283769a67e" />
+
 Die loscon26 versteht Hybridität nicht als Nebenaspekt der Veranstaltung, sondern als zentrales Gestaltungsprinzip. Ziel ist es, Teilnehmenden vor Ort auf der Burg, Online und in Satelliten eine möglichst gleichwertige Teilhabe am gemeinsamen Lern- und Arbeitsprozess zu ermöglichen.
 
 Dafür braucht es neben passender Technik vor allem klare Rollen, gemeinsame Erwartungen und ein hybrides Mindset aller Beteiligten. Die folgenden Rollenbeschreibungen dienen dazu, Verantwortlichkeiten zu klären, Orientierung zu geben und die Vorbereitung sowie Durchführung hybrider Sessions verlässlich zu unterstützen.
