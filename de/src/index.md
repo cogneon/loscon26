@@ -21,6 +21,7 @@ Mit **lernOS** lernst Du gemeinsam statt allein: flexibel, strukturiert und im A
 - ✅ **02.03.:** Golive [Landing Page](https://cogneon.de/loscon26), [Ticket-Shop](https://pretix.eu/cogneon/loscon26/) und Versand Einladung an loscon-Alumni
 - ✅ **16.03.:** Golive [Call for Participation](https://pretalx.com/loscon26/cfp) (Einreichung Programmvorschlägen bis Ende April)
 - ✅ **11.05.:** [Programm](program.md) Version 1.0 ist fertig 🎉
+- **31.05.:** Ende des [AI Crowdsourcing 2026](ai-crowdsourcing.md)
 - **17.06.:** [Vorab-Webkonferenz](pre-call.md) (13:05 - 13:55 Uhr)
 - **22.06.:** [Vorabend-Treffen](eve.md) bei der Eröffnung des [Nürnberg Digital Festivals](https://nuernberg.digital)
 - **23.-24.06.:** [lernOS Convention 2026](program.md) 🚀
