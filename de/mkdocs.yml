@@ -15,6 +15,7 @@ nav:
 - FAQ: faq.md
 - Vorbereitung:
   - Vorab-Webkonferenz: pre-call.md
+  - AI Crowdsourcing: ai-crowdsourcing.md
   - Merch: merch.md
   - Mitbringen: to-bring.md
   - Anreise: getting-there.md
@@ -33,8 +34,12 @@ nav:
   - Satelliten: loscon-everywhere.md
   - Barrierefreiheit: accessibility.md
   - Podcast-Tisch: podcasting.md
-- Perfectly Hybrid:
+- Hybride Veranstaltung:
+  - Perfectly Hybrid: perfectly-hybrid.md
   - Hybrid Meeting Kit: hmk.md
+  - Rolle Room Buddy: role-room-buddy.md
+  - Rolle Session Owner: role-session-owner.md
+  - Rolle Satellite Owner: role-satellite-owner.md
   - Teams: teams.md
   - Discord: discord.md
   - Netzwerk: network.md
