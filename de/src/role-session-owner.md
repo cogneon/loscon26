@@ -29,7 +29,7 @@ Der Session Owner versteht die Session als gemeinsamen Lernraum, der über mehre
 - Zwischenergebnisse, Kernpunkte oder nächste Schritte sichtbar machen
 - die Session klar abschließen und Ergebnisse sichern
 - den Room Buddy aktiv einbeziehen
-- zum Abschluss der Session die Teilnehmenden bitten, ihre 3 wesentlichen Learnings unmittelbar nach der Session in Discord zu notieren, damit sie in die Dokumentation und in das Sketchnoting aufgenommen werden können.
+- zum Abschluss der Session die Teilnehmenden bitten, ihre 3 wesentlichen Learnings unmittelbar nach der Session in Discord zu notieren, damit sie in die Dokumentation und in die Graphic - Facilitation aufgenommen werden können.
 
 ## Besondere Verantwortung im hybriden Setting
 
