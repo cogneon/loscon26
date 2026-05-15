@@ -5,9 +5,7 @@
 Die loscon26 versteht Hybridität nicht als Nebenaspekt. Dafür braucht es neben passender Technik vor allem klare Rollen, gemeinsame
 Erwartungen und ein hybrides Mindset aller Beteiligten.
 
-<img src="img/perfectly_hybrid_loscon26_v2.png"
-     alt="Perfectly Hybrid – das Hybrid-Konzept der loscon26 im Überblick"
-     width="800">
+<img width="2184" height="4065" alt="perfectly_hybrid_loscon26_v2" src="https://github.com/user-attachments/assets/1c63c58c-7253-4d01-bfe5-530f572d801e" />
 
 Die folgenden Rollenbeschreibungen dienen dazu Verantwortlichkeiten zu klären, Orientierung zu geben und die Vorbereitung sowie Durchführung hybrider Sessions verlässlich zu unterstützen.
 
