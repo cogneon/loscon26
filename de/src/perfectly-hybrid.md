@@ -1,10 +1,15 @@
 # Perfectly Hybrid
 
-Die loscon26 versteht Hybridität nicht als Nebenaspekt der Veranstaltung, sondern als zentrales Gestaltungsprinzip. Ziel ist es, Teilnehmenden vor Ort auf der Burg, Online und in Satelliten eine möglichst gleichwertige Teilhabe am gemeinsamen Lern- und Arbeitsprozess zu ermöglichen.
+## Perfectly Hybrid
 
-Dafür braucht es neben passender Technik vor allem klare Rollen, gemeinsame Erwartungen und ein hybrides Mindset aller Beteiligten. Die folgenden Rollenbeschreibungen dienen dazu, Verantwortlichkeiten zu klären, Orientierung zu geben und die Vorbereitung sowie Durchführung hybrider Sessions verlässlich zu unterstützen.
+Die loscon26 versteht Hybridität nicht als Nebenaspekt. Dafür braucht es neben passender Technik vor allem klare Rollen, gemeinsame
+Erwartungen und ein hybrides Mindset aller Beteiligten.
 
-> *Perfectly Hybrid gelingt nicht allein durch Technik, sondern durch Haltung, Vorbereitung, Rollenklärung und gute Zusammenarbeit.* (Hans)
+<img src="img/perfectly_hybrid_loscon26_v2.png"
+     alt="Perfectly Hybrid – das Hybrid-Konzept der loscon26 im Überblick"
+     width="800">
+
+Die folgenden Rollenbeschreibungen dienen dazu Verantwortlichkeiten zu klären, Orientierung zu geben und die Vorbereitung sowie Durchführung hybrider Sessions verlässlich zu unterstützen.
 
 Zum **Perfectly-Hybrid-Konzept** gehört auch das [Hybrid Meeting Kit](hmk.md), um guten Ton aus den Sessions und Workshops zu ermöglichen.
 
