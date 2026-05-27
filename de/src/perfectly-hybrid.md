@@ -11,14 +11,14 @@ Erwartungen und ein hybrides Mindset aller Beteiligten.
      style="width: 100%; height: auto; display: block;">
 
 <map name="prefectlyHybrid" id="prefectlyHybrid">
-  <area shape="rect" coords="72,687,722,1254" href="https://loscon.lernos.org/de/location/" title="Vor Ort">
-  <area shape="rect" coords="1454,687,2110,1254" href="https://loscon.lernos.org/de/loscon-everywhere/" title="Satelliten">
+  <area shape="rect" coords="72,1420,727,1985" href="https://loscon.lernos.org/de/location/" title="Vor Ort">
+  <area shape="rect" coords="1455,1420,2110,1985" href="https://loscon.lernos.org/de/loscon-everywhere/" title="Satelliten">
 
-  <area shape="rect" coords="72,2976,722,3675" href="https://loscon.lernos.org/de/role-room-buddy/" title="Room Buddy">
-  <area shape="rect" coords="764,2976,1419,3675" href="https://loscon.lernos.org/de/role-session-owner/" title="Session Owner">
-  <area shape="rect" coords="1454,2976,2110,3675" href="https://loscon.lernos.org/de/role-session-owner/" title="Satelliten Owner">
+  <area shape="rect" coords="72,3000,722,3700" href="https://loscon.lernos.org/de/role-room-buddy/" title="Room Buddy">
+  <area shape="rect" coords="764,3000,1419,3700" href="https://loscon.lernos.org/de/role-session-owner/" title="Session Owner">
+  <area shape="rect" coords="1454,3000,2110,3700" href="https://loscon.lernos.org/de/role-session-owner/" title="Satelliten Owner">
 
-  <area shape="rect" coords="72,3791,2110,3998" href="https://loscon.lernos.org/de/hmk/" title="Hybrid Meeting Kit">
+  <area shape="rect" coords="72,3791,2110,3990" href="https://loscon.lernos.org/de/hmk/" title="Hybrid Meeting Kit">
 </map>
 
 <script src="/de/imageMapResizer.min.js"></script>
