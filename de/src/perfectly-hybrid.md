@@ -5,7 +5,27 @@
 Die loscon26 versteht Hybridität nicht als Nebenaspekt. Dafür braucht es neben passender Technik vor allem klare Rollen, gemeinsame
 Erwartungen und ein hybrides Mindset aller Beteiligten.
 
-<img width="2184" height="4065" alt="perfectly_hybrid_loscon26_v2" src="https://github.com/user-attachments/assets/1c63c58c-7253-4d01-bfe5-530f572d801e" />
+<img src="https://github.com/user-attachments/assets/1c63c58c-7253-4d01-bfe5-530f572d801e" alt="HybridKonzept" usemap="#prefectlyHybrid">
+<map name="prefectlyHybrid">
+  <area shape="rect" coords="72,1420,316,150"
+        href="https://loscon.lernos.org/de/location/" 
+        title="Vor Ort">
+  <area shape="rect" coords="1455,1420,2110,1985"
+        href="https://loscon.lernos.org/de/loscon-everywhere/" 
+        title="Satelliten">
+  <area shape="rect" coords="72,3000,727,3720"
+        href="https://loscon.lernos.org/de/role-room-buddy/" 
+        title="Room Buddy">
+  <area shape="rect" coords="766,3000,1417,3720"
+        href="https://loscon.lernos.org/de/role-session-owner/" 
+        title="Session Owner">
+  <area shape="rect" coords="1455,3000,2110,3720"
+        href="https://loscon.lernos.org/de/role-session-owner/" 
+        title="Satelliten Owner">
+  <area shape="rect" coords="72,7392,2110,3993"
+        href="https://loscon.lernos.org/de/hmk/" 
+        title="Hybrid Meeting Kit">
+</map>
 
 Die folgenden Rollenbeschreibungen dienen dazu Verantwortlichkeiten zu klären, Orientierung zu geben und die Vorbereitung sowie Durchführung hybrider Sessions verlässlich zu unterstützen.
 
