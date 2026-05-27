@@ -173,11 +173,12 @@
 <p>Die loscon26 versteht Hybridität nicht als Nebenaspekt. Dafür braucht es neben passender Technik vor allem klare Rollen, gemeinsame
 Erwartungen und ein hybrides Mindset aller Beteiligten.</p>
 <p><img width="2184" height="4065" 
+     id="hybridConceptImage"
      alt="perfectly_hybrid_loscon26_v2" 
      src="https://github.com/user-attachments/assets/1c63c58c-7253-4d01-bfe5-530f572d801e" 
      usemap="#prefectlyHybrid" 
      style="width: 100%; height: auto; display: block;"></p>
-<map name="prefectlyHybrid">
+<map name="prefectlyHybrid" id="prefectlyHybrid">
   <area shape="rect" coords="72,687,722,1254" href="https://loscon.lernos.org/de/location/" title="Vor Ort">
   <area shape="rect" coords="1454,687,2110,1254" href="https://loscon.lernos.org/de/loscon-everywhere/" title="Satelliten">
 
@@ -189,10 +190,30 @@ Erwartungen und ein hybrides Mindset aller Beteiligten.</p>
 </map>
 
 <script src="imageMapResizer.min.js"></script>
+
 <script>
-  setTimeout(function() {
-    imageMapResize();
-  }, 500);
+  // Funktion zur Aktivierung des Resizers
+  function initMapResizer() {
+    try {
+      imageMapResize();
+    } catch(e) {
+      console.log('Resizer-Fehler:', e);
+    }
+  }
+
+  // Sicherstellen, dass das Bild da ist, bevor gerechnet wird
+  var img = document.getElementById('hybridConceptImage');
+  if (img) {
+    if (img.complete) {
+      initMapResizer();
+    } else {
+      img.addEventListener('load', initMapResizer);
+    }
+  }
+
+  // Sicherheits-Fallback für dynamische MkDocs-Themes (z.B. Ajax-Loading)
+  window.addEventListener('DOMContentLoaded', initMapResizer);
+  window.addEventListener('resize', initMapResizer);
 </script>
 
 <p>Die folgenden Rollenbeschreibungen dienen dazu Verantwortlichkeiten zu klären, Orientierung zu geben und die Vorbereitung sowie Durchführung hybrider Sessions verlässlich zu unterstützen.</p>
