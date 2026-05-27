@@ -1,46 +1,31 @@
 # Perfectly Hybrid
 
-## Perfectly Hybrid
-
 Die loscon26 versteht Hybridität nicht als Nebenaspekt. Dafür braucht es neben passender Technik vor allem klare Rollen, gemeinsame
 Erwartungen und ein hybrides Mindset aller Beteiligten.
 
-<svg viewBox="0 0 1000 2056" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg" style="display: block; width: 100%; height: auto;">
+<svg viewBox="0 0 1000 1861" xmlns="http://www.w3.org/2000/svg" style="display: block; width: 100%; height: auto;">
   
-  <!-- Hintergrundbild -->
   <image href="https://github.com/user-attachments/assets/1c63c58c-7253-4d01-bfe5-530f572d801e" x="0" y="0" width="100%" height="100%" />
 
-  <!-- Sektion: DREI TEILNAHMEFORMEN -->
-  <!-- 1. Vor Ort (Die Burg-Karte links) -->
   <a href="https://loscon.lernos.org/de/location/" title="Vor Ort">
-    <rect x="34" y="348" width="298" height="286" fill="transparent" pointer-events="all" />
+    <rect x="33" y="315" width="298" height="260" fill="transparent" pointer-events="all" />
   </a>
-
-  <!-- 2. Satelliten (Die Haus-Karte rechts) -->
   <a href="https://loscon.lernos.org/de/loscon-everywhere/" title="Satelliten">
-    <rect x="666" y="348" width="300" height="286" fill="transparent" pointer-events="all" />
+    <rect x="666" y="315" width="300" height="260" fill="transparent" pointer-events="all" />
   </a>
 
-  <!-- Sektion: DIE ROLLEN IM EINZELNEN -->
-  <!-- 3. Room Buddy (Die linke Rollen-Karte) -->
   <a href="https://loscon.lernos.org/de/role-room-buddy/" title="Room Buddy">
-    <rect x="34" y="1506" width="298" height="354" fill="transparent" pointer-events="all" />
+    <rect x="33" y="1363" width="298" height="320" fill="transparent" pointer-events="all" />
   </a>
-
-  <!-- 4. Session Owner (Die mittlere Rollen-Karte) -->
   <a href="https://loscon.lernos.org/de/role-session-owner/" title="Session Owner">
-    <rect x="350" y="1506" width="300" height="354" fill="transparent" pointer-events="all" />
+    <rect x="350" y="1363" width="300" height="320" fill="transparent" pointer-events="all" />
   </a>
-
-  <!-- 5. Satelliten Owner (Die rechte Rollen-Karte) -->
   <a href="https://loscon.lernos.org/de/role-session-owner/" title="Satelliten Owner">
-    <rect x="666" y="1506" width="300" height="354" fill="transparent" pointer-events="all" />
+    <rect x="666" y="1363" width="300" height="320" fill="transparent" pointer-events="all" />
   </a>
 
-  <!-- Sektion: FUSSZEILE -->
-  <!-- 6. Hybrid Meeting Kit (Der graue Balken ganz unten) -->
   <a href="https://loscon.lernos.org/de/hmk/" title="Hybrid Meeting Kit">
-    <rect x="34" y="1918" width="932" height="104" fill="transparent" pointer-events="all" />
+    <rect x="33" y="1736" width="933" height="95" fill="transparent" pointer-events="all" />
   </a>
 
 </svg>
