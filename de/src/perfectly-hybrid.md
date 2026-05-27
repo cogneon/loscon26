@@ -21,10 +21,9 @@ Erwartungen und ein hybrides Mindset aller Beteiligten.
   <area shape="rect" coords="72,3791,2110,3998" href="https://loscon.lernos.org/de/hmk/" title="Hybrid Meeting Kit">
 </map>
 
-<script src="imageMapResizer.min.js"></script>
+<script src="/de/imageMapResizer.min.js"></script>
 
 <script>
-  // Funktion zur Aktivierung des Resizers
   function initMapResizer() {
     try {
       imageMapResize();
@@ -33,7 +32,6 @@ Erwartungen und ein hybrides Mindset aller Beteiligten.
     }
   }
 
-  // Sicherstellen, dass das Bild da ist, bevor gerechnet wird
   var img = document.getElementById('hybridConceptImage');
   if (img) {
     if (img.complete) {
@@ -43,7 +41,6 @@ Erwartungen und ein hybrides Mindset aller Beteiligten.
     }
   }
 
-  // Sicherheits-Fallback für dynamische MkDocs-Themes (z.B. Ajax-Loading)
   window.addEventListener('DOMContentLoaded', initMapResizer);
   window.addEventListener('resize', initMapResizer);
 </script>
