@@ -5,7 +5,7 @@ Erwartungen und ein hybrides Mindset aller Beteiligten.
 
 <svg viewBox="0 0 1000 1861" xmlns="http://www.w3.org/2000/svg" style="display: block; width: 100%; height: auto;">
   
-  <image href="https://github.com/user-attachments/assets/1c63c58c-7253-4d01-bfe5-530f572d801e" x="0" y="0" width="100%" height="100%" />
+  <image href="perfectly_hybrid_loscon26_v2.png" x="0" y="0" width="100%" height="100%" />
 
   <a href="https://loscon.lernos.org/de/location/" title="Vor Ort">
     <rect x="33" y="315" width="298" height="260" fill="transparent" pointer-events="all" />
