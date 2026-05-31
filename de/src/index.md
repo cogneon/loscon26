@@ -8,7 +8,10 @@ Du kennst **lernOS** noch gar nicht?
 Mit **lernOS** lernst Du gemeinsam statt allein: flexibel, strukturiert und im Austausch mit Deiner Lerngruppe und Community. Lernpfade, Wochencalls und gegenseitiger Support helfen Dir, dranzubleiben und neue Perspektiven zu gewinnen. Die Community lebt von Offenheit, Wissensaustausch und aktiver Mitgestaltung.
 **lernOS** arbeitet agil mit adaptiven Lernzielen in 3-Monats-Sprints und fördert so systematisches Wissensmanagement und lebenslanges Lernen. Die **lernOS Community** entwickelt das Konzept kontinuierlich weiter – und trifft sich jährlich auf der **lernOS Convention**, der **loscon**.
 
-<center><button type="button" style="background-color: #00FF41; color: white;"><a href="https://pretix.eu/cogneon/loscon26/" target="_blank">Tickets</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://loscon.lernos.org/de/program/">Programm</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://loscon26.myspreadshop.de/all" target="_blank">Merch</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://flow.cogneon.io/webhook/f56199f0-dfa6-42a1-95b5-673d08e2c458/chat" target="_blank">Chatbot</a></button></center>
+<center><button type="button" style="background-color: #00FF41; color: white;"><a href="https://pretix.eu/cogneon/loscon26/" target="_blank">Tickets</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://loscon.lernos.org/de/program/">Programm</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://loscon26.myspreadshop.de/all" target="_blank">Merch</a></button></center>
+
+!!! info "Lass dir von Chatbot Suri helfen"
+    Wenn du in den Infoseiten nicht **navigieren oder suchen** möchtest, frage einfach unseren **Chatbot Suri** rechts unten, der kennt die Infoseiten und das Programm 👇
 
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 
