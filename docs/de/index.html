@@ -7,10 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="description" content="Infoseiten zur lernOS Convention 2026 mit allen Informationen zur Veranstaltung am 23.-24. Juni 2026." /><link rel="canonical" href="https://loscon.lernos.org/de/" />
       <link rel="shortcut icon" href="img/favicon.ico" />
     <title>lernOS Convention 2026</title>
+  
     <link rel="stylesheet" href="css/theme.css" />
     <link rel="stylesheet" href="css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
         <link href="loscon.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css" rel="stylesheet">
+
   <!-- Add scripts that need to run before here -->
    <script type="text/javascript" src="https://pretalx.com/loscon26/widgets/schedule.js"></script>
   
@@ -176,8 +179,12 @@
 <p>Du kennst <strong>lernOS</strong> noch gar nicht? 
 Mit <strong>lernOS</strong> lernst Du gemeinsam statt allein: flexibel, strukturiert und im Austausch mit Deiner Lerngruppe und Community. Lernpfade, Wochencalls und gegenseitiger Support helfen Dir, dranzubleiben und neue Perspektiven zu gewinnen. Die Community lebt von Offenheit, Wissensaustausch und aktiver Mitgestaltung.
 <strong>lernOS</strong> arbeitet agil mit adaptiven Lernzielen in 3-Monats-Sprints und fördert so systematisches Wissensmanagement und lebenslanges Lernen. Die <strong>lernOS Community</strong> entwickelt das Konzept kontinuierlich weiter – und trifft sich jährlich auf der <strong>lernOS Convention</strong>, der <strong>loscon</strong>.</p>
-<center><button type="button" style="background-color: #00FF41; color: white;"><a href="https://pretix.eu/cogneon/loscon26/" target="_blank">Tickets</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://loscon.lernos.org/de/program/">Programm</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://loscon26.myspreadshop.de/all" target="_blank">Merch</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://flow.cogneon.io/webhook/f56199f0-dfa6-42a1-95b5-673d08e2c458/chat" target="_blank">Chatbot</a></button></center>
+<center><button type="button" style="background-color: #00FF41; color: white;"><a href="https://pretix.eu/cogneon/loscon26/" target="_blank">Tickets</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://loscon.lernos.org/de/program/">Programm</a></button> <button type="button" style="background-color: #00FF41; color: white;"><a href="https://loscon26.myspreadshop.de/all" target="_blank">Merch</a></button></center>
 
+<div class="admonition info">
+<p class="admonition-title">Lass dir von Chatbot Suri helfen</p>
+<p>Wenn du in den Infoseiten nicht <strong>navigieren oder suchen</strong> möchtest, frage einfach unseren <strong>Chatbot Suri</strong> rechts unten, der kennt die Infoseiten und das Programm 👇</p>
+</div>
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 
 <p><a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2026-06-23 13:00">&nbsp;</a></p>
@@ -232,6 +239,7 @@ Mit <strong>lernOS</strong> lernst Du gemeinsam statt allein: flexibel, struktur
     
   </span>
 </div>
+  
     <script src="js/jquery-3.6.0.min.js"></script>
     <script>var base_url = ".";</script>
     <script src="js/theme_extra.js"></script>
@@ -243,11 +251,40 @@ Mit <strong>lernOS</strong> lernst Du gemeinsam statt allein: flexibel, struktur
             SphinxRtdTheme.Navigation.enable(true);
         });
     </script>
+  <script type="module">
+    import { createChat } from 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js';
+    createChat({
+      webhookUrl: 'https://flow.cogneon.io/webhook/f56199f0-dfa6-42a1-95b5-673d08e2c458/chat',
+      mode: 'window',
+      showWelcomeScreen: false,
+      defaultLanguage: 'de',
+      initialMessages: [
+        'Hallo, wie kann ich dir helfen?',
+      ],
+      style: {
+          '--chat--color-primary': '#008F11',
+          '--chat--color-primary-shade-50': '#003B00',
+          '--chat--color-primary-shade-100': '#003B00',
+          '--chat--color-secondary': '#008F11',
+          '--chat--color-secondary-shade-50': '#003B00',
+      },
+      i18n: {
+        de: {
+          title: 'Ich bin Suri 👋',
+          subtitle: 'Dein interaktiver loscon Assistent',
+          inputPlaceholder: 'Frag mich etwas zur loscon26 ...',
+          getStarted: 'Gespräch starten',
+          closeButtonTooltip: 'Chat schließen',
+        }
+      },
+    });
+  </script>
+
 
 </body>
 </html>
 
 <!--
 MkDocs version : 1.6.1
-Build Date UTC : 2026-05-31 05:28:36.449044+00:00
+Build Date UTC : 2026-05-31 06:39:02.018695+00:00
 -->
