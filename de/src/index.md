@@ -31,6 +31,12 @@ Mit **lernOS** lernst Du gemeinsam statt allein: flexibel, strukturiert und im A
 
 ![](./img/loscon26-key-visual.png)
 
-## News
+## loscon26 News aus dem Fediverse
 
-<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" style="max-width:100vw;max-height:100vh;" width="600" height="800" src="https://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fcolearn.social%2Fusers%2Flernos&theme=light&size=100&header=false&replies=false&boosts=false"></iframe>
+<iframe 
+    src="https://cogneon.github.io/mastowall/?hashtags=lernos%2Closcon26&server=https%3A%2F%2Fcolearn.social"
+    width="100%" 
+    height="800px" 
+    frameborder="0"
+    scrolling="yes">
+</iframe>
