@@ -10,28 +10,28 @@ Der Room Buddy handelt aus der Perspektive einer Vermittler-Rolle. Er ist die Ha
 
 - rechtzeitig im Raum sein
 - Technikcheck durchführen:
-  - läuft der Rechner?
-  - funktionieren Beamer oder Display?
-  - sind die richtigen Mikrofone verbunden?
-  - ist die Raumkamera korrekt ausgerichtet?
-  - sind Wurfmikrofone, Lavalier- oder Handmikro einsatzbereit?
+    - läuft der Rechner?
+    - funktionieren Beamer oder Display?
+    - sind die richtigen Mikrofone verbunden?
+    - ist die Raumkamera korrekt ausgerichtet?
+    - sind Wurfmikrofone, Lavalier- oder Handmikro einsatzbereit?
 - sich zusätzlich online in die Session einwählen, um die Online-Perspektive mitprüfen zu können
 - Headset nutzen, um Rückkopplungen zu vermeiden
 - eigenes Mikro stumm schalten
 - sich kurz mit dem Session Owner abstimmen:
-  - Wer übernimmt welche Rolle?
-  - Wie werden Online-Wortmeldungen eingebracht?
-  - Wer reagiert auf Chat, Technikprobleme, Pinning oder Fokus?
-  - In welchen Situationen greift der Room Buddy aktiv ein?
+    - Wer übernimmt welche Rolle?
+    - Wie werden Online-Wortmeldungen eingebracht?
+    - Wer reagiert auf Chat, Technikprobleme, Pinning oder Fokus?
+    - In welchen Situationen greift der Room Buddy aktiv ein?
 
 ## Kernaufgaben zu Beginn der Session
 
 - darauf achten, dass die Session technisch sauber startet
 - Teilnehmende im Raum kurz an wichtige Regeln erinnern, z. B.:
-  - bitte direkt ins Mikrofon sprechen
-  - eigene Mikros stumm schalten, um Rückkopplungen zu vermeiden
-  - gerne Kamera einschalten, auch vor Ort, wenn das Setting es erlaubt
-  - wenn Hilfe nötig ist, Room Buddy ansprechen
+    - bitte direkt ins Mikrofon sprechen
+    - eigene Mikros stumm schalten, um Rückkopplungen zu vermeiden
+    - gerne Kamera einschalten, auch vor Ort, wenn das Setting es erlaubt
+    - wenn Hilfe nötig ist, Room Buddy ansprechen
 - prüfen, ob Online-Teilnehmende Ton und Bild gut erhalten
 
 ## Kernaufgaben während der Session
@@ -41,10 +41,10 @@ Der Room Buddy handelt aus der Perspektive einer Vermittler-Rolle. Er ist die Ha
 - darauf achten, dass vor Ort tatsächlich ins Mikro gesprochen wird
 - Session Owner bei Bedarf entlasten, insbesondere wenn diese Person fachlich und moderativ stark gebunden ist
 - bei Bedarf moderativ unterstützen, z. B.:
-  - auf virtuelle Handmeldungen hinweisen
-  - Sichtbarkeit relevanter Personen herstellen
-  - Fokus oder Pinning in Teams unterstützen
-  - auf eine faire Beteiligung zwischen Raum und Online achten
+    - auf virtuelle Handmeldungen hinweisen
+    - Sichtbarkeit relevanter Personen herstellen
+    - Fokus oder Pinning in Teams unterstützen
+    - auf eine faire Beteiligung zwischen Raum und Online achten
 - pragmatisch eingreifen, wenn technische oder prozessuale Probleme die Beteiligung behindern
 
 ## Optionale Zusatzaufgaben

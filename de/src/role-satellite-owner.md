@@ -11,11 +11,11 @@ Der Satelliten Owner denkt den Satelliten nicht als unabhängige Parallelveranst
 ## Aufgaben vor der Veranstaltung
 
 - lokale Rahmenbedingungen des Satelliten klären:
-  - verfügbare Räume
-  - technische Ausstattung
-  - Anzahl der Teilnehmenden
-  - Internetverbindung
-  - Displays, Lautsprecher, Mikrofone, Kameras
+    - verfügbare Räume
+    - technische Ausstattung
+    - Anzahl der Teilnehmenden
+    - Internetverbindung
+    - Displays, Lautsprecher, Mikrofone, Kameras
 - entscheiden, ob und in welchem Umfang am Satelliten mehrere Sessions parallel verfolgt werden können
 - lokale Raum- und Sessionlogik vorbereiten
 - bei Bedarf Sessionplan vor Ort sichtbar machen
