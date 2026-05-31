@@ -1,9 +1,47 @@
 
 {% extends "base.html" %}
+
 {% block libs %}
   <!-- Add scripts that need to run before here -->
    <script type="text/javascript" src="https://pretalx.com/loscon26/widgets/schedule.js"></script>
   {{ super() }}
 
   <!-- Add scripts that need to run afterwards here -->
+{% endblock %}
+
+{% block styles %}
+  {{ super() }}
+  <link href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css" rel="stylesheet">
+{% endblock %}
+
+{% block scripts %}
+  {{ super() }}
+  <script type="module">
+    import { createChat } from 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js';
+    createChat({
+      webhookUrl: 'https://flow.cogneon.io/webhook/f56199f0-dfa6-42a1-95b5-673d08e2c458/chat',
+      mode: 'window',
+      showWelcomeScreen: false,
+      defaultLanguage: 'de',
+      initialMessages: [
+        'Hallo, wie kann ich dir helfen?',
+      ],
+      style: {
+          '--chat--color-primary': '#008F11',
+          '--chat--color-primary-shade-50': '#003B00',
+          '--chat--color-primary-shade-100': '#003B00',
+          '--chat--color-secondary': '#008F11',
+          '--chat--color-secondary-shade-50': '#003B00',
+      },
+      i18n: {
+        de: {
+          title: 'Ich bin Suri 👋',
+          subtitle: 'Dein interaktiver loscon Assistent',
+          inputPlaceholder: 'Frag mich etwas zur loscon26 ...',
+          getStarted: 'Gespräch starten',
+          closeButtonTooltip: 'Chat schließen',
+        }
+      },
+    });
+  </script>
 {% endblock %}

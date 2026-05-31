@@ -67,8 +67,6 @@ extra_javascript:
   - javascripts/matomo.js
 
 extra:
-    analytics:
-       provider: custom
     giscus: true
     generator: false
 
