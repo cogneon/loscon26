@@ -67,4 +67,4 @@ Hier findet ihr häufig gestellte Fragen (Frequently Asked Questions) zur lernOS
 ??? question "**Ich habe noch Fragen, wie erreiche ich das Orga-Team?**"
     Das Orga-Team ist über den Kanal *#infodesk* auf Discord (bevorzugt) und per E-Mail über [loscon@lernos.org](mailto:loscon@lernos.org) erreichbar.
 
-    ---
+---
