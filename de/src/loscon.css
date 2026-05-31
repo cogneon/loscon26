@@ -10,6 +10,21 @@
     background-color: black;
 }
 
+.button {
+    display: inline-block;
+    background-color: #008F11;
+    color: #ffffff !important;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    text-decoration: none !important;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: #003B00;
+    color: #ffffff !important;
+}
+
 /* Chatbot Header */
 .chat-header {
     background-color: #003B00 !important;
