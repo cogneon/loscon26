@@ -4,7 +4,7 @@
 
 Vom **23.-24. Juni 2026** findet die **10. lernOS Convention** ([#loscon26](https://cogneon.github.io/mastowall/?hashtags=loscon26%2Clernos&server=https%3A%2F%2Fcolearn.social)) auf der [Kaiserburg Nürnberg](location.md), in [dezentralen Lokationen](loscon-everywhere.md) und [Online](hmk.md) statt. Das **Community-Event** zu **Wissensmanagement** & **Lernenden Organisationen** steht dieses Mal unter dem **Motto „AI for Work that Works!“**. Auf den **Infoseiten** hier unter [loscon.lernos.org](https://loscon.lernos.org) findet ihr alle Infos.
 
-<center>
+<center markdown>
 [Tickets](https://pretix.eu/cogneon/loscon26/){.button} 
 [Programm](https://loscon.lernos.org/de/program/){.button}
 [Vortragende](https://pretalx.com/loscon26/speaker/){.button}
