@@ -13,10 +13,10 @@ Der Session Owner versteht die Session als gemeinsamen Lernraum, der über mehre
 - frühzeitig überlegen, welche Methoden im hybriden Setting tragfähig sind
 - verwendete Tools, notwendige Logins oder Vorbereitungen rechtzeitig kommunizieren und allen Teilnehmenden Teilhabe ermöglichen
 - sich mit dem Room Buddy abstimmen:
-  - Rollenverteilung
-  - Umgang mit Wortmeldungen und Chat
-  - Umgang mit Technikproblemen
-  - Eingriffsmöglichkeiten des Room Buddies
+    - Rollenverteilung
+    - Umgang mit Wortmeldungen und Chat
+    - Umgang mit Technikproblemen
+    - Eingriffsmöglichkeiten des Room Buddies
 - überlegen, wie Ergebnisse dokumentiert und gesichert werden
 
 ## Kernaufgaben während der Session

@@ -7,10 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://loscon.lernos.org/de/role-satellite-owner/" />
       <link rel="shortcut icon" href="../img/favicon.ico" />
     <title>Rolle Satellite Owner - lernOS Convention 2026</title>
+  
     <link rel="stylesheet" href="../css/theme.css" />
     <link rel="stylesheet" href="../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
         <link href="../loscon.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css" rel="stylesheet">
+
   <!-- Add scripts that need to run before here -->
    <script type="text/javascript" src="https://pretalx.com/loscon26/widgets/schedule.js"></script>
   
@@ -188,12 +191,14 @@
 <p>Der Satelliten Owner denkt den Satelliten nicht als unabhängige Parallelveranstaltung, sondern als Teil der Loscon-Gesamtveranstaltung. Diese Rolle sorgt lokal dafür, dass die Veranstaltung am Satelliten anschlussfähig bleibt, dass weitere Rollen geklärt sind und dass die Teilnehmenden Orientierung, Räume und Unterstützung erhalten.</p>
 <h2 id="aufgaben-vor-der-veranstaltung">Aufgaben vor der Veranstaltung</h2>
 <ul>
-<li>lokale Rahmenbedingungen des Satelliten klären:</li>
+<li>lokale Rahmenbedingungen des Satelliten klären:<ul>
 <li>verfügbare Räume</li>
 <li>technische Ausstattung</li>
 <li>Anzahl der Teilnehmenden</li>
 <li>Internetverbindung</li>
 <li>Displays, Lautsprecher, Mikrofone, Kameras</li>
+</ul>
+</li>
 <li>entscheiden, ob und in welchem Umfang am Satelliten mehrere Sessions parallel verfolgt werden können</li>
 <li>lokale Raum- und Sessionlogik vorbereiten</li>
 <li>bei Bedarf Sessionplan vor Ort sichtbar machen</li>
@@ -228,21 +233,13 @@
 <p>Der Satelliten Owner ist nicht automatisch Session Owner aller am Standort besuchten oder angebotenen Sessions. Er ist auch nicht nur technische Assistenz. Seine Rolle verbindet lokale Organisation, Orientierung, Raumplanung und die Sicherung der Anschlussfähigkeit des Satelliten an die Gesamtveranstaltung.</p>
               
             </div>
-          </div><footer>
-    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../role-session-owner/" class="btn btn-neutral float-left" title="Rolle Session Owner"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../teams/" class="btn btn-neutral float-right" title="Teams">Next <span class="icon icon-circle-arrow-right"></span></a>
-    </div>
-
-  <hr/>
-
+          </div>
+<footer>
   <div role="contentinfo">
-    <!-- Copyright etc -->
-      <p>Creative Commons Namensnennung 4.0 International (CC BY)</p>
+    <p>Creative Commons Namensnennung 4.0 International (CC BY)</p>
   </div>
-
-  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
 </footer>
+
           
         </div>
       </div>
@@ -266,6 +263,7 @@
     
   </span>
 </div>
+  
     <script src="../js/jquery-3.6.0.min.js"></script>
     <script>var base_url = "..";</script>
     <script src="../js/theme_extra.js"></script>
@@ -277,6 +275,35 @@
             SphinxRtdTheme.Navigation.enable(true);
         });
     </script>
+  <script type="module">
+    import { createChat } from 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js';
+    createChat({
+      webhookUrl: 'https://flow.cogneon.io/webhook/f56199f0-dfa6-42a1-95b5-673d08e2c458/chat',
+      mode: 'window',
+      showWelcomeScreen: false,
+      defaultLanguage: 'de',
+      initialMessages: [
+        'Hallo, wie kann ich dir helfen?',
+      ],
+      style: {
+          '--chat--color-primary': '#008F11',
+          '--chat--color-primary-shade-50': '#003B00',
+          '--chat--color-primary-shade-100': '#003B00',
+          '--chat--color-secondary': '#008F11',
+          '--chat--color-secondary-shade-50': '#003B00',
+      },
+      i18n: {
+        de: {
+          title: 'Ich bin Suri 👋',
+          subtitle: 'Dein interaktiver loscon Assistent',
+          inputPlaceholder: 'Frag mich etwas zur loscon26 ...',
+          getStarted: 'Gespräch starten',
+          closeButtonTooltip: 'Chat schließen',
+        }
+      },
+    });
+  </script>
+
 
 </body>
 </html>

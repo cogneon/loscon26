@@ -7,10 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://loscon.lernos.org/de/accessibility/" />
       <link rel="shortcut icon" href="../img/favicon.ico" />
     <title>Barrierefreiheit - lernOS Convention 2026</title>
+  
     <link rel="stylesheet" href="../css/theme.css" />
     <link rel="stylesheet" href="../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
         <link href="../loscon.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css" rel="stylesheet">
+
   <!-- Add scripts that need to run before here -->
    <script type="text/javascript" src="https://pretalx.com/loscon26/widgets/schedule.js"></script>
   
@@ -172,21 +175,13 @@
 <p>Wenn euch <strong>nicht-barrierefreie Elemente</strong> der loscon auffallen, zögert nicht, das <a href="../orga-team/">Orga-Team</a> direkt darauf anzusprechen. Wir geben uns Mühe, allen Anforderungen gerecht zu werden.</p>
               
             </div>
-          </div><footer>
-    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../loscon-everywhere/" class="btn btn-neutral float-left" title="Satelliten"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../podcasting/" class="btn btn-neutral float-right" title="Podcast-Tisch">Next <span class="icon icon-circle-arrow-right"></span></a>
-    </div>
-
-  <hr/>
-
+          </div>
+<footer>
   <div role="contentinfo">
-    <!-- Copyright etc -->
-      <p>Creative Commons Namensnennung 4.0 International (CC BY)</p>
+    <p>Creative Commons Namensnennung 4.0 International (CC BY)</p>
   </div>
-
-  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
 </footer>
+
           
         </div>
       </div>
@@ -210,6 +205,7 @@
     
   </span>
 </div>
+  
     <script src="../js/jquery-3.6.0.min.js"></script>
     <script>var base_url = "..";</script>
     <script src="../js/theme_extra.js"></script>
@@ -221,6 +217,35 @@
             SphinxRtdTheme.Navigation.enable(true);
         });
     </script>
+  <script type="module">
+    import { createChat } from 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js';
+    createChat({
+      webhookUrl: 'https://flow.cogneon.io/webhook/f56199f0-dfa6-42a1-95b5-673d08e2c458/chat',
+      mode: 'window',
+      showWelcomeScreen: false,
+      defaultLanguage: 'de',
+      initialMessages: [
+        'Hallo, wie kann ich dir helfen?',
+      ],
+      style: {
+          '--chat--color-primary': '#008F11',
+          '--chat--color-primary-shade-50': '#003B00',
+          '--chat--color-primary-shade-100': '#003B00',
+          '--chat--color-secondary': '#008F11',
+          '--chat--color-secondary-shade-50': '#003B00',
+      },
+      i18n: {
+        de: {
+          title: 'Ich bin Suri 👋',
+          subtitle: 'Dein interaktiver loscon Assistent',
+          inputPlaceholder: 'Frag mich etwas zur loscon26 ...',
+          getStarted: 'Gespräch starten',
+          closeButtonTooltip: 'Chat schließen',
+        }
+      },
+    });
+  </script>
+
 
 </body>
 </html>

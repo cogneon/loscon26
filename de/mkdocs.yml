@@ -57,6 +57,7 @@ theme:
     custom_dir: src/overrides
     locale: de
     logo: img/loscon26-badge.png
+    favicon: img/lernos-suri.png
 
 copyright: Creative Commons Namensnennung 4.0 International (CC BY)
 
@@ -67,8 +68,6 @@ extra_javascript:
   - javascripts/matomo.js
 
 extra:
-    analytics:
-       provider: custom
     giscus: true
     generator: false
 

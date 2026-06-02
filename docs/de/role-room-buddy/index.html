@@ -7,10 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://loscon.lernos.org/de/role-room-buddy/" />
       <link rel="shortcut icon" href="../img/favicon.ico" />
     <title>Rolle Room Buddy - lernOS Convention 2026</title>
+  
     <link rel="stylesheet" href="../css/theme.css" />
     <link rel="stylesheet" href="../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
         <link href="../loscon.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css" rel="stylesheet">
+
   <!-- Add scripts that need to run before here -->
    <script type="text/javascript" src="https://pretalx.com/loscon26/widgets/schedule.js"></script>
   
@@ -188,29 +191,35 @@
 <h2 id="kernaufgaben-vor-der-session">Kernaufgaben vor der Session</h2>
 <ul>
 <li>rechtzeitig im Raum sein</li>
-<li>Technikcheck durchführen:</li>
+<li>Technikcheck durchführen:<ul>
 <li>läuft der Rechner?</li>
 <li>funktionieren Beamer oder Display?</li>
 <li>sind die richtigen Mikrofone verbunden?</li>
 <li>ist die Raumkamera korrekt ausgerichtet?</li>
 <li>sind Wurfmikrofone, Lavalier- oder Handmikro einsatzbereit?</li>
+</ul>
+</li>
 <li>sich zusätzlich online in die Session einwählen, um die Online-Perspektive mitprüfen zu können</li>
 <li>Headset nutzen, um Rückkopplungen zu vermeiden</li>
 <li>eigenes Mikro stumm schalten</li>
-<li>sich kurz mit dem Session Owner abstimmen:</li>
+<li>sich kurz mit dem Session Owner abstimmen:<ul>
 <li>Wer übernimmt welche Rolle?</li>
 <li>Wie werden Online-Wortmeldungen eingebracht?</li>
 <li>Wer reagiert auf Chat, Technikprobleme, Pinning oder Fokus?</li>
 <li>In welchen Situationen greift der Room Buddy aktiv ein?</li>
 </ul>
+</li>
+</ul>
 <h2 id="kernaufgaben-zu-beginn-der-session">Kernaufgaben zu Beginn der Session</h2>
 <ul>
 <li>darauf achten, dass die Session technisch sauber startet</li>
-<li>Teilnehmende im Raum kurz an wichtige Regeln erinnern, z. B.:</li>
+<li>Teilnehmende im Raum kurz an wichtige Regeln erinnern, z. B.:<ul>
 <li>bitte direkt ins Mikrofon sprechen</li>
 <li>eigene Mikros stumm schalten, um Rückkopplungen zu vermeiden</li>
 <li>gerne Kamera einschalten, auch vor Ort, wenn das Setting es erlaubt</li>
 <li>wenn Hilfe nötig ist, Room Buddy ansprechen</li>
+</ul>
+</li>
 <li>prüfen, ob Online-Teilnehmende Ton und Bild gut erhalten</li>
 </ul>
 <h2 id="kernaufgaben-wahrend-der-session">Kernaufgaben während der Session</h2>
@@ -219,11 +228,13 @@
 <li>ggf. als Sprachrohr der Online-Teilnehmenden im Raum fungieren</li>
 <li>darauf achten, dass vor Ort tatsächlich ins Mikro gesprochen wird</li>
 <li>Session Owner bei Bedarf entlasten, insbesondere wenn diese Person fachlich und moderativ stark gebunden ist</li>
-<li>bei Bedarf moderativ unterstützen, z. B.:</li>
+<li>bei Bedarf moderativ unterstützen, z. B.:<ul>
 <li>auf virtuelle Handmeldungen hinweisen</li>
 <li>Sichtbarkeit relevanter Personen herstellen</li>
 <li>Fokus oder Pinning in Teams unterstützen</li>
 <li>auf eine faire Beteiligung zwischen Raum und Online achten</li>
+</ul>
+</li>
 <li>pragmatisch eingreifen, wenn technische oder prozessuale Probleme die Beteiligung behindern</li>
 </ul>
 <h2 id="optionale-zusatzaufgaben">Optionale Zusatzaufgaben</h2>
@@ -246,21 +257,13 @@
 <p>Der Room Buddy ist nicht für den inhaltlichen Erfolg der Session verantwortlich. Diese Verantwortung liegt in der Rolle der Session Owner und den Teilnehmenden. Der Room Buddy sorgt dafür, dass die Session hybrid tragfähig ist. In der Praxis kann punktuell eine Moderations- und Brückenfunktion übernehmen werden, wenn dies vorher abgestimmt ist oder situativ notwendig wird.</p>
               
             </div>
-          </div><footer>
-    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../hmk/" class="btn btn-neutral float-left" title="Hybrid Meeting Kit"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../role-session-owner/" class="btn btn-neutral float-right" title="Rolle Session Owner">Next <span class="icon icon-circle-arrow-right"></span></a>
-    </div>
-
-  <hr/>
-
+          </div>
+<footer>
   <div role="contentinfo">
-    <!-- Copyright etc -->
-      <p>Creative Commons Namensnennung 4.0 International (CC BY)</p>
+    <p>Creative Commons Namensnennung 4.0 International (CC BY)</p>
   </div>
-
-  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
 </footer>
+
           
         </div>
       </div>
@@ -284,6 +287,7 @@
     
   </span>
 </div>
+  
     <script src="../js/jquery-3.6.0.min.js"></script>
     <script>var base_url = "..";</script>
     <script src="../js/theme_extra.js"></script>
@@ -295,6 +299,35 @@
             SphinxRtdTheme.Navigation.enable(true);
         });
     </script>
+  <script type="module">
+    import { createChat } from 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js';
+    createChat({
+      webhookUrl: 'https://flow.cogneon.io/webhook/f56199f0-dfa6-42a1-95b5-673d08e2c458/chat',
+      mode: 'window',
+      showWelcomeScreen: false,
+      defaultLanguage: 'de',
+      initialMessages: [
+        'Hallo, wie kann ich dir helfen?',
+      ],
+      style: {
+          '--chat--color-primary': '#008F11',
+          '--chat--color-primary-shade-50': '#003B00',
+          '--chat--color-primary-shade-100': '#003B00',
+          '--chat--color-secondary': '#008F11',
+          '--chat--color-secondary-shade-50': '#003B00',
+      },
+      i18n: {
+        de: {
+          title: 'Ich bin Suri 👋',
+          subtitle: 'Dein interaktiver loscon Assistent',
+          inputPlaceholder: 'Frag mich etwas zur loscon26 ...',
+          getStarted: 'Gespräch starten',
+          closeButtonTooltip: 'Chat schließen',
+        }
+      },
+    });
+  </script>
+
 
 </body>
 </html>

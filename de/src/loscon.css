@@ -1,16 +1,104 @@
-h1 {
-    color: #008f11;
-  }
-
 .caption-text {
     color: #008f11;
-  }
-
+}
 
 .wy-side-nav-search {
     background-color: black;
-  }
+}
 
 .wy-nav-top {
-  background-color: black;
+    background-color: black;
+}
+
+.button {
+    display: inline-block;
+    background-color: #008F11;
+    color: #ffffff !important;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    text-decoration: none !important;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: #003B00;
+    color: #ffffff !important;
+}
+
+/* Chatbot Header */
+.chat-header {
+    background-color: #003B00 !important;
+    color: #00FF41 !important;
+}
+
+.chat-header h1,
+.chat-header p {
+    color: #00FF41 !important;
+    font-size: 1rem !important;
+}
+
+/* Send-Button */
+.chat-input-send-button {
+    background-color: #008F11 !important;
+}
+
+.chat-input-send-button svg path {
+    fill: #ffffff !important;
+}
+
+/* Bot-Nachrichten */
+.chat-message-from-bot .chat-message-markdown {
+    background-color: #ffffff !important;
+}
+
+/* User-Nachrichten */
+.chat-message-from-user .chat-message-markdown {
+    background-color: #003B00 !important;
+    color: #ffffff !important;
+}
+
+/* Toggle-Button mit Suri-Icon */
+.chat-window-toggle {
+    background-image: url('img/lernos-suri.png') !important;
+    background-size: cover !important;
+    background-color: transparent !important;
+    border-radius: 50% !important;
+}
+
+.chat-window-toggle svg {
+    display: none !important;
+}
+
+/* Powered by n8n ausblenden */
+.chat-powered-by {
+    display: none !important;
+}
+
+/* Chat Footer - nur Hintergrund */
+.chat-footer {
+    background-color: #ffffff !important;
+}
+
+/* Gespräch starten Button */
+.chat-get-started-footer {
+    padding: 1rem !important;
+}
+
+.chat-get-started-footer button {
+    background-color: #008F11 !important;
+    color: #ffffff !important;
+    border: none !important;
+    padding: 0.75rem 1.5rem !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+    display: block !important;
+    visibility: visible !important;
+}
+
+/* Textarea nach Gesprächsstart */
+.chat-input textarea {
+    color: #000000 !important;
+    background-color: #ffffff !important;
+    border: 1px solid #cccccc !important;
+    min-height: 44px !important;
 }
