@@ -2,9 +2,6 @@
 
 **Zusammen ist man weniger allein!** Unter dem Motto **"loscon Everywhere"** wollen wir mit den sog. **loscon Satelliten** dezentrale Veranstaltungsorte für die lernOS Convention fördern (Vorbild: [Congress Everywhere des CCC](https://events.ccc.de/congress/2019/wiki/index.php/Congress_Everywhere)). Denn nicht allen ist die Anreise nach Nürnberg möglich und mit **netten Menschen dezentral** am Programm teilzunehmen fühlt sich für viele besser an, als alleine im Homeoffice.
 
-!!! note "Offene Infosession am 05.05.2026"
-    Am **5. Mai von 13-14 Uhr** bieten wir eine **Infosession** zu den loscon26 Satelliten an ([👉 hier anmelden](https://events.teams.microsoft.com/event/fe3df401-737b-4782-af1f-91b4090bfb70@93e1683c-5df4-46ff-8c5a-de6f62e19d5d)). Wir stellen das Konzept vor und beantworten fragen. Der Termin ist explizit auch für Menschen geeignet, noch über die Organisation eines Satelliten nachdenken.
-
 ![](./img/theandrasbarta-europe-1264062_1280.jpg)
 
 **Hinweis:** Für die Teilnahme in einem Satelliten ist ein [Online-Ticket](https://pretix.eu/cogneon/loscon26/) notwendig. Organisation von Raummiete, Catering etc. regeln die Satelliten selbstorganisiert.

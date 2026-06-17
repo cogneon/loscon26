@@ -30,7 +30,7 @@ Mit **lernOS** lernst Du gemeinsam statt allein: flexibel, strukturiert und im A
 - ✅ **16.03.:** Golive [Call for Participation](https://pretalx.com/loscon26/cfp) (Einreichung Programmvorschlägen bis Ende April)
 - ✅ **11.05.:** [Programm](program.md) Version 1.0 ist fertig 🎉
 - ✅ **31.05.:** Ende des [AI Crowdsourcing 2026](ai-crowdsourcing.md) -> ab jetzt könnt ihr [ausprobieren und bewerten](ai-crowdsourcing.md)
-- **17.06.:** [Vorab-Webkonferenz](pre-call.md) (13:05 - 13:55 Uhr)
+- ✅ **17.06.:** [Vorab-Webkonferenz](pre-call.md) (13:05 - 13:55 Uhr, [Aufzeichnung](https://cogneon-my.sharepoint.com/:v:/g/personal/simon_dueckert_cogneon_de/IQAOqsLxdRxjRIs9vqSYDF5tAb2t9RpTZspg4nR2cscLf6Q?e=iih4NY))
 - **22.06.:** [Vorabend-Treffen](eve.md) bei der Eröffnung des [Nürnberg Digital Festivals](https://nuernberg.digital)
 - **23.-24.06.:** [lernOS Convention 2026](program.md) 🚀
 

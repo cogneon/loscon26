@@ -2,6 +2,9 @@
 
 Auf der lernOS Convention gibt es einen **Podcast-Tisch**, an dem ihr euch über Podcasting informieren (s.a. [lernOS Podcast Leitfaden](https://cogneon.github.io/lernos-podcasting/de/)) und **eigene Podcasts aufnehmen** könnt. Die Technik am Podcast-Tisch wird von einem Audio Buddy, d.h. ihr müsst euch nicht kümmern. Die Aufnahmen werden mit den Aufzeichnungen der lernOS Convention veröffentlicht. "enn ihr ein Speichermedium mitbringt, könnt ihr die Aufnahmen z.B. für eigene Podcasts direkt mitnehmen.
 
+!!! info
+    Um den Podcasts zuhören zu können, müsst ihr in Discord in den **Kanal "Oracles's Kitchen"** gehen.
+
 **Hinweis:** Das Programm am Podcast-Tisch ist in das [Programm](program.md) integriert, Vorschläge für Podcast-Sessions können **über den Call for Participation** eingereicht werden.
 
 ![](./img/podcast-table.jpg)

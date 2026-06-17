@@ -5,4 +5,4 @@ In der **Vorab-Webkonferenz** am Mittwoch 17.06. von 13:05-13:55 Uhr erklären w
 !!! note "loscon26 Vorab-Webkonferenz"
     **Save the date:** ihr könnt euch schon jetzt [👉 zur loscon26 Vorab-Webkonferenz per MS Teams anmelden](https://events.teams.microsoft.com/event/22967c7b-682a-40c8-af5f-ef4e1519b67f@93e1683c-5df4-46ff-8c5a-de6f62e19d5d).
 
-**Hinweis:** Falls ihr an dem Termin nicht teilnehmen könnt, wir veröffentlichen die Aufzeichnung des Termin im Nachgang hier.
+**Hinweis:** Falls ihr an dem Termin nicht teilnehmen konntet, [hier könnt ihr euch die Aufzeichnung ansehen](https://cogneon-my.sharepoint.com/:v:/g/personal/simon_dueckert_cogneon_de/IQAOqsLxdRxjRIs9vqSYDF5tAb2t9RpTZspg4nR2cscLf6Q?e=iih4NY).
