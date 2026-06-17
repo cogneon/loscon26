@@ -7,6 +7,7 @@ Die [Nürnberger Burg](https://de.wikipedia.org/wiki/N%C3%BCrnberger_Burg) ist d
 ## Adresse
 
 Burg Nürnberg, Burg 2, 90403 Nürnberg ([OpenStreetMap](https://openstreetmap.de/karte/?zoom=19&lat=49.45794&lon=11.07699&layers=B00TT), [Google Map](https://maps.app.goo.gl/VuHSpyymTumF3mmG6)). Der Eingang zur loscon befindet sich an der linken Seite des Gebäudes, ihr müsst ein bisschen den Berg nach oben gehen (unterhalb des Fünfeck-Turms).
+Pro-Tipp für die Öffis: nutzt bei den  heißen Temperaturen eher die Straßenbahn 4 bis Tiergärtner Tor statt des Busses 36. Damit spart ihr ein paar Höhenmeter.
 
 ![](img/map-castle-nuremberg.png)
 
