@@ -12,7 +12,7 @@
 Download: [svg](./img/loscon26-key-visual.svg)
 
 ## Musik
-tbd.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oxIJC-kuBrA?si=TIax9xNCbjy-wq-a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bildschirm-Hintergrund-Bild 
 <img width="1536" height="1024" alt="loscon26_Screenbackground" src="https://github.com/user-attachments/assets/0d836fb9-695b-4d51-973c-3207ff156a4b" />
