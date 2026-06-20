@@ -12,7 +12,6 @@ Das Orga-Team hat ab dem 30.01.2026 einen **wöchentlichen Orga-Call** jeweils *
 ## Das diesjährige loscon Orga-Team
 
 1. [Benedikt Scheerer](https://www.linkedin.com/in/benedikt-scheerer-6020ba18/)
-1. [Brigitte Lüdecke](https://www.linkedin.com/in/brigitteluedecke/)
 1. [Christian Kaiser](https://www.linkedin.com/in/christian-kaiser-datev/)
 1. [Doris Schuppe](https://www.linkedin.com/in/doschu/)
 1. [Ellen Braun](https://www.linkedin.com/in/ellen-braun-work-and-feelgood/)
@@ -24,7 +23,6 @@ Das Orga-Team hat ab dem 30.01.2026 einen **wöchentlichen Orga-Call** jeweils *
 2. [Marina Kraft](https://www.linkedin.com/in/marinakraft/) (Moderation)
 1. [Nicole Denzel](https://www.linkedin.com/in/nicoledenzel/)
 1. [Roland Christian](https://www.linkedin.com/in/roland-christian72/)
-1. [Sabrina Stang](https://www.linkedin.com/in/sabrina-stang/)
 1. [Sandra Richter](https://www.linkedin.com/in/sandra-richter-coach/)
 1. [Simon Dückert](https://www.linkedin.com/in/simondueckert/)
 1. [Susann Schulz](https://www.linkedin.com/in/susannschulz/)
