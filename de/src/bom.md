@@ -42,6 +42,56 @@ In der Stückliste (BOM, Bill of Material) sammeln wir alle Dinge, die wir für 
 9. **iPod** (von Simon) für Musik auf Kanal 7/8 (tagsüber Moby, Abends loscon25)
 10. Kiste mit HDMI- und XLR-Kabeln
 
+Während des Bühnenprogramms arbeiten wir aufgrund der Erfahrungen der Vorjahre mit den zwei Szenen "Burg on-air" und "Burg off-air":
+
+- **Burg off-air**
+  
+  - Videokonferenz auf den Lautsprechern **nicht** zu hören
+  
+  - Mikros und Zuspieler in der Videokonferenz **nicht** zu hören
+  
+  - Reporterplatz hört Videokonferenz und ist in Videokonferenz zu hören 
+
+- **Burg on-air**
+  
+  - Videokonferenz auf den Lautsprechern zu hören
+  
+  - Mikros und Zuspieler in der Videokonferenz nicht zu hören
+  
+  - Reporterplatz hört Videokonferenz und ist in Videokonferenz zu hören (kann sich am Mischpult selbst muten/ent-muten)
+
+Dafür verwenden wir am Audio-Mixer folgende Routing Matrix, die dort als Szenen abgespeichert sind. Wichtig: Der Master-Mix wird auf USB-Ausgang ausgegeben und ist deshalb unser Mix-Minus für die Videokonferenz (VC), Mix A geht auf die PA der Burg).
+
+**Szene Burg OFF-air:**
+
+|             | Master (VC) | Mix A (PA) | Mix B | Mix C | Bemerkung                       |
+| ----------- |:-----------:|:----------:|:-----:|:-----:| ------------------------------- |
+| **Kanal 1** | -           | X          | -     | -     |                                 |
+| **Kanal 2** | -           | X          | -     | -     |                                 |
+| **Kanal 3** | -           | X          | -     | -     |                                 |
+| **Kanal 4** | -           | X          | -     | -     |                                 |
+| **Kanal 5** | -           | -          | -     | -     | Reserve, nicht genutzt          |
+| **Kanal 6** | X           | -          | -     | X     | Reporter, Kopfhörer Mix C       |
+| **Kanal 7** | -           | -          | -     | X     | USB 1-2, Ton von VC (Mix-Minus) |
+| **Kanal 8** | -           | X          | -     | -     | Klinke für Zuspieler (Macbook)  |
+|             |             |            |       |       |                                 |
+
+**Szene Burg ON-air:**
+
+|             | Master (VC) | Mix A (PA) | Mix B | Mix C | Bemerkung                       |
+| ----------- |:-----------:|:----------:|:-----:|:-----:| ------------------------------- |
+| **Kanal 1** | X           | X          | -     | X     |                                 |
+| **Kanal 2** | X           | X          | -     | X     |                                 |
+| **Kanal 3** | X           | X          | -     | X     |                                 |
+| **Kanal 4** | X           | X          | -     | X     |                                 |
+| **Kanal 5** | -           | -          | -     | -     | Reserve, nicht genutzt          |
+| **Kanal 6** | X           | X          | -     | X     | Reporter, Kopfhörer Mix C       |
+| **Kanal 7** | -           | X          | -     | X     | USB 1-2, Ton von VC (Mix-Minus) |
+| **Kanal 8** | X           | X          | -     | X     | Klinke für Zuspieler (Macbook)  |
+|             |             |            |       |       |                                 |
+
+Hinweis: visuell werden die Szenen in OBS über ein Overlay Burg OFF-air angzeigt.
+
 ## Breakout-Räume (beschriftet mit "Hybrid Meeting Kit")
 
 *Verantwortlich: **Thomas**, Hans*
