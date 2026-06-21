@@ -16,6 +16,9 @@ Hier findet ihr häufig gestellte Fragen (Frequently Asked Questions) zur lernOS
 ??? question "**Ich habe die Email mit meinem Ticket nicht mehr, kann ich die nochmal erhalten?**"
     Na klar, einfach [im Ticketshop](https://pretix.eu/cogneon/loscon26/) auf *Link erneut senden* klicken, Email eingeben und das Ticket wird Dir nochmal zugeschickt.
 
+??? question "**Erhalte ich eine Teilnahmebestätigun (z.B. für die Personalabteilung)?**"
+    Ja, Teilnahmebestätigungen können am Tag 2 ab 08:00 Uhr direkt auf dem Online-Ticket heruntergeladen werden.
+
 ??? question "**Gibt es eine Garderobe und Möglichkeit zum Abstellen von Koffern?**"
     Ja, direkt im Foyer der Burg. Die Nutzung erfolgt auf eigenes Risiko.
 
