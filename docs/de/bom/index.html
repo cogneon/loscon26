@@ -225,6 +225,209 @@
 <li><strong>iPod</strong> (von Simon) für Musik auf Kanal 7/8 (tagsüber Moby, Abends loscon25)</li>
 <li>Kiste mit HDMI- und XLR-Kabeln</li>
 </ol>
+<p>Während des Bühnenprogramms arbeiten wir aufgrund der Erfahrungen der Vorjahre mit den zwei Szenen "Burg on-air" und "Burg off-air":</p>
+<ul>
+<li>
+<p><strong>Burg off-air</strong></p>
+</li>
+<li>
+<p>Videokonferenz auf den Lautsprechern <strong>nicht</strong> zu hören</p>
+</li>
+<li>
+<p>Mikros und Zuspieler in der Videokonferenz <strong>nicht</strong> zu hören</p>
+</li>
+<li>
+<p>Reporterplatz hört Videokonferenz und ist in Videokonferenz zu hören </p>
+</li>
+<li>
+<p><strong>Burg on-air</strong></p>
+</li>
+<li>
+<p>Videokonferenz auf den Lautsprechern zu hören</p>
+</li>
+<li>
+<p>Mikros und Zuspieler in der Videokonferenz nicht zu hören</p>
+</li>
+<li>
+<p>Reporterplatz hört Videokonferenz und ist in Videokonferenz zu hören (kann sich am Mischpult selbst muten/ent-muten)</p>
+</li>
+</ul>
+<p>Dafür verwenden wir am Audio-Mixer folgende Routing Matrix, die dort als Szenen abgespeichert sind. Wichtig: Der Master-Mix wird auf USB-Ausgang ausgegeben und ist deshalb unser Mix-Minus für die Videokonferenz (VC), Mix A geht auf die PA der Burg).</p>
+<p><strong>Szene Burg OFF-air:</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align: center;">Master (VC)</th>
+<th style="text-align: center;">Mix A (PA)</th>
+<th style="text-align: center;">Mix B</th>
+<th style="text-align: center;">Mix C</th>
+<th>Bemerkung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Kanal 1</strong></td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Kanal 2</strong></td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Kanal 3</strong></td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Kanal 4</strong></td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Kanal 5</strong></td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td>Reserve, nicht genutzt</td>
+</tr>
+<tr>
+<td><strong>Kanal 6</strong></td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">X</td>
+<td>Reporter, Kopfhörer Mix C</td>
+</tr>
+<tr>
+<td><strong>Kanal 7</strong></td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">X</td>
+<td>USB 1-2, Ton von VC (Mix-Minus)</td>
+</tr>
+<tr>
+<td><strong>Kanal 8</strong></td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td>Klinke für Zuspieler (Macbook)</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Szene Burg ON-air:</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align: center;">Master (VC)</th>
+<th style="text-align: center;">Mix A (PA)</th>
+<th style="text-align: center;">Mix B</th>
+<th style="text-align: center;">Mix C</th>
+<th>Bemerkung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Kanal 1</strong></td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">X</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Kanal 2</strong></td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">X</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Kanal 3</strong></td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">X</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Kanal 4</strong></td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">X</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Kanal 5</strong></td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td>Reserve, nicht genutzt</td>
+</tr>
+<tr>
+<td><strong>Kanal 6</strong></td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">X</td>
+<td>Reporter, Kopfhörer Mix C</td>
+</tr>
+<tr>
+<td><strong>Kanal 7</strong></td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">X</td>
+<td>USB 1-2, Ton von VC (Mix-Minus)</td>
+</tr>
+<tr>
+<td><strong>Kanal 8</strong></td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">X</td>
+<td>Klinke für Zuspieler (Macbook)</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Hinweis: visuell werden die Szenen in OBS über ein Overlay Burg OFF-air angzeigt.</p>
 <h2 id="breakout-raume-beschriftet-mit-hybrid-meeting-kit">Breakout-Räume (beschriftet mit "Hybrid Meeting Kit")</h2>
 <p><em>Verantwortlich: </em><em>Thomas</em><em>, Hans</em></p>
 <p>Vier Räume (2 groß, 2 klein), alle mit <a href="https://wiki.cogneon.de/hmk">Hybrid Meeting Kits</a> (HMK) ausgestattet.</p>
